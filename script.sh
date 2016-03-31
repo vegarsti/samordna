@@ -18,6 +18,7 @@ cut -c 5-11,83-87,93-96 data/UIO.txt |
 awk -f utils/scorelines.awk |
 sort -s -n -k 1,1 |
 python utils/6lines.py |
+# awk -f utils/6lines.awk | is also possible!
 tr ' ' ',' |
 awk -F ',' -f utils/gather.awk |
 tr ' ' ',' > tmp.csv
