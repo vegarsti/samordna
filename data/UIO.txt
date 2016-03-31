@@ -1,0 +1,664 @@
+--2009-- had to be slightly changed!
+UIO 185170 Engelsk                                             59.6 148  48.5 48  59.6 381  48.5 146
+UIO 185174 Fransk                                              52.3 26   43.8 7   54.0 72   47.1 26
+UIO 185211 Nordisk                                             53.5 42   Alle     53.5 62   Alle
+UIO 185212 Norsk som andrespråk                                48.0 15   Alle     48.0 30   Alle
+UIO 185221 Tegnspråk og tolking, årsenhet                      55.1 46   43.6 9   55.1 115  43.6 18
+UIO 185222 Tverrfaglige kjønnsstudier, årsenhet                52.4 22   34.7 2   53.5 56   40.0 10
+UIO 185226 Informatikk, avbildning                             Alle      Alle     Alle      Alle
+UIO 185233 Realfag                                             Alle      Alle     Alle      Alle
+UIO 185272 Kunsthistorie, årsenhet                             56.3 80   44.6 17  56.3 184  44.6 41
+UIO 185306 Matematikk, informatikk og teknologi                Alle      Alle     Alle      Alle
+UIO 185308 Kultur og kommunikasjon                             52.8 191  47.7 72  52.8 384  47.7 161
+UIO 185327 Biologi                                             Alle      Alle     Alle      Alle
+UIO 185395 Informatikk, 3-årig                                 Alle      Alle     Alle      Alle
+UIO 185437 Musikkvitenskap                                     o.i.      o.i.     o.i.      o.i.
+UIO 185438 Samfunnsgeografi                                    51.8 57   39.5 9   51.8 118  39.5 30
+UIO 185439 Estetiske studier                                   48.7 62   38.8 8   48.7 127  38.8 18
+UIO 185452 Offentlig administrasjon og ledelse                 50.3 164  43.4 63  50.3 406  43.4 178
+UIO 185455 Språk                                               50.2 162  Alle     50.2 285  Alle
+UIO 185456 Litteraturstudier                                   52.2 53   Alle     52.2 95   Alle
+UIO 185459 Antikk kultur og klassisk tradisjon                 45.4 16   Alle     45.4 33   Alle
+UIO 185462 Kunsthistorie                                       46.9 30   32.5 1   46.9 64   Alle
+UIO 185465 Helseledelse og helseøkonomi                        50.4 58   38.0 7   50.4 117  38.0 13
+UIO 185466 Tegnspråk og tolking                                47.4 30   40.0 4   47.4 50   40.0 7
+UIO 185478 Arkeologi                                           46.3 54   36.7 10  46.3 93   36.7 18
+UIO 185479 Filosofi og idéhistorie                             48.2 77   34.1 5   48.2 139  34.1 10
+UIO 185480 Teologi og kristendom                               Alle      Alle     Alle      Alle
+UIO 185481 Historie                                            47.3 99   33.8 2   47.3 185  33.8 8
+UIO 185482 Religionsstudier                                    37.6 8    Alle     37.6 9    Alle
+UIO 185601 Arkivkunnskap, årsenhet                             49.6 18   Alle     49.6 36   Alle
+UIO 185615 Allmenn litteraturvitenskap                         53.8 42   42.0 3   53.8 98   42.0 15
+UIO 185626 Kristendom, årsenhet                                Alle      Alle     Alle      Alle
+UIO 185690 Tysk                                                44.3 9    Alle     47.0 28   Alle
+UIO 185698 Samfunnsøkonomi                                     53.8 62   50.1 38  53.8 182  50.1 111
+UIO 185707 Farmasi                                             52.0 37   49.1 23  52.0 55   49.1 39
+UIO 185708 Ernæring                                            64.4 120  56.6 73  64.4 202  56.6 127
+UIO 185724 Rettsvitenskap (jus), start høst                    58.0 980  51.2 518 58.0 2054 51.2 1113
+UIO 185725 Rettsvitenskap (jus), start vår                     54.7 781  48.8 423 54.7 1438 48.8 790
+UIO 185742 Odontologi, start høst                              65.2 236  56.8 119 65.2 379  56.8 199
+UIO 185748 Odontologi, start vår                               64.4 225  55.3 114 64.4 348  55.3 183
+UIO 185752 Psykologi, årsenhet                                 56.2 384  50.5 179 56.2 901  50.5 444
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           Alle      Alle     Alle      Alle
+UIO 185829 Informatikk, distribuerte systemer og nettverk      Alle      Alle     Alle      Alle
+UIO 185830 Informatikk, systemutvikling: modellering og prog.  43.3 4    44.3 2   43.3 7    44.3 3
+UIO 185831 Informatikk, simulering og visualisering            Alle      Alle     Alle      Alle
+UIO 185832 Informatikk, nano- og mikroelektronikk              Alle      Alle     Alle      Alle
+UIO 185837 IT - språk, logikk, psykologi                       44.7 34   29.3 1   44.7 58   Alle
+UIO 185840 Teknologi, organisasjon og læring                   44.7 21   Alle     44.7 47   Alle
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    46.7 46   38.8 11  46.7 85   38.8 27
+UIO 185843 Lektorprogrammet, realfag                           Alle      Alle     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             44.9 16   44.1 12  44.9 27   44.1 19
+UIO 185845 Digitale medier                                     46.0 62   38.9 14  46.0 145  38.9 52
+UIO 185851 Medievitenskap                                      51.2 136  43.9 47  51.2 283  43.9 115
+UIO 185852 Pedagogikk                                          44.9 160  30.3 3   44.9 276  30.3 11
+UIO 185853 Spesialpedagogikk                                   42.8 96   Alle     42.8 154  Alle
+UIO 185856 Elektronikk og datateknologi                        Alle      Alle     Alle      Alle
+UIO 185857 Fysikk, astronomi og meteorologi                    Alle      Alle     Alle      Alle
+UIO 185858 Geofag: geologi, geofysikk og geografi              Alle      Alle     Alle      Alle
+UIO 185860 Kjemi                                               Alle      Alle     Alle      Alle
+UIO 185862 Matematikk og økonomi                               38.8 1    34.8 1   Alle      Alle
+UIO 185863 Materialer, energi og nanoteknologi                 Alle      Alle     Alle      Alle
+UIO 185865 Molekylærbiologi og biologisk kjemi                 39.8 4    43.5 3   39.8 9    43.5 4
+UIO 185868 Asiatiske og afrikanske studier                     47.2 89   35.2 5   47.2 156  35.2 14
+UIO 185870 Europastudier (EU)                                  48.1 73   43.8 21  48.1 158  43.8 55
+UIO 185871 Europeiske og amerikanske studier                   48.9 89   38.5 7   48.9 179  38.5 23
+UIO 185872 Internasjonale studier                              58.7 263  54.5 123 58.7 577  54.5 283
+UIO 185873 Tverrfaglige kjønnsstudier                          46.3 23   36.4 4   46.3 37   36.4 7
+UIO 185874 Kriminologi                                         51.6 373  46.7 158 51.6 828  46.7 398
+UIO 185876 Psykologi                                           55.6 391  46.4 145 55.6 839  46.4 352
+UIO 185879 Sosialantropologi                                   49.2 132  39.6 24  49.2 252  39.6 59
+UIO 185880 Sosiologi                                           49.8 204  41.2 39  49.8 407  41.2 107
+UIO 185881 Statsvitenskap                                      51.6 273  45.8 100 51.6 594  45.8 267
+UIO 185883 Utviklingsstudier                                   51.0 114  46.9 35  51.0 254  46.9 91
+UIO 185898 Samfunnsøkonomi, 3-årig                             56.0 193  45.1 72  56.0 468  45.1 186
+UIO 185899 Tannpleie                                           50.7 109  44.7 28  50.7 170  44.7 51
+UIO 185904 Kulturarv og bevaringskunnskap                      38.9 2    Alle     38.9 6    Alle
+UIO 185912 Spansk                                              60.7 80   46.9 16  60.7 183  46.9 43
+UIO 185929 Religionshistorie og kulturhistorie                 37.3 8    Alle     37.3 10   Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      Alle      Alle     Alle      Alle
+UIO 185940 Informatikk, robotikk og intelligente systemer      50.2 7    49.7 7   50.2 15   49.7 12
+UIO 185941 Psykologi profesjon, start høst                     65.5 439  56.4 195 65.5 1061 56.4 509
+UIO 185942 Psykologi profesjon, start vår                      63.7 379  54.6 174 63.7 777  54.6 377
+
+--2010--
+UIO 185170 Engelsk, årsstudium                                 59.9 158  49.0 63  59.9 473  49.0 190
+UIO 185174 Fransk, årsstudium                                  58.0 40   47.2 16  58.0 126  47.2 49
+UIO 185179 Historie, årsenhet                                  53.9 149  42.1 37  55.0 409  43.4 114
+UIO 185211 Nordisk, særlig norsk språk og litteratur, årsenhe  55.3 47   Alle     55.3 91   Alle
+UIO 185212 Norsk som andrespråk, årsstudium                    48.2 13   o.i.     49.3 27   o.i.
+UIO 185221 Tegnspråk, årsenhet                                 55.6 42   41.6 4   55.6 134  41.6 21
+UIO 185222 Tverrfaglige kjønnsstudier, årsenhet                51.8 24   40.2 6   52.9 77   41.9 16
+UIO 185233 Realfag, årsenhet                                   Alle      Alle     Alle      Alle
+UIO 185272 Kunsthistorie, årsenhet                             55.7 81   45.3 17  56.7 251  46.9 75
+UIO 185306 Matematikk, informatikk og teknologi                Alle      Alle     Alle      Alle
+UIO 185308 Kultur og kommunikasjon                             52.9 219  48.4 106 52.9 555  48.4 282
+UIO 185327 Biologi                                             Alle      Alle     Alle      Alle
+UIO 185437 Musikkvitenskap                                     o.i.      o.i.     o.i.      o.i.
+UIO 185438 Samfunnsgeografi                                    51.3 69   42.1 27  51.3 157  42.1 56
+UIO 185439 Estetiske studier                                   48.4 28   32.6 1   50.0 103  37.4 17
+UIO 185452 Offentlig administrasjon og ledelse                 52.1 231  45.0 96  52.1 598  45.0 285
+UIO 185459 Antikk kultur og klassiske språk                    46.0 15   38.1 6   46.0 38   38.1 16
+UIO 185462 Kunsthistorie                                       48.8 50   35.4 5   48.8 112  35.4 13
+UIO 185464 Informatikk: tekniske og naturvitenskaplige anvend  Alle      Alle     Alle      Alle
+UIO 185465 Helseledelse og helseøkonomi                        50.4 83   40.0 22  50.4 173  40.0 61
+UIO 185466 Tegnspråk og tolking                                52.4 41   39.3 4   52.4 93   39.3 14
+UIO 185478 Arkeologi                                           47.2 75   39.2 25  47.6 168  40.5 72
+UIO 185479 Filosofi og idéhistorie                             49.1 87   40.4 25  49.1 187  40.4 52
+UIO 185480 Teologi og kristendom                               Alle      Alle     Alle      Alle
+UIO 185481 Historie                                            48.1 125  38.2 35  48.1 257  38.2 81
+UIO 185482 Religion og samfunn                                 47.5 28   37.4 3   47.5 73   37.4 10
+UIO 185582 Japansk med Japanstudier                            49.4 105  43.7 46  49.4 183  43.7 66
+UIO 185592 Kinesisk med Kinastudier                            47.0 50   40.0 18  47.0 93   40.0 34
+UIO 185595 Midtøstenstudier med hebraisk                       51.6 5    Alle     51.6 14   35.2 2
+UIO 185598 Midtøstenstudier med persisk                        48.2 16   Alle     48.2 28   Alle
+UIO 185601 Arkivkunnskap, årsenhet                             52.8 31   Alle     52.8 57   Alle
+UIO 185615 Allmenn litteraturvitenskap                         54.0 31   42.2 1   54.0 98   42.2 15
+UIO 185626 Kristendom, årsenhet                                45.5 7    Alle     45.5 24   Alle
+UIO 185690 Tysk, årsenhet                                      Alle      Alle     51.2 33   Alle
+UIO 185694 Sør-Asiastudier med hindi                           Alle      Alle     Alle      Alle
+UIO 185695 Sør-Asiastudier med sanskrit                        Alle      Alle     Alle      Alle
+UIO 185698 Samfunnsøkonomisk analyse, 5-årig                   53.0 58   48.7 33  53.0 122  48.7 78
+UIO 185707 Farmasi                                             46.3 30   47.3 23  46.3 51   47.3 38
+UIO 185708 Ernæring                                            63.4 102  55.9 60  63.4 215  56.3 137
+UIO 185724 Rettsvitenskap (jus), start høst                    58.4 1204 52.0 657 58.4 2609 52.0 1506
+UIO 185725 Rettsvitenskap (jus), start vår                     55.2 1002 49.6 534 55.2 1981 49.6 1106
+UIO 185742 Odontologi, start høst                              65.2 213  55.8 121 65.2 379  56.0 221
+UIO 185748 Odontologi, start vår                               64.1 213  54.8 119 64.1 345  54.8 193
+UIO 185752 Psykologi, årsenhet                                 56.2 451  50.7 245 56.2 1161 50.7 626
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           42.4 5    40.7 4   42.4 15   40.7 13
+UIO 185829 Informatikk: programmering og nettverk              40.0 25   37.9 11  40.0 43   37.9 17
+UIO 185830 Informatikk: design, bruk og interaksjon            46.8 97   38.2 24  46.8 223  38.2 64
+UIO 185832 Informatikk: nanoelektronikk og robotikk            41.9 13   42.4 6   41.9 35   42.4 14
+UIO 185837 Informatikk: språk og kommunikasjon                 Alle      Alle     Alle      Alle
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    47.2 77   42.3 37  47.2 180  42.3 89
+UIO 185843 Lektorprogrammet, realfag                           Alle      Alle     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             52.1 93   46.0 56  52.1 184  46.0 125
+UIO 185851 Medievitenskap                                      50.8 158  44.6 73  50.8 405  44.6 191
+UIO 185852 Pedagogikk                                          46.4 214  35.8 41  46.4 460  35.8 114
+UIO 185853 Spesialpedagogikk                                   48.0 162  33.7 16  48.0 349  33.7 43
+UIO 185856 Elektronikk og datateknologi                        Alle      Alle     Alle      Alle
+UIO 185857 Fysikk, astronomi og meteorologi                    42.2 9    46.3 6   42.2 18   46.3 13
+UIO 185858 Geofag: geologi, geofysikk og geografi              41.3 8    40.5 5   41.3 11   40.5 8
+UIO 185860 Kjemi                                               Alle      Alle     Alle      Alle
+UIO 185862 Matematikk og økonomi                               48.6 11   Alle     48.6 28   34.7 3
+UIO 185863 Materialer, energi og nanoteknologi                 Alle      Alle     Alle      Alle
+UIO 185865 Molekylærbiologi og biologisk kjemi                 40.7 2    Alle     40.7 8    44.3 5
+UIO 185868 Sør-Asia områdestudier                              41.5 8    Alle     46.8 39   29.7 2
+UIO 185870 Europastudier (EU)                                  50.9 123  46.0 49  50.9 289  46.0 131
+UIO 185871 Europeiske og amerikanske studier:språk, litt, omr  o.i.      o.i.     Alle      Alle
+UIO 185872 Internasjonale studier                              59.2 275  54.0 132 59.2 666  54.0 361
+UIO 185873 Tverrfaglige kjønnsstudier                          44.0 4    Alle     45.0 26   34.0 7
+UIO 185874 Kriminologi                                         52.8 499  46.6 248 52.8 1192 46.6 627
+UIO 185876 Psykologi                                           55.0 529  47.0 274 55.0 1276 47.0 654
+UIO 185879 Sosialantropologi                                   49.7 192  43.9 92  49.7 463  43.9 213
+UIO 185880 Sosiologi                                           50.8 313  44.0 138 50.8 716  44.0 348
+UIO 185881 Statsvitenskap                                      52.9 343  47.4 160 52.9 819  47.4 413
+UIO 185883 Utviklingsstudier                                   50.7 147  47.8 76  50.7 359  47.8 194
+UIO 185889 Nordiske studier                                    41.4 7    Alle     41.4 10   Alle
+UIO 185893 Lingvistikk                                         49.0 12   39.5 1   52.4 41   41.1 7
+UIO 185898 Samfunnsøkonomi                                     53.9 217  46.9 121 53.9 580  46.9 343
+UIO 185899 Tannpleie                                           52.8 103  42.6 36  52.8 212  42.6 72
+UIO 185912 Spansk                                              58.1 65   45.5 14  58.1 204  45.5 49
+UIO 185922 Allmenn litteraturvitenskap                         51.7 29   39.2 4   51.7 76   39.2 13
+UIO 185923 Midtøstenstudier med arabisk                        49.9 61   36.2 6   49.9 120  36.2 9
+UIO 185929 Religionshistorie og kulturhistorie                 38.8 14   Alle     38.8 23   Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      Alle      Alle     Alle      Alle
+UIO 185941 Psykologi profesjon, start høst                     65.3 547  56.4 269 65.3 1270 56.4 683
+UIO 185942 Psykologi profesjon, start vår                      64.2 481  55.0 238 64.2 979  55.1 525
+
+--2011--
+UIO 185170 Engelsk, årsstudium                                 58.7 172  47.9 62  58.7 510  47.9 191
+UIO 185174 Fransk, årsstudium                                  55.9 34   47.3 7   55.9 113  47.3 30
+UIO 185179 Historie, årsstudium                                57.1 162  44.4 44  57.1 417  44.4 112
+UIO 185211 Nordisk, særlig norsk språk og litteratur, års      57.8 51   Alle     57.8 117  Alle
+UIO 185212 Norsk som andrespråk, årsstudium                    51.2 18   Alle     51.2 34   Alle
+UIO 185221 Tegnspråk, årsstudium                               TRU       TRU      TRU       TRU
+UIO 185222 Tverrfaglige kjønnsstudier, årsstudium              53.3 24   40.6 4   53.8 80   42.6 20
+UIO 185233 Realfag, årsstudium                                 Alle      Alle     Alle      Alle
+UIO 185272 Kunsthistorie, årsstudium                           56.7 86   46.8 25  56.7 245  46.8 70
+UIO 185306 Matematikk, informatikk og teknologi                Alle      Alle     Alle      Alle
+UIO 185308 Kultur og kommunikasjon                             53.0 218  48.6 107 53.0 539  48.6 277
+UIO 185327 Biologi                                             44.4 18   41.1 9   44.4 37   41.1 21
+UIO 185437 Musikkvitenskap                                     Alle      Alle     Alle      Alle
+UIO 185438 Samfunnsgeografi                                    52.5 68   41.8 26  52.5 146  41.8 46
+UIO 185439 Estetiske studier                                   50.6 30   Alle     50.6 98   37.5 12
+UIO 185452 Offentlig administrasjon og ledelse                 54.2 259  46.4 118 54.2 709  46.4 344
+UIO 185455 Portugisisk                                         42.4 3    Alle     42.4 9    Alle
+UIO 185459 Antikk kultur og klassiske språk                    46.5 18   Alle     46.8 48   35.3 6
+UIO 185461 Midtøstenstudier med tyrkisk                        Alle      Alle     Alle      Alle
+UIO 185462 Kunsthistorie                                       49.0 40   Alle     49.0 89   Alle
+UIO 185464 Informatikk: tekniske og naturvitenskaplige anv.    Alle      Alle     Alle      Alle
+UIO 185465 Helseledelse og helseøkonomi                        53.5 74   38.5 21  53.5 176  38.5 46
+UIO 185466 Tegnspråk og tolking                                TRU       TRU      TRU       TRU
+UIO 185478 Arkeologi                                           47.0 59   36.8 7   48.5 189  40.5 57
+UIO 185479 Filosofi og idéhistorie                             48.3 67   35.3 7   48.4 163  38.4 35
+UIO 185480 Teologi og kristendom                               Alle      Alle     Alle      Alle
+UIO 185481 Historie                                            48.3 107  36.2 11  48.3 276  36.2 43
+UIO 185482 Religion og samfunn                                 45.0 32   32.3 4   45.0 63   32.3 9
+UIO 185483 Russisk                                             38.0 2    Alle     38.0 3    Alle
+UIO 185565 Italiensk                                           41.3 3    Alle     41.3 11   Alle
+UIO 185582 Japansk med Japan-studier                           49.5 76   41.2 23  49.7 160  41.5 63
+UIO 185592 Kinesisk med Kina-studier                           52.4 51   41.9 16  52.4 141  41.9 43
+UIO 185601 Arkivkunnskap, årsstudium                           53.3 44   Alle     53.9 81   Alle
+UIO 185604 Medievitenskap, årsstudium                          56.3 149  46.8 51  56.3 457  46.8 179
+UIO 185615 Allmenn litteraturvitenskap, årsstudium             56.7 47   45.0 8   56.7 123  45.0 29
+UIO 185626 Kristendom, årsstudium                              47.8 8    36.4 1   47.8 23   36.4 1
+UIO 185690 Tysk, årsstudium                                    51.8 16   Alle     51.8 56   Alle
+UIO 185698 Samfunnsøkonomisk analyse, 5-årig                   55.0 52   49.2 30  55.0 128  49.2 79
+UIO 185707 Farmasi                                             50.4 51   46.9 35  50.4 89   46.9 58
+UIO 185708 Master i klinisk ernæring, start høst               TRU       TRU      TRU       TRU
+UIO 185713 Master i klinisk ernæring, start vår                63.0 99   52.8 39  63.0 157  52.8 71
+UIO 185724 Rettsvitenskap (jus), start høst                    58.1 1211 51.5 600 58.1 2691 51.5 1405
+UIO 185725 Rettsvitenskap (jus), start vår                     55.7 1005 49.3 492 55.7 2040 49.3 1043
+UIO 185740 Medisin, start høst                                 68.0 723  59.0 404 68.0 1261 59.0 719
+UIO 185742 Odontologi, start høst                              63.9 212  54.4 107 63.9 379  54.4 194
+UIO 185745 Medisin, start vår                                  66.1 659  57.6 362 66.1 1089 57.6 609
+UIO 185748 Odontologi, start vår                               TRU       TRU      TRU       TRU
+UIO 185752 Psykologi, årsstudium                               57.0 511  50.7 261 57.0 1413 50.7 764
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185786 Nederlandsk                                         TRU       TRU      TRU       TRU
+UIO 185793 Fransk                                              Alle      Alle     40.4 5    Alle
+UIO 185795 Tysk                                                Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           Alle      Alle     Alle      Alle
+UIO 185829 Informatikk: programmering og nettverk              Alle      Alle     Alle      Alle
+UIO 185830 Informatikk: design, bruk og interaksjon            46.0 60   37.6 21  46.0 168  37.6 55
+UIO 185832 Informatikk: nanoelektronikk og robotikk            38.8 6    40.0 3   38.8 10   40.0 5
+UIO 185837 Informatikk: språk og kommunikasjon                 45.5 36   31.3 1   45.5 97   31.3 4
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    50.0 84   41.8 31  50.0 218  41.8 96
+UIO 185843 Lektorprogrammet, realfag                           Alle      Alle     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             49.3 58   45.8 39  49.3 147  45.8 91
+UIO 185851 Medievitenskap                                      50.2 119  44.3 58  50.2 364  44.3 173
+UIO 185852 Pedagogikk                                          46.5 223  36.2 55  46.5 476  36.2 129
+UIO 185853 Spesialpedagogikk                                   46.4 206  36.3 55  46.4 388  36.3 111
+UIO 185856 Elektronikk og datateknologi                        Alle      Alle     Alle      Alle
+UIO 185857 Fysikk, astronomi og meteorologi                    40.9 5    43.0 2   40.9 10   43.0 4
+UIO 185858 Geofag: geologi, geofysikk og geografi              43.8 16   43.4 7   43.8 25   43.4 14
+UIO 185860 Kjemi                                               Alle      Alle     Alle      Alle
+UIO 185862 Matematikk og økonomi                               51.8 18   41.1 3   51.8 54   41.1 12
+UIO 185863 Materialer, energi og nanoteknologi                 Alle      Alle     Alle      Alle
+UIO 185865 Molekylærbiologi og biologisk kjemi                 41.7 8    42.6 1   41.7 14   42.6 6
+UIO 185868 India områdestudier                                 42.8 10   Alle     48.0 37   Alle
+UIO 185870 Europastudier (EU)                                  51.8 87   46.3 46  51.8 265  46.3 131
+UIO 185872 Internasjonale studier                              58.1 254  54.4 126 58.1 656  54.4 362
+UIO 185873 Tverrfaglige kjønnsstudier                          45.0 23   Alle     47.6 67   38.3 11
+UIO 185874 Kriminologi                                         53.3 466  47.5 239 53.3 1179 47.5 643
+UIO 185876 Psykologi                                           55.9 590  47.5 258 55.9 1485 47.5 744
+UIO 185879 Sosialantropologi                                   50.2 186  42.5 65  50.2 417  42.5 150
+UIO 185880 Sosiologi                                           50.4 263  43.7 110 50.4 670  43.7 281
+UIO 185881 Statsvitenskap                                      54.2 339  47.6 159 54.2 812  47.6 402
+UIO 185883 Utviklingsstudier                                   51.7 122  47.4 49  51.7 327  47.4 150
+UIO 185889 Nordiske studier                                    46.9 15   Alle     46.9 31   Alle
+UIO 185893 Lingvistikk                                         55.7 21   42.7 1   55.7 52   42.7 7
+UIO 185898 Samfunnsøkonomi                                     55.5 240  46.8 107 55.5 681  46.8 349
+UIO 185899 Tannpleie                                           54.2 98   42.7 29  54.2 202  42.7 70
+UIO 185904 Kulturarv og bevaringskunnskap                      49.8 22   Alle     49.8 51   33.7 1
+UIO 185912 Spansk, årsstudium                                  56.7 58   45.5 14  60.2 197  46.8 52
+UIO 185918 Latin-Amerika-studier                               42.0 9    Alle     45.5 33   Alle
+UIO 185919 Nord-Amerika-studier                                44.6 24   37.7 5   44.8 69   38.9 16
+UIO 185920 Engelsk                                             51.6 56   40.1 16  51.6 160  40.1 54
+UIO 185922 Allmenn litteraturvitenskap                         50.9 34   41.2 6   50.9 76   41.2 13
+UIO 185923 Midtøsten-studier med arabisk                       52.0 55   35.4 1   52.0 117  35.4 6
+UIO 185924 Spansk                                              49.3 19   Alle     52.8 62   Alle
+UIO 185929 Religionshistorie og kulturhistorie                 42.0 19   Alle     42.0 44   Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      Alle      Alle     Alle      Alle
+UIO 185941 Psykologi profesjon, start høst                     64.9 659  56.1 324 64.9 1471 56.1 791
+UIO 185942 Psykologi profesjon, start vår                      63.0 535  55.3 268 63.0 1087 55.3 584
+
+--2012--
+UIO 185073 Idéhistorie                                         49.0 30   30.0 1   49.0 80   30.0 3
+UIO 185074 Norrøne og keltiske studier                         50.9 5    34.3 1   50.9 17   34.3 1
+UIO 185170 Engelsk, årsstudium                                 58.8 163  47.7 41  58.8 470  47.7 145
+UIO 185174 Fransk, årsstudium                                  55.0 30   39.9 3   55.0 88   39.9 7
+UIO 185179 Historie, årsstudium                                55.8 140  43.9 29  55.8 356  43.9 90
+UIO 185211 Nordisk, særlig norsk språk og litteratur           56.8 52   Alle     56.8 110  Alle
+UIO 185212 Norsk som andrespråk                                52.3 13   Alle     52.3 28   Alle
+UIO 185222 Tverrfaglige kjønnsstudier, årsstudium              51.9 28   41.1 7   51.9 69   41.1 19
+UIO 185233 Realfag                                             Alle      Alle     Alle      Alle
+UIO 185238 Statsvitenskap, årsstudium                          56.5 249  46.8 59  56.5 590  46.8 188
+UIO 185272 Kunsthistorie, årsstudium                           56.9 63   45.4 9   57.1 190  46.3 34
+UIO 185306 Matematikk, informatikk og teknologi                Alle      o.i.     Alle      Alle
+UIO 185308 Kultur og kommunikasjon                             53.6 236  48.8 110 53.6 540  48.8 249
+UIO 185327 Biologi                                             Alle      Alle     Alle      Alle
+UIO 185437 Musikkvitenskap                                     39.0 2    44.6 2   39.0 2    44.6 2
+UIO 185438 Samfunnsgeografi                                    49.6 47   41.1 10  49.6 100  41.1 27
+UIO 185439 Estetiske studier                                   37.5 2    Alle     48.4 49   Alle
+UIO 185452 Offentlig administrasjon og ledelse                 54.8 279  46.2 114 54.8 677  46.2 319
+UIO 185455 Portugisisk                                         38.9 4    Alle     38.9 5    Alle
+UIO 185459 Antikk kultur og klassiske språk                    Alle      Alle     44.2 31   Alle
+UIO 185462 Kunsthistorie                                       44.6 21   Alle     46.3 62   Alle
+UIO 185465 Helseledelse og helseøkonomi                        52.0 75   38.3 13  52.0 171  38.3 38
+UIO 185478 Arkeologi                                           45.1 37   33.7 7   46.3 141  36.8 40
+UIO 185479 Filosofi                                            48.8 60   38.6 9   49.4 180  39.6 35
+UIO 185480 Teologi og kristendom                               Alle      Alle     Alle      Alle
+UIO 185481 Historie                                            47.2 93   32.9 4   47.2 208  32.9 19
+UIO 185482 Religion og samfunn                                 Alle      Alle     45.9 37   Alle
+UIO 185483 Russisk                                             40.1 3    Alle     40.1 9    Alle
+UIO 185565 Italiensk                                           40.6 7    31.5 1   41.0 18   Alle
+UIO 185582 Japansk med Japan-studier                           46.0 43   35.7 6   46.0 90   36.8 19
+UIO 185592 Kinesisk med Kina-studier                           49.8 29   32.6 1   51.2 105  41.2 27
+UIO 185595 Midtøsten-studier med hebraisk                      45.7 6    Alle     45.7 14   Alle
+UIO 185598 Midtøsten-studier med persisk                       43.2 7    Alle     46.9 25   Alle
+UIO 185601 Arkivkunnskap                                       53.9 39   Alle     54.0 87   Alle
+UIO 185604 Medievitenskap, årsstudium                          55.0 109  43.4 24  55.9 331  46.0 107
+UIO 185615 Allmenn litteraturvitenskap, årsstudium             54.0 43   44.3 7   54.0 96   44.3 14
+UIO 185626 Kristendom                                          Alle      Alle     Alle      Alle
+UIO 185690 Tysk, årsstudium                                    49.6 14   Alle     49.6 28   Alle
+UIO 185694 India-studier med hindi                             Alle      Alle     Alle      Alle
+UIO 185698 Samfunnsøkonomisk analyse                           52.2 33   45.7 11  52.2 84   45.7 43
+UIO 185707 Farmasi                                             50.5 52   47.2 34  50.5 83   47.2 60
+UIO 185713 Klinisk ernæring, start vår                         61.3 82   52.5 36  61.3 147  52.5 68
+UIO 185724 Rettsvitenskap (jus), start høst                    59.4 1304 52.3 635 59.4 2997 52.3 1503
+UIO 185725 Rettsvitenskap (jus), start vår                     57.2 1136 49.6 528 57.2 2348 49.6 1148
+UIO 185740 Medisin, start høst                                 67.7 729  58.7 359 67.7 1302 58.7 640
+UIO 185742 Odontologi                                          64.6 270  54.3 136 64.6 439  54.3 225
+UIO 185745 Medisin, start vår                                  66.6 698  56.9 354 66.6 1207 56.9 594
+UIO 185752 Psykologi, årsstudium                               55.3 438  50.0 191 55.3 1182 50.0 590
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185793 Fransk                                              Alle      Alle     42.9 16   Alle
+UIO 185795 Tysk                                                Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           41.9 6    38.8 5   41.9 10   38.8 8
+UIO 185829 Informatikk: programmering og nettverk              35.0 1    Alle     35.0 4    Alle
+UIO 185830 Informatikk: design, bruk og interaksjon            50.9 137  38.3 28  50.9 281  38.3 66
+UIO 185832 Informatikk: nanoelektronikk og robotikk            Alle      Alle     Alle      Alle
+UIO 185837 Informatikk: språk og kommunikasjon                 45.0 42   Alle     45.0 78   Alle
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    48.6 56   41.8 19  48.6 152  41.8 61
+UIO 185843 Lektorprogrammet, realfag                           Alle      Alle     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             49.2 74   45.2 47  49.2 165  45.2 115
+UIO 185851 Medievitenskap                                      50.7 151  44.6 64  50.8 391  44.7 171
+UIO 185852 Pedagogikk                                          47.0 209  34.7 31  47.0 465  34.7 82
+UIO 185853 Spesialpedagogikk                                   46.8 156  34.1 15  46.8 335  34.1 41
+UIO 185856 Elektronikk og datateknologi                        o.i.      o.i.     Alle      Alle
+UIO 185857 Fysikk, astronomi og meteorologi                    39.4 1    40.7 1   39.4 4    40.7 3
+UIO 185858 Geofag: geologi, geofysikk og geografi              48.3 28   44.2 17  48.3 65   44.2 39
+UIO 185860 Kjemi                                               41.1 4    41.4 3   41.1 6    41.4 4
+UIO 185862 Matematikk og økonomi                               54.0 16   38.7 2   54.0 35   38.7 5
+UIO 185863 Materialer, energi og nanoteknologi                 Alle      Alle     Alle      Alle
+UIO 185865 Molekylærbiologi og biologisk kjemi                 Alle      Alle     Alle      Alle
+UIO 185868 India områdestudier                                 Alle      Alle     34.7 1    Alle
+UIO 185870 Europastudier (EU)                                  50.4 70   45.4 36  50.4 162  45.4 75
+UIO 185871 Sentral-Europa- og Balkan-studier                   42.0 5    Alle     43.0 13   Alle
+UIO 185872 Internasjonale studier                              58.8 224  53.8 104 58.8 538  53.8 291
+UIO 185873 Tverrfaglige kjønnsstudier                          Alle      Alle     44.1 19   Alle
+UIO 185874 Kriminologi                                         53.9 445  46.7 203 53.9 1124 46.7 585
+UIO 185876 Psykologi                                           55.5 592  47.3 251 55.5 1362 47.3 654
+UIO 185879 Sosialantropologi                                   49.1 117  41.3 27  49.1 304  41.3 107
+UIO 185880 Sosiologi                                           50.9 237  43.0 73  50.9 540  43.0 184
+UIO 185881 Statsvitenskap                                      53.8 295  47.4 120 53.8 651  47.4 312
+UIO 185883 Utviklingsstudier                                   50.6 99   45.7 32  50.6 237  45.7 89
+UIO 185889 Nordisk språk og lit. og norsk som andrespråk       38.5 1    Alle     38.5 1    Alle
+UIO 185893 Lingvistikk                                         52.0 15   Alle     53.5 36   38.6 1
+UIO 185898 Samfunnsøkonomi                                     56.6 229  46.5 93  56.6 624  46.5 303
+UIO 185899 Tannpleie                                           53.0 101  43.7 26  53.0 216  43.7 69
+UIO 185909 Retorikk og språklig kommunikasjon                  52.2 27   38.8 2   53.6 85   42.0 16
+UIO 185912 Spansk, årsstudium                                  57.0 81   46.5 16  57.0 215  46.5 49
+UIO 185918 Latin-Amerika-studier                               Alle      Alle     44.5 27   Alle
+UIO 185919 Nord-Amerika-studier                                Alle      Alle     41.0 10   Alle
+UIO 185920 Engelsk                                             51.0 52   38.8 8   51.0 106  38.8 21
+UIO 185922 Allmenn litteraturvitenskap                         54.4 31   40.9 5   54.4 79   41.9 14
+UIO 185923 Midtøsten-studier med arabisk                       50.4 36   Alle     50.4 82   Alle
+UIO 185924 Spansk                                              49.3 13   Alle     50.5 52   Alle
+UIO 185929 Religionshistorie og kulturhistorie                 Alle      Alle     30.7 1    Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      Alle      Alle     Alle      Alle
+UIO 185941 Psykologi profesjon, start høst                     64.3 665  55.6 306 64.3 1501 55.6 731
+UIO 185942 Psykologi profesjon, start vår                      62.6 579  53.8 265 62.6 1103 53.8 507
+
+--2013--
+UIO 185073 Idéhistorie                                         45.6 12   Alle     45.6 38   Alle
+UIO 185074 Norrøne og keltiske studier                         Alle      Alle     45.6 9    Alle
+UIO 185170 Engelsk, årsstudium                                 57.3 143  45.4 41  57.3 395  45.4 127
+UIO 185174 Fransk, årsstudium                                  48.5 12   Alle     53.6 62   Alle
+UIO 185179 Historie, årsstudium                                55.1 126  41.1 27  55.1 312  41.1 59
+UIO 185200 Kulturhistorie                                      43.7 14   Alle     45.7 44   Alle
+UIO 185211 Nordisk, særlig norsk språk og litteratur           51.6 25   Alle     57.0 101  Alle
+UIO 185212 Norsk som andrespråk                                48.1 12   Alle     48.1 25   Alle
+UIO 185222 Tverrfaglige kjønnsstudier, årsstudium              50.0 11   39.6 1   53.0 55   43.4 17
+UIO 185233 Realfag                                             Alle      Alle     Alle      Alle
+UIO 185238 Statsvitenskap, årsstudium                          56.5 127  47.0 39  56.5 339  47.0 116
+UIO 185240 Sosiologi, årsstudium                               53.6 218  45.9 79  53.6 601  45.9 236
+UIO 185272 Kunsthistorie, årsstudium                           52.6 43   40.2 6   53.2 163  44.3 36
+UIO 185306 Matematikk, informatikk og teknologi                Alle      Alle     Alle      Alle
+UIO 185308 Kultur og kommunikasjon                             52.6 157  47.6 70  52.6 408  47.6 195
+UIO 185327 Biologi                                             Alle      Alle     Alle      Alle
+UIO 185437 Musikkvitenskap                                     Alle      Alle     Alle      Alle
+UIO 185438 Samfunnsgeografi                                    48.6 29   40.8 8   48.6 87   40.8 28
+UIO 185439 Estetiske studier                                   Alle      Alle     41.6 23   Alle
+UIO 185452 Offentlig administrasjon og ledelse                 54.3 207  44.5 68  54.3 584  44.5 252
+UIO 185455 Portugisisk                                         Alle      Alle     Alle      Alle
+UIO 185459 Antikk kultur og klassiske språk                    41.6 8    Alle     41.6 26   Alle
+UIO 185461 Midtøsten-studier med tyrkisk                       Alle      Alle     Alle      Alle
+UIO 185462 Kunsthistorie                                       38.0 4    Alle     38.0 8    Alle
+UIO 185465 Helseledelse og helseøkonomi                        51.8 95   38.8 15  51.8 214  38.8 54
+UIO 185478 Arkeologi                                           46.0 44   34.8 8   46.0 117  34.8 18
+UIO 185479 Filosofi                                            46.9 33   Alle     49.3 98   33.0 3
+UIO 185480 Teologi og kristendom                               Alle      Alle     Alle      Alle
+UIO 185481 Historie                                            45.8 73   29.6 3   45.8 145  29.6 5
+UIO 185482 Religion og samfunn                                 36.8 9    Alle     36.8 18   Alle
+UIO 185483 Russisk                                             Alle      Alle     Alle      Alle
+UIO 185565 Italiensk                                           Alle      Alle     41.4 4    Alle
+UIO 185582 Japansk med Japan-studier                           45.3 35   Alle     46.6 77   34.5 7
+UIO 185592 Kinesisk med Kina-studier                           35.9 2    Alle     40.5 27   Alle
+UIO 185601 Arkivkunnskap                                       56.1 61   Alle     56.7 119  Alle
+UIO 185604 Medievitenskap, årsstudium                          53.8 71   43.4 23  53.9 240  45.2 83
+UIO 185615 Allmenn litteraturvitenskap, årsstudium             52.1 23   40.1 6   53.6 80   42.4 21
+UIO 185626 Kristendom                                          Alle      Alle     Alle      Alle
+UIO 185690 Tysk, årsstudium                                    Alle      Alle     44.6 14   Alle
+UIO 185695 India-studier med sanskrit                          Alle      Alle     Alle      Alle
+UIO 185698 Samfunnsøkonomisk analyse                           54.1 33   44.3 11  54.1 80   44.3 38
+UIO 185707 Farmasi                                             51.9 58   47.3 37  51.9 103  47.3 62
+UIO 185713 Klinisk ernæring                                    63.3 113  53.6 62  63.3 199  53.6 103
+UIO 185724 Rettsvitenskap (jus), start høst                    59.8 1229 52.7 592 59.8 2789 52.7 1339
+UIO 185725 Rettsvitenskap (jus), start vår                     57.8 1072 50.0 524 57.8 2251 50.0 1108
+UIO 185740 Medisin, start høst                                 68.0 728  59.4 370 68.0 1313 59.4 681
+UIO 185742 Odontologi                                          65.0 265  54.4 142 65.0 465  54.4 246
+UIO 185745 Medisin, start vår                                  66.7 709  57.4 353 66.7 1218 57.4 628
+UIO 185752 Psykologi, årsstudium                               56.0 422  49.7 186 56.0 1101 49.7 490
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185793 Fransk                                              Alle      Alle     Alle      Alle
+UIO 185795 Tysk                                                Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           Alle      Alle     Alle      Alle
+UIO 185829 Informatikk: programmering og nettverk              41.5 35   34.2 4   41.5 49   34.2 8
+UIO 185830 Informatikk: design, bruk og interaksjon            50.3 115  37.5 13  50.3 226  37.5 40
+UIO 185832 Informatikk: nanoelektronikk og robotikk            45.1 26   36.8 5   45.1 47   36.8 6
+UIO 185837 Informatikk: språk og kommunikasjon                 47.4 43   Alle     47.4 99   Alle
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    49.0 84   41.6 24  49.0 184  41.6 65
+UIO 185843 Lektorprogrammet, realfag                           Alle      Alle     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             49.5 69   46.2 44  49.5 175  46.2 126
+UIO 185851 Medievitenskap                                      48.5 80   42.3 39  48.5 212  42.3 89
+UIO 185852 Pedagogikk                                          46.8 219  33.5 26  46.8 454  33.5 63
+UIO 185853 Spesialpedagogikk                                   46.4 163  34.1 21  46.4 335  34.1 46
+UIO 185856 Elektronikk og datateknologi                        43.1 3    Alle     43.1 7    35.0 1
+UIO 185857 Fysikk, astronomi og meteorologi                    46.6 26   46.9 17  46.6 47   46.9 34
+UIO 185858 Geofag: geologi, geofysikk og geografi              51.6 48   43.3 23  51.6 92   43.3 37
+UIO 185860 Kjemi                                               Alle      Alle     Alle      Alle
+UIO 185862 Matematikk og økonomi                               46.3 12   41.1 7   46.3 25   41.1 14
+UIO 185863 Materialer, energi og nanoteknologi                 Alle      Alle     Alle      Alle
+UIO 185865 Molekylærbiologi og biologisk kjemi                 Alle      Alle     Alle      Alle
+UIO 185868 India områdestudier                                 Alle      Alle     Alle      Alle
+UIO 185870 Europastudier (EU)                                  49.1 46   42.4 21  49.1 111  42.4 48
+UIO 185872 Internasjonale studier                              56.4 186  52.1 93  56.4 427  52.1 221
+UIO 185873 Tverrfaglige kjønnsstudier                          39.8 13   Alle     44.5 43   Alle
+UIO 185874 Kriminologi                                         53.3 447  47.7 219 53.3 1130 47.7 592
+UIO 185876 Psykologi                                           55.8 525  47.2 226 55.8 1280 47.2 594
+UIO 185879 Sosialantropologi                                   46.5 61   38.9 17  46.5 192  38.9 59
+UIO 185880 Sosiologi                                           50.2 176  42.1 56  50.2 417  42.1 152
+UIO 185881 Statsvitenskap                                      53.8 248  46.7 90  53.8 535  46.7 231
+UIO 185883 Utviklingsstudier                                   49.0 79   44.8 25  49.0 181  44.8 69
+UIO 185889 Nordisk språk og lit. og norsk som andrespråk       Alle      Alle     Alle      Alle
+UIO 185893 Lingvistikk                                         44.4 5    Alle     47.0 16   Alle
+UIO 185898 Samfunnsøkonomi                                     57.0 222  47.1 96  57.0 663  47.1 360
+UIO 185899 Tannpleie                                           51.7 124  44.8 33  51.7 241  44.8 70
+UIO 185904 Kulturarv og bevaringskunnskap                      47.2 7    Alle     47.2 16   Alle
+UIO 185909 Retorikk og språklig kommunikasjon                  48.7 13   Alle     49.0 36   Alle
+UIO 185912 Spansk, årsstudium                                  53.2 31   34.5 1   54.7 116  41.2 12
+UIO 185918 Latin-Amerika-studier                               Alle      Alle     Alle      Alle
+UIO 185919 Nord-Amerika-studier                                Alle      Alle     36.6 14   Alle
+UIO 185920 Engelsk                                             50.5 32   34.3 6   50.5 73   34.3 10
+UIO 185922 Allmenn litteraturvitenskap                         46.2 11   34.0 2   47.0 43   39.6 7
+UIO 185923 Midtøsten-studier med arabisk                       47.3 30   Alle     48.1 55   Alle
+UIO 185924 Spansk                                              Alle      Alle     43.4 18   Alle
+UIO 185929 Religionshistorie                                   Alle      Alle     Alle      Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      Alle      Alle     37.7 4    40.0 4
+UIO 185941 Psykologi profesjon, start høst                     65.1 690  56.4 312 65.1 1505 56.4 698
+UIO 185942 Psykologi profesjon, start vår                      63.6 655  54.4 318 63.6 1266 54.4 619
+
+--2014--
+UIO 185073 Idéhistorie                                         44.2 10   Alle     44.2 24   Alle
+UIO 185074 Norrøne og keltiske studier                         Alle      Alle     41.3 6    Alle
+UIO 185170 Engelsk, årsstudium                                 54.7 107  41.0 11  54.7 267  41.0 49
+UIO 185174 Fransk, årsstudium                                  43.8 6    Alle     48.5 42   Alle
+UIO 185179 Historie, årsstudium                                53.9 81   38.1 4   53.9 229  38.1 28
+UIO 185200 Kulturhistorie                                      Alle      Alle     Alle      Alle
+UIO 185211 Nordisk, særlig norsk språk og litteratur           56.0 46   Alle     56.0 88   Alle
+UIO 185212 Norsk som andrespråk                                Alle      Alle     Alle      Alle
+UIO 185222 Tverrfaglige kjønnsstudier, årsstudium              53.0 30   35.8 4   53.0 68   35.8 8
+UIO 185233 Realfag                                             Alle      Alle     Alle      Alle
+UIO 185238 Statsvitenskap, årsstudium                          56.6 116  46.2 38  56.6 288  46.2 90
+UIO 185240 Sosiologi, årsstudium                               54.9 133  44.6 37  54.9 336  44.6 108
+UIO 185272 Kunsthistorie, årsstudium                           53.0 30   Alle     53.0 108  38.1 10
+UIO 185306 Matematikk, informatikk og teknologi                Alle      Alle     37.0 4    Alle
+UIO 185308 Kultur og kommunikasjon                             51.7 144  45.7 52  51.7 333  45.7 135
+UIO 185327 Biologi                                             Alle      Alle     Alle      Alle
+UIO 185437 Musikkvitenskap                                     33.0 2    Alle     33.0 2    Alle
+UIO 185438 Samfunnsgeografi                                    49.6 28   38.1 5   49.6 73   38.1 10
+UIO 185439 Estetiske studier                                   Alle      Alle     Alle      Alle
+UIO 185452 Offentlig administrasjon og ledelse                 53.7 214  44.8 79  53.7 609  44.8 259
+UIO 185455 Portugisisk                                         46.6 3    Alle     46.6 7    Alle
+UIO 185459 Antikk kultur og klassiske språk                    Alle      Alle     Alle      Alle
+UIO 185462 Kunsthistorie                                       Alle      Alle     Alle      Alle
+UIO 185465 Helseledelse og helseøkonomi                        52.5 113  37.8 20  52.5 234  37.8 52
+UIO 185478 Arkeologi                                           44.3 23   Alle     45.3 63   30.0 2
+UIO 185479 Filosofi                                            46.5 39   Alle     46.5 77   Alle
+UIO 185481 Historie                                            45.0 79   29.6 1   45.0 142  29.6 2
+UIO 185482 Religion og samfunn                                 Alle      Alle     Alle      Alle
+UIO 185483 Russisk                                             32.5 1    27.3 1   Alle      Alle
+UIO 185536 Kristendom, kultur og læring                        Alle      Alle     Alle      Alle
+UIO 185565 Italiensk                                           Alle      Alle     Alle      Alle
+UIO 185582 Japansk med Japan-studier                           47.0 50   31.7 5   47.0 85   31.7 6
+UIO 185592 Kinesisk med Kina-studier                           Alle      Alle     Alle      Alle
+UIO 185595 Midtøsten-studier med hebraisk                      Alle      Alle     Alle      Alle
+UIO 185601 Arkivkunnskap                                       53.6 51   Alle     53.9 98   Alle
+UIO 185604 Medievitenskap, årsstudium                          52.8 62   36.4 3   52.8 182  36.4 17
+UIO 185615 Allmenn litteraturvitenskap, årsstudium             49.6 15   Alle     49.6 29   Alle
+UIO 185616 Portugisisk, årsstudium                             41.6 1    Alle     48.5 16   Alle
+UIO 185626 Kristendom                                          Alle      Alle     Alle      Alle
+UIO 185690 Tysk, årsstudium                                    Alle      Alle     43.0 16   Alle
+UIO 185694 India-studier med hindi                             Alle      Alle     Alle      Alle
+UIO 185698 Samfunnsøkonomisk analyse                           52.9 22   44.0 10  52.9 70   44.0 33
+UIO 185707 Farmasi                                             49.0 73   48.2 58  49.0 113  48.2 91
+UIO 185713 Klinisk ernæring                                    60.9 65   53.0 36  60.9 118  53.0 72
+UIO 185724 Rettsvitenskap (jus), start høst                    60.3 1167 52.6 563 60.3 2658 52.6 1312
+UIO 185725 Rettsvitenskap (jus), start vår                     58.3 1011 50.3 489 58.3 2126 50.3 1031
+UIO 185740 Medisin, start høst                                 67.9 690  59.6 355 67.9 1223 59.6 658
+UIO 185742 Odontologi                                          64.9 264  55.2 149 64.9 460  55.2 261
+UIO 185745 Medisin, start vår                                  67.1 679  57.7 367 67.1 1169 57.7 632
+UIO 185752 Psykologi, årsstudium                               57.4 408  49.2 158 57.4 1108 49.2 473
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185793 Fransk                                              Alle      Alle     Alle      Alle
+UIO 185795 Tysk                                                Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           41.8 6    40.4 6   41.8 13   40.4 13
+UIO 185829 Informatikk: programmering og nettverk              42.8 36   34.7 6   42.8 70   34.7 10
+UIO 185830 Informatikk: design, bruk og interaksjon            51.8 129  38.0 15  51.8 279  38.0 43
+UIO 185832 Informatikk: nanoelektronikk og robotikk            44.2 35   42.3 12  44.2 68   42.3 30
+UIO 185837 Informatikk: språk og kommunikasjon                 48.3 69   Alle     48.3 133  Alle
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    50.0 69   41.5 13  50.0 174  41.5 67
+UIO 185843 Lektorprogrammet, realfag                           Alle      Alle     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             50.8 89   47.2 62  50.8 214  47.2 163
+UIO 185851 Medievitenskap                                      48.4 91   40.8 27  48.4 210  40.8 71
+UIO 185852 Pedagogikk                                          45.6 242  35.6 65  45.6 462  35.6 108
+UIO 185853 Spesialpedagogikk                                   46.8 230  35.5 49  46.8 421  35.5 78
+UIO 185856 Elektronikk og datateknologi                        Alle      Alle     Alle      Alle
+UIO 185857 Fysikk, astronomi og meteorologi                    47.8 40   46.2 23  47.8 64   46.2 42
+UIO 185858 Geofag: geologi, geofysikk og geografi              47.9 39   43.0 19  47.9 69   43.0 32
+UIO 185860 Kjemi                                               Alle      Alle     Alle      Alle
+UIO 185862 Matematikk og økonomi                               46.5 14   39.7 4   46.5 23   39.7 8
+UIO 185863 Materialer, energi og nanoteknologi                 42.0 12   42.5 9   42.0 18   42.5 12
+UIO 185865 Molekylærbiologi og biologisk kjemi                 40.5 11   38.7 5   40.5 18   38.7 10
+UIO 185870 Europastudier (EU)                                  49.3 58   42.5 24  49.3 155  42.5 70
+UIO 185872 Internasjonale studier                              56.9 191  52.4 93  56.9 447  52.4 238
+UIO 185873 Tverrfaglige kjønnsstudier                          41.5 17   Alle     41.5 27   Alle
+UIO 185874 Kriminologi                                         54.0 398  46.4 186 54.0 987  46.4 495
+UIO 185876 Psykologi                                           55.6 515  47.2 222 55.6 1184 47.2 565
+UIO 185879 Sosialantropologi                                   46.3 101  37.7 19  46.3 219  37.7 60
+UIO 185880 Sosiologi                                           49.9 172  42.4 63  49.9 401  42.4 157
+UIO 185881 Statsvitenskap                                      53.8 234  46.2 98  53.8 511  46.2 235
+UIO 185883 Utviklingsstudier                                   48.6 64   44.6 24  48.6 156  44.6 67
+UIO 185889 Nordisk språk og lit. og norsk som andrespråk       34.8 1    38.5 1   Alle      Alle
+UIO 185893 Lingvistikk                                         44.1 4    Alle     44.1 6    Alle
+UIO 185898 Samfunnsøkonomi                                     57.0 184  46.0 72  57.0 541  46.0 262
+UIO 185899 Tannpleie                                           52.3 109  43.6 34  52.3 206  43.6 66
+UIO 185909 Retorikk og språklig kommunikasjon                  45.1 5    Alle     45.1 14   Alle
+UIO 185912 Spansk, årsstudium                                  52.2 28   Alle     52.2 75   Alle
+UIO 185918 Latin-Amerika-studier                               Alle      Alle     Alle      Alle
+UIO 185919 Nord-Amerika-studier                                Alle      Alle     Alle      Alle
+UIO 185920 Engelsk                                             50.5 42   32.1 2   50.5 85   32.1 4
+UIO 185922 Allmenn litteraturvitenskap                         45.5 8    Alle     45.5 17   Alle
+UIO 185923 Midtøsten-studier med arabisk                       47.8 33   Alle     47.8 54   Alle
+UIO 185924 Spansk                                              Alle      Alle     Alle      Alle
+UIO 185929 Religionshistorie                                   37.2 5    Alle     37.2 9    Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      44.3 6    39.8 5   44.3 18   39.8 12
+UIO 185941 Psykologi profesjon, start høst                     65.7 681  55.8 301 65.7 1477 55.8 663
+UIO 185942 Psykologi profesjon, start vår                      64.1 648  54.5 300 64.1 1280 54.5 603
+UIO 185950 Italiensk årsstudium                                50.0 24   Alle     52.3 65   Alle
+
+--2015--
+UIO 185073 Idéhistorie                                         40.0 8    Alle     40.0 14   Alle
+UIO 185074 Norrøne og keltiske studier                         o.i.      o.i.     Alle      Alle
+UIO 185170 Engelsk, årsstudium                                 55.5 142  41.5 37  55.5 339  41.5 78
+UIO 185174 Fransk, årsstudium                                  Alle      Alle     Alle      Alle
+UIO 185179 Historie, årsstudium                                53.8 126  39.4 27  53.8 290  39.4 59
+UIO 185200 Kulturhistorie                                      o.i.      o.i.     Alle      Alle
+UIO 185211 Nordisk, særlig norsk språk og litteratur,års.      56.5 60   Alle     56.5 132  Alle
+UIO 185212 Norsk som andrespråk, årstudium                     43.0 7    Alle     43.0 10   Alle
+UIO 185222 Tverrfaglige kjønnsstudier, årsstudium              55.7 28   43.5 10  55.7 77   43.5 23
+UIO 185233 Realfag                                             o.i.      o.i.     Alle      Alle
+UIO 185238 Statsvitenskap, årsstudium                          53.5 112  45.2 53  53.5 258  45.2 113
+UIO 185240 Sosiologi, årsstudium                               53.6 160  46.0 74  53.6 388  46.0 164
+UIO 185272 Kunsthistorie, årsstudium                           54.6 59   44.2 13  54.6 147  44.2 31
+UIO 185306 Matematikk, informatikk og teknologi                Alle      Alle     Alle      Alle
+UIO 185308 Kultur og kommunikasjon                             51.5 168  46.8 86  51.5 360  46.8 178
+UIO 185327 Biologi                                             46.2 27   40.1 10  46.2 47   40.1 18
+UIO 185400 Idéhistorie, årstudium                              53.0 52   47.3 15  53.0 110  47.3 30
+UIO 185437 Musikkvitenskap                                     42.9 7    43.0 4   42.9 10   43.0 7
+UIO 185438 Samfunnsgeografi                                    49.2 53   39.3 15  49.2 95   39.3 34
+UIO 185439 Estetiske studier                                   Alle      Alle     Alle      Alle
+UIO 185452 Offentlig administrasjon og ledelse                 53.5 254  44.8 92  53.5 679  44.8 311
+UIO 185455 Portugisisk                                         Alle      Alle     Alle      Alle
+UIO 185459 Antikk kultur og klassiske språk                    Alle      Alle     Alle      Alle
+UIO 185462 Kunsthistorie                                       38.0 5    Alle     38.0 11   Alle
+UIO 185465 Helseledelse og helseøkonomi                        53.2 155  39.8 49  53.2 337  39.8 101
+UIO 185478 Arkeologi                                           43.2 21   Alle     43.2 57   Alle
+UIO 185479 Filosofi                                            48.1 39   Alle     48.1 87   Alle
+UIO 185481 Historie                                            45.1 76   31.7 8   45.1 142  31.7 11
+UIO 185482 Religion og samfunn                                 Alle      Alle     Alle      Alle
+UIO 185483 Russisk                                             39.7 4    Alle     39.7 6    Alle
+UIO 185536 Kristendom, kultur og læring                        Alle      Alle     Alle      Alle
+UIO 185565 Italiensk                                           Alle      Alle     Alle      Alle
+UIO 185582 Japansk med Japan-studier                           46.7 55   31.3 4   46.7 97   31.3 6
+UIO 185592 Kinesisk med Kina-studier                           o.i.      o.i.     Alle      Alle
+UIO 185604 Medievitenskap, årsstudium                          49.6 55   40.4 19  49.6 149  40.4 59
+UIO 185615 Allmenn litteraturvitenskap, årsstudium             52.7 19   40.4 2   52.7 50   40.4 5
+UIO 185616 Portugisisk, årsstudium                             Alle      Alle     Alle      Alle
+UIO 185626 Kristendom                                          Alle      Alle     Alle      Alle
+UIO 185690 Tysk, årsstudium                                    o.i.      o.i.     Alle      Alle
+UIO 185694 India-studier med hindi                             Alle      Alle     Alle      Alle
+UIO 185698 Samfunnsøkonomisk analyse                           53.0 29   44.3 13  53.0 76   44.3 37
+UIO 185707 Farmasi                                             54.7 152  51.0 109 54.7 235  51.0 168
+UIO 185712 Russisk, årstudium                                  o.i.      o.i.     Alle      Alle
+UIO 185713 Klinisk ernæring                                    59.3 49   50.7 29  59.3 103  51.4 61
+UIO 185724 Rettsvitenskap (jus), start høst                    60.6 1242 53.8 669 60.6 2802 53.8 1531
+UIO 185725 Rettsvitenskap (jus), start vår                     58.5 1057 51.2 571 58.5 2300 51.2 1254
+UIO 185740 Medisin, start høst                                 68.1 655  59.7 349 68.1 1181 59.7 646
+UIO 185742 Odontologi                                          65.5 293  55.7 178 65.5 507  55.7 289
+UIO 185745 Medisin, start vår                                  67.2 673  58.3 388 67.2 1153 58.3 672
+UIO 185752 Psykologi, årsstudium                               57.4 418  50.0 193 57.4 1158 50.0 541
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185786 Polsk, tsjekkisk, bosnisk/kroatisk/serbisk          Alle      Alle     Alle      Alle
+UIO 185793 Fransk                                              Alle      Alle     Alle      Alle
+UIO 185795 Tysk                                                Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           40.6 12   40.0 11  40.6 18   40.0 16
+UIO 185829 Informatikk: programmering og nettverk              48.7 120  39.8 38  48.7 186  39.8 64
+UIO 185830 Informatikk: design, bruk og interaksjon            50.6 181  40.4 49  50.6 390  40.4 116
+UIO 185832 Informatikk: nanoelektronikk og robotikk            48.9 97   46.1 53  48.9 168  46.1 100
+UIO 185837 Informatikk: språk og kommunikasjon                 47.5 90   35.4 15  47.5 157  35.4 26
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    49.2 83   42.1 37  49.2 207  42.1 100
+UIO 185843 Lektorprogrammet, realfag                           o.i.      o.i.     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             51.4 98   47.7 69  51.4 212  47.7 155
+UIO 185851 Medievitenskap                                      48.1 85   41.7 38  48.1 229  41.7 87
+UIO 185852 Pedagogikk                                          46.7 256  35.3 67  46.7 537  35.3 129
+UIO 185853 Spesialpedagogikk                                   47.2 224  36.2 62  47.2 447  36.2 104
+UIO 185856 Elektronikk og datateknologi                        44.3 21   40.9 7   44.3 37   40.9 17
+UIO 185857 Fysikk, astronomi og meteorologi                    49.5 56   48.0 33  49.5 99   48.0 62
+UIO 185858 Geofag: geologi, geofysikk og geografi              o.i.      o.i.     Alle      Alle
+UIO 185860 Kjemi                                               33.5 1    38.7 1   Alle      Alle
+UIO 185862 Matematikk og økonomi                               50.2 20   42.2 8   50.2 61   42.2 23
+UIO 185863 Materialer, energi og nanoteknologi                 48.3 44   49.0 29  48.3 82   49.0 58
+UIO 185865 Molekylærbiologi og biologisk kjemi                 47.2 44   46.6 29  47.2 79   46.6 49
+UIO 185872 Internasjonale studier                              54.6 219  51.7 129 54.6 458  51.7 289
+UIO 185873 Tverrfaglige kjønnsstudier                          46.1 17   33.1 3   46.1 40   33.1 5
+UIO 185874 Kriminologi                                         53.6 507  47.6 293 53.6 1270 47.6 724
+UIO 185876 Psykologi                                           56.3 503  47.6 227 56.3 1334 47.6 651
+UIO 185879 Sosialantropologi                                   45.2 91   39.2 25  45.2 237  39.2 92
+UIO 185880 Sosiologi                                           48.8 200  43.3 78  48.8 463  43.3 194
+UIO 185881 Statsvitenskap                                      51.8 264  47.5 131 51.8 561  47.5 300
+UIO 185883 Utviklingsstudier                                   48.3 65   44.1 30  48.3 187  44.1 83
+UIO 185889 Nordisk språk og lit. og norsk som andrespråk       Alle      Alle     Alle      Alle
+UIO 185893 Lingvistikk                                         45.6 16   Alle     45.6 26   Alle
+UIO 185898 Samfunnsøkonomi                                     55.7 227  47.7 97  55.7 640  47.7 345
+UIO 185899 Tannpleie                                           51.2 169  44.3 47  51.2 315  44.3 99
+UIO 185904 Kulturarv og bevaringskunnskap                      Alle      Alle     Alle      Alle
+UIO 185910 Religionshistorie, årstudium                        52.8 64   33.3 5   52.8 125  33.3 6
+UIO 185912 Spansk, årsstudium                                  o.i.      o.i.     Alle      Alle
+UIO 185918 Latin-Amerika-studier                               Alle      Alle     Alle      Alle
+UIO 185919 Nord-Amerika-studier                                o.i.      o.i.     Alle      Alle
+UIO 185920 Engelsk                                             50.0 49   34.2 14  50.0 108  34.2 21
+UIO 185922 Allmenn litteraturvitenskap                         49.8 10   Alle     49.8 28   Alle
+UIO 185923 Midtøsten-studier med arabisk                       44.5 19   Alle     44.5 35   Alle
+UIO 185924 Spansk                                              Alle      Alle     Alle      Alle
+UIO 185929 Religionshistorie                                   o.i.      o.i.     Alle      Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      Alle      Alle     Alle      Alle
+UIO 185941 Psykologi profesjon, start høst                     66.1 666  56.8 315 66.1 1502 56.8 729
+UIO 185942 Psykologi profesjon, start vår                      64.8 597  55.2 284 64.8 1245 55.2 604
+UIO 185950 Italiensk, årsstudium                               47.5 10   Alle     47.5 27   Alle

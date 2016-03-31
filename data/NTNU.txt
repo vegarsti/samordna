@@ -1,0 +1,741 @@
+--2009-- had to be slightly changed!!
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          Alle                         Alle
+NTNU 194123 Yrkesfaglærerutdanning helse- og sosialfag         Alle               Alle      Alle                Alle
+NTNU 194127 Yrkesfaglærerutdanning elektrofag                  TRU                          TRU
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod Alle               Alle      Alle                Alle
+NTNU 194170 Engelsk, årsstudium                                47.1 59            41.6 36   47.1 130            41.6 74
+NTNU 194174 Fransk, årsstudium                                 43.8 8             44.0 4    43.8 14             44.0 8
+NTNU 194179 Historie, årsstudium                               47.4 69            38.8 33   47.4 123            38.8 57
+NTNU 194184 Biologi og kjemi, årsstudium                       57.5 25            55.3 24   57.5 60             55.3 53
+NTNU 194188 Informatikk, årsstudium                            42.7 16            43.2 8    42.7 38             43.2 21
+NTNU 194200 Kunsthistorie                                      Alle               Alle      Alle                Alle
+NTNU 194205 Matematikk og statistikk, årsstudium               46.9 2             42.3 2    46.9 8              42.3 4
+NTNU 194210 Nordisk, årsstudium                                38.1 1             28.4 1    Alle                Alle
+NTNU 194239 Samfunnsøkonomi, årsstudium                        51.1 50            43.5 26   51.1 100            43.5 48
+NTNU 194244 Tysk, årsstudium                                   Alle               Alle      48.4 1              Alle
+NTNU 194272 Kunsthistorie, årsstudium                          47.6 16            41.8 5    47.6 35             41.8 16
+NTNU 194284 Geografi, årsstudium                               48.4 27            38.9 11   48.4 47             38.9 20
+NTNU 194285 Samfunnskunnskap, årsstudium                       47.7 65            43.2 32   47.7 131            43.2 70
+NTNU 194294 Latin                                              Alle               Alle      42.5 1              Alle
+NTNU 194324 Emnestudier samfunnsvitenskap                      50.0 77            36.7 13   50.0 138            36.7 30
+NTNU 194327 Biologi                                            49.4 44            49.6 34   49.4 77             49.6 62
+NTNU 194366 Filosofi, årsstudium                               42.3 23            40.0 13   42.3 52             40.0 30
+NTNU 194395 Informatikk                                        43.1 27            43.0 16   43.1 57             43.0 41
+NTNU 194437 Musikkvitenskap                                    45.7 4             46.2 2    45.7 7              46.2 5
+NTNU 194438 Geografi                                           36.0 12            34.6 4    36.0 17             34.6 9
+NTNU 194439 Drama og teater                                    41.1 10            40.0 5    41.1 22             40.0 13
+NTNU 194440 Bevegelses- og idrettsvitenskap                    48.1 131           44.3 82   48.1 287            44.3 183
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      Alle                Alle
+NTNU 194457 Lingvistikk                                        Alle               Alle      Alle                Alle
+NTNU 194459 Antikkens kultur                                   32.8 1             Alle      39.1 1              Alle
+NTNU 194476 Musikkteknologi                                    56.4 34            46.2 16   56.4 48             46.2 24
+NTNU 194478 Arkeologi                                          43.9 34            41.4 16   43.9 67             41.4 31
+NTNU 194479 Filosofi                                           38.8 5             Alle      38.8 6              30.0 1
+NTNU 194481 Historie                                           40.3 23            38.0 13   40.3 56             38.0 32
+NTNU 194486 Samfunns- og idrettsvitenskap                      45.0 87            41.8 55   45.0 179            41.8 116
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            42.4 5             35.4 2    42.4 11             35.4 3
+NTNU 194626 Kristendomsk. med religions-og livssynsk.          Alle               Alle      Alle                Alle
+NTNU 194646 Medieproduksjon                                    54.9 91            47.9 51   54.9 229            47.9 119
+NTNU 194684 Lektorutdanning i historie                         45.1 9             45.3 7    45.1 20             45.3 16
+NTNU 194685 Lektorutdanning språkfag/engelsk                   43.8 7             46.1 5    43.8 8              46.1 7
+NTNU 194686 Lektorutdanning språkfag/fransk                    Alle               Alle      49.0 1              41.1 1
+NTNU 194687 Lektorutdanning språkfag/nordisk                   Alle               Alle      Alle                Alle
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudier humaniora, årsstudium                  47.8 12            31.4 1    47.8 15             Alle
+NTNU 194747 Emnestudier realfag, årsstudium                    61.4 27            48.1 10   61.4 51             48.1 16
+NTNU 194752 Introduksjonsstudium i psykologi                   46.9 220           47.0 151  46.9 451            47.0 302
+NTNU 194755 Materialteknologi                                  50.5 25            50.7 21   50.5 55             50.7 49
+NTNU 194756 Arkitekt                                           59.8 149           54.3 112  59.9 343            54.7 263
+NTNU 194757 Petroleumsfag                                      51.4 32            51.7 28   51.4 85             51.7 77
+NTNU 194759 Bygg- og miljøteknikk                              52.7 119           52.1 101  52.7 217            52.1 192
+NTNU 194760 Datateknikk                                        49.4 57  Alle      51.9 49   49.4 96   Alle      51.9 85
+NTNU 194761 Elektronikk                                        47.3 26            48.1 23   47.3 39             48.1 35
+NTNU 194763 Fysikk og matematikk                               50.5 16            53.9 12   50.5 40             53.9 32
+NTNU 194764 Industriell kjemi og bioteknologi                  50.0 15            53.0 14   50.0 26             53.0 25
+NTNU 194765 Marin teknikk                                      52.2 78            52.2 65   52.2 136            52.2 113
+NTNU 194766 Produktutvikling og produksjon                     52.8 92            52.2 79   52.8 157            52.2 135
+NTNU 194767 Industriell økonomi og teknologiledelse            59.7 182           58.2 151  59.7 348            58.2 302
+NTNU 194768 Industriell design                                 58.4 58            55.6 50   58.4 118            55.6 100
+NTNU 194769 Energi og miljø                                    53.2 92            53.7 79   53.2 182            53.7 161
+NTNU 194770 Kommunikasjonsteknologi                            47.0 10  Alle      48.7 10   47.0 11   Al le     48.7 11
+NTNU 194786 Europastudier med fremmedspråk, spansk             46.6 6             42.9 4    46.6 13             42.9 9
+NTNU 194793 Europastudier med fremmedspråk, fransk             43.7 4             43.0 3    43.7 7              43.0 6
+NTNU 194795 Europastudier med fremmedspråk, tysk               Alle               Alle      Alle                Alle
+NTNU 194798 Teknisk kybernetikk                                50.7 55            51.5 50   50.7 97             51.5 88
+NTNU 194818 Samfunnsøkonomi, master                            51.0 42            49.2 32   51.0 123            49.2 94
+NTNU 194843 Lektorutdanning i realfag                          46.9 10            49.7 10   46.9 16             49.7 16
+NTNU 194847 Filmvitenskap                                      42.4 38            36.7 21   42.4 80             36.7 43
+NTNU 194851 Medievitenskap                                     39.1 47            38.8 34   39.1 72             38.8 51
+NTNU 194852 Pedagogikk                                         41.3 54            35.8 25   41.3 105            35.8 48
+NTNU 194855 Bioteknologi, master                               54.1 34            52.1 26   54.1 87             52.1 68
+NTNU 194857 Fysikk                                             49.6 11            49.4 8    49.6 23             49.4 18
+NTNU 194859 Geologi                                            48.4 21            47.4 15   48.4 36             47.4 29
+NTNU 194860 Kjemi                                              46.9 14            48.0 13   46.9 34             48.0 30
+NTNU 194862 Matematiske fag                                    46.7 3             45.1 2    46.7 13             45.1 8
+NTNU 194868 Afrikastudier                                      42.4 23            39.4 12   42.4 46             39.4 24
+NTNU 194870 Europastudier med fremmedspråk, engelsk            41.9 5             42.8 4    41.9 18             42.8 16
+NTNU 194875 Politisk økonomi                                   45.3 35            41.3 20   45.3 74             41.3 41
+NTNU 194876 Psykologi                                          47.4 219           44.0 137  47.4 527            44.0 329
+NTNU 194879 Sosialantropologi                                  37.9 29            36.0 18   37.9 56             36.0 34
+NTNU 194880 Sosiologi                                          41.2 69            39.1 40   41.2 141            39.1 81
+NTNU 194881 Statsvitenskap                                     43.9 68            43.8 46   43.9 157            43.8 102
+NTNU 194887 Engelsk                                            42.6 26            36.2 10   42.6 40             36.2 14
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk                                            Alle               Alle      Alle                Alle
+NTNU 194890 Tysk                                               Alle               Alle      50.0 1              44.6 1
+NTNU 194898 Samfunnsøkonomi                                    47.8 116           44.2 80   47.8 272            44.2 175
+NTNU 194901 Språklig kommunikasjon                             Alle               Alle      Alle                Alle
+NTNU 194904 Kulturminneforvaltning                             39.3 1             Alle      39.3 4              Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           49.0 16            51.0 14   49.0 35             51.0 30
+NTNU 194910 Religionsvitenskap, årsstudium                     49.0 14            38.2 4    49.0 37             38.2 10
+NTNU 194912 Spansk, årsstudium                                 52.5 30            32.4 4    52.5 52             32.4 5
+NTNU 194929 Religionsvitenskap                                 39.8 4             Alle      39.8 8              Alle
+NTNU 194930 Fonetikk                                           Alle               Alle      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         43.8 2             42.0 2    43.8 5              42.0 4
+NTNU 194937 Nanoteknologi                                      63.6 80            60.0 71   63.6 176            60.0 155
+NTNU 194945 Lektorutdanning i samfunnsfag                      48.5 20            47.7 19   48.5 40             47.7 35
+NTNU 194946 Tekniske geofag                                    48.3 16            48.5 13   48.3 22             48.5 19
+
+--2010--
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          Alle                         Alle
+NTNU 194123 Yrkesfaglærerutdanning helse- og sosialfag         Alle                         Alle
+NTNU 194124 Yrkesfaglærerutdanning, restaurant-og matfag       Alle                         Alle
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod TRU                          TRU
+NTNU 194170 Engelsk, årsstudium                                44.0 38            41.6 23   46.9 185            42.2 113
+NTNU 194174 Fransk, årsstudium                                 o.i.               o.i.      Alle                Alle
+NTNU 194179 Historie, årsstudium                               48.2 48            34.1 8    49.6 161            37.1 51
+NTNU 194184 Biologi og kjemi, årsstudium                       54.0 13            51.9 12   54.0 39             51.9 31
+NTNU 194185 Samfunns-og idrettsvitenskap, årsstudium           52.2 99            47.3 54   55.9 321            50.8 187
+NTNU 194188 Informatikk, årsstudium                            Alle               Alle      Alle                Alle
+NTNU 194200 Kunsthistorie                                      37.6 6             Alle      37.6 10             Alle
+NTNU 194205 Matematikk og statistikk, årsstudium               52.8 17            45.8 14   52.8 39             45.8 30
+NTNU 194210 Nordisk, årsstudium                                36.4 1             Alle      36.4 2              Alle
+NTNU 194239 Samfunnsøkonomi, årsstudium                        51.8 37            42.8 17   52.8 115            44.2 61
+NTNU 194244 Tysk, årsstudium                                   Alle               Alle      Alle                Alle
+NTNU 194272 Kunsthistorie, årsstudium                          43.0 5             Alle      46.8 33             35.5 5
+NTNU 194284 Geografi, årsstudium                               44.2 15            37.0 4    52.2 54             40.4 16
+NTNU 194285 Samfunnskunnskap, årsstudium                       50.0 42            40.7 17   51.1 132            42.3 61
+NTNU 194294 Latin                                              o.i.               o.i.      Alle                Alle
+NTNU 194324 Emnestudier samfunnsvitenskap                      53.5 91            39.2 26   53.5 223            39.6 75
+NTNU 194327 Biologi                                            50.0 36            47.8 24   50.0 75             47.8 54
+NTNU 194366 Filosofi, årsstudium                               45.0 31            43.7 20   45.0 89             43.7 56
+NTNU 194395 Informatikk                                        44.8 40            43.6 25   44.8 85             43.6 61
+NTNU 194437 Musikkvitenskap                                    Alle               Alle      39.5 2              44.1 2
+NTNU 194438 Geografi                                           39.7 11            31.8 4    40.7 59             36.3 29
+NTNU 194439 Drama og teater                                    42.5 12            38.9 4    45.6 70             42.1 44
+NTNU 194440 Bevegelses- og idrettsvitenskap                    47.4 112           43.4 62   48.3 396            45.2 261
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      43.3 7              30.4 1
+NTNU 194457 Lingvistikk                                        o.i.               o.i.      Alle                Alle
+NTNU 194459 Antikkens kultur                                   39.5 5             Alle      39.5 14             37.4 4
+NTNU 194476 Musikkteknologi                                    47.9 11            39.5 5    50.9 33             45.0 17
+NTNU 194478 Arkeologi                                          44.4 36            42.8 17   44.6 106            43.0 64
+NTNU 194479 Filosofi                                           38.3 11            34.4 5    41.8 62             38.1 34
+NTNU 194481 Historie                                           40.0 22            35.2 5    41.4 83             37.8 43
+NTNU 194486 Samfunns- og idrettsvitenskap                      44.9 74            40.0 42   45.1 213            41.3 137
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            46.7 4             34.6 2    46.8 18             35.8 7
+NTNU 194626 Kristendomsk. med religions-og livssynsk.          39.6 1             Alle      39.6 2              Alle
+NTNU 194646 Medieproduksjon                                    51.6 70            47.4 43   55.6 270            48.9 162
+NTNU 194684 Lektorutdanning i historie                         47.2 31            45.0 24   47.2 71             45.0 58
+NTNU 194685 Lektorutdanning språkfag/engelsk                   45.5 15            44.8 10   45.5 31             44.8 22
+NTNU 194686 Lektorutdanning språkfag/fransk                    o.i.               Alle      o.i.                Alle
+NTNU 194687 Lektorutdanning språkfag/nordisk                   38.4 1             Alle      38.4 3              41.8 2
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudier humaniora, årsstudium                  50.5 11            Alle      50.5 18             Alle
+NTNU 194752 Introduksjonsstudium i psykologi                   48.3 272           47.5 167  48.3 699            47.5 466
+NTNU 194755 Materialteknologi                                  50.8 35            52.1 29   50.8 53             52.1 43
+NTNU 194756 Arkitekt                                           59.2 136           54.4 93   59.4 371            54.8 268
+NTNU 194757 Petroleumsfag                                      51.6 44            51.8 40   51.6 93             51.8 84
+NTNU 194759 Bygg- og miljøteknikk                              52.4 111           52.2 91   52.4 206            52.2 173
+NTNU 194760 Datateknikk                                        49.2 45   Alle     49.0 38   49.2 78   Alle      49.0 68
+NTNU 194761 Elektronikk                                        48.0 35            48.6 29   48.0 64             48.6 52
+NTNU 194763 Fysikk og matematikk                               54.0 48            55.5 41   54.0 107            55.5 96
+NTNU 194764 Industriell kjemi og bioteknologi                  52.3 22            53.9 20   52.3 47             53.9 42
+NTNU 194765 Marin teknikk                                      53.1 89            53.1 73   53.1 153            53.1 128
+NTNU 194766 Produktutvikling og produksjon                     52.5 85            52.7 69   52.5 154            52.7 125
+NTNU 194767 Industriell økonomi og teknologiledelse            60.8 199           58.2 160  60.8 451            58.2 377
+NTNU 194768 Industriell design                                 58.5 49            54.4 34   58.5 112            54.4 77
+NTNU 194769 Energi og miljø                                    53.9 91            54.2 79   53.9 191            54.2 169
+NTNU 194770 Kommunikasjonsteknologi                            50.4 20   47.6 1   47.2 17   50.4 46   47.6 2    47.2 37
+NTNU 194786 Europastudier med fremmedspråk, spansk             40.5 6             41.3 4    40.5 13             41.3 8
+NTNU 194793 Europastudier med fremmedspråk, fransk             Alle               Alle      40.4 3              Alle
+NTNU 194795 Europastudier med fremmedspråk, tysk               Alle               Alle      41.1 2              42.4 2
+NTNU 194798 Teknisk kybernetikk                                50.0 27            51.6 21   50.0 69             51.6 58
+NTNU 194818 Samfunnsøkonomi, master                            50.1 39            48.3 32   51.4 116            49.8 97
+NTNU 194843 Lektorutdanning i realfag                          47.2 15            50.0 12   47.2 30             50.0 26
+NTNU 194847 Filmvitenskap                                      39.7 31            35.7 17   41.7 118            39.1 72
+NTNU 194851 Medievitenskap                                     44.8 67            40.4 42   44.8 201            42.2 134
+NTNU 194852 Pedagogikk                                         43.3 75            38.1 29   43.6 217            38.6 96
+NTNU 194855 Bioteknologi, master                               53.0 31            53.5 27   53.0 76             53.5 63
+NTNU 194857 Fysikk                                             51.7 38            52.4 31   51.7 64             52.4 51
+NTNU 194859 Geologi                                            50.1 22            49.2 15   50.6 65             51.2 46
+NTNU 194860 Kjemi                                              48.8 18            49.8 14   48.8 38             49.8 33
+NTNU 194862 Matematiske fag                                    48.6 12            47.9 11   48.6 21             48.8 19
+NTNU 194868 Afrikastudier                                      37.0 3             Alle      42.3 47             37.3 21
+NTNU 194870 Europastudier med fremmedspråk, engelsk            43.2 12            42.5 7    43.6 40             44.4 24
+NTNU 194875 Politisk økonomi                                   46.4 41            45.2 25   46.5 111            45.2 73
+NTNU 194876 Psykologi                                          48.0 256           44.5 150  48.0 740            44.5 488
+NTNU 194879 Sosialantropologi                                  42.7 74            37.1 29   42.8 195            38.3 109
+NTNU 194880 Sosiologi                                          43.1 109           40.6 64   43.3 308            41.3 192
+NTNU 194881 Statsvitenskap                                     46.6 114           44.6 68   46.6 289            44.6 194
+NTNU 194887 Engelsk                                            37.0 3             32.1 1    42.1 57             39.1 32
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk                                            Alle               Alle      37.4 1              Alle
+NTNU 194890 Tysk                                               Alle               Alle      Alle                Alle
+NTNU 194898 Samfunnsøkonomi                                    47.2 123           44.6 77   47.2 347            44.6 249
+NTNU 194901 Språklig kommunikasjon                             37.7 5             38.0 4    39.2 10             38.0 6
+NTNU 194904 Kulturminneforvaltning                             Alle               Alle      Alle                Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           49.6 27            50.7 24   49.6 59             50.7 52
+NTNU 194910 Religionsvitenskap, årsstudium                     46.0 6             36.8 1    46.0 26             36.8 6
+NTNU 194912 Spansk, årsstudium                                 49.3 20            38.8 4    49.3 52             40.8 21
+NTNU 194929 Religionsvitenskap                                 38.2 10            34.0 6    38.2 17             36.2 11
+NTNU 194930 Fonetikk                                           Alle               Alle      Alle                Alle
+NTNU 194932 Klassisk språk og litteratur                       Alle               Alle      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         Alle               Alle      Alle                Alle
+NTNU 194937 Nanoteknologi                                      63.0 75            61.9 67   63.0 185            61.9 163
+NTNU 194945 Lektorutdanning i samfunnsfag                      48.6 32            48.4 27   48.6 67             48.4 56
+NTNU 194946 Tekniske geofag                                    50.3 15            51.6 13   50.3 36             51.6 30
+
+--2011--
+NTNU 194104 Afrikastudier, årsstudium                          45.5 8             33.8 4    50.8 68             47.5 39
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          o.i.                         Alle
+NTNU 194123 Yrkesfaglærerutdanning helse- og sosialfag         o.i.                         Alle
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod o.i.                         Alle
+NTNU 194170 Engelsk, årsstudium                                48.5 71            42.9 37   48.6 204            43.0 114
+NTNU 194171 Rådgiving og voksnes læring                        44.7 14            Alle      49.1 28             Alle
+NTNU 194174 Fransk, årsstudium                                 Alle               Alle      48.4 32             41.5 15
+NTNU 194179 Historie, årsstudium                               48.0 61            40.0 30   48.0 158            40.0 71
+NTNU 194184 Biologi og kjemi, årsstudium                       52.8 23            51.1 14   52.8 64             51.1 49
+NTNU 194188 Informatikk, årsstudium                            Alle               Alle      Alle                Alle
+NTNU 194200 Kunsthistorie                                      Alle               Alle      Alle                Alle
+NTNU 194205 Matematikk og statistikk, årsstudium               49.3 18            47.6 14   49.3 33             48.6 26
+NTNU 194210 Nordisk, årsstudium                                o.i.               o.i.      Alle                Alle
+NTNU 194220 Pedagogikk, årsstudium                             52.0 104           39.2 31   52.0 297            39.7 99
+NTNU 194238 Statsvitenskap, årsstudium                         51.4 55            46.1 36   51.4 145            46.1 90
+NTNU 194239 Samfunnsøkonomi, årsstudium                        54.5 71            45.0 40   55.2 212            47.1 126
+NTNU 194240 Sosiologi, årsstudium                              49.5 86            44.1 48   49.5 237            44.3 135
+NTNU 194242 Studier av kunnskap, teknologi og samfunn (STS)    50.0 13            41.8 7    50.0 31             41.8 15
+NTNU 194244 Tysk, årsstudium                                   Alle               Alle      Alle                Alle
+NTNU 194272 Kunsthistorie, årsstudium                          Alle               Alle      48.0 40             Alle
+NTNU 194284 Geografi, årsstudium                               48.8 22            39.9 11   50.9 75             44.0 32
+NTNU 194285 Samfunnskunnskap, årsstudium                       50.2 41            42.2 19   50.2 100            42.2 54
+NTNU 194294 Latin                                              Alle               Alle      38.1 4              39.1 2
+NTNU 194324 Emnestudier samfunnsvitenskap                      56.0 55            41.1 12   56.0 127            41.2 28
+NTNU 194327 Biologi                                            51.7 52            49.4 32   51.7 133            49.4 97
+NTNU 194366 Filosofi, årsstudium                               44.2 26            41.9 18   44.2 76             42.3 48
+NTNU 194367 Sosialantropologi, årsstudium                      46.7 37            43.0 26   47.2 109            43.3 67
+NTNU 194395 Informatikk                                        45.1 30            44.3 23   45.1 68             44.3 49
+NTNU 194437 Musikkvitenskap                                    Alle               Alle      Alle                Alle
+NTNU 194438 Geografi                                           39.2 8             30.0 1    39.5 17             30.5 3
+NTNU 194439 Drama og teater                                    44.9 14            41.2 10   44.9 55             41.4 35
+NTNU 194440 Bevegelsesvitenskap                                47.9 152           44.7 99   47.9 382            44.8 244
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      Alle                Alle
+NTNU 194457 Lingvistikk                                        Alle               Alle      Alle                Alle
+NTNU 194459 Antikkens kultur                                   Alle               Alle      40.4 19             38.4 6
+NTNU 194476 Musikkteknologi                                    49.6 22            45.6 13   49.6 30             45.6 15
+NTNU 194478 Arkeologi                                          41.7 23            39.1 10   43.2 88             40.8 43
+NTNU 194479 Filosofi                                           39.8 6             34.8 2    40.4 29             36.8 16
+NTNU 194481 Historie                                           40.1 19            33.5 3    40.9 69             35.5 25
+NTNU 194486 Samfunns- og idrettsvitenskap                      46.0 110           42.4 63   46.0 279            42.8 170
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            Alle               Alle      Alle                Alle
+NTNU 194626 Kristendomsk. med religions- og livssynsk.         44.1 1             Alle      44.8 6              Alle
+NTNU 194646 Film- og videoproduksjon                           52.8 101           46.6 56   53.1 324            49.0 196
+NTNU 194649 Kroppsøving og idrett, årsstudium                  57.7 179           51.8 106  57.7 486            51.8 311
+NTNU 194684 Lektorutdanning i historie                         51.5 53            49.5 37   51.5 142            49.5 104
+NTNU 194685 Lektorutdanning språkfag/engelsk                   47.6 26            44.3 17   47.6 43             46.1 31
+NTNU 194686 Lektorutdanning språkfag/fransk                    47.2 1             Alle      47.2 2              Alle
+NTNU 194687 Lektorutdanning språkfag/nordisk                   44.3 6             45.8 6    44.3 9              45.8 8
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudier humaniora, årsstudium                  54.0 14            Alle      55.2 31             Alle
+NTNU 194740 Medisin                                            66.0 676           58.4 413  66.0 1237           59.2 781
+NTNU 194752 Psykologi, årsstudium                              50.4 378           48.0 259  50.8 1160           48.8 783
+NTNU 194755 Materialteknologi                                  51.6 28            51.9 27   51.6 57             51.9 54
+NTNU 194756 Arkitekt                                           58.0 115           52.7 82   58.0 321            54.4 239
+NTNU 194757 Petroleumsfag                                      52.5 75            51.9 62   52.5 141            51.9 120
+NTNU 194759 Bygg- og miljøteknikk                              53.1 118           51.9 92   53.1 219            51.9 180
+NTNU 194760 Datateknikk                                        50.1 79   47.3 1   50.9 68   50.1 117  47.3 2    50.9 102
+NTNU 194761 Elektronikk                                        47.4 23            47.8 21   47.4 43             47.8 37
+NTNU 194763 Fysikk og matematikk                               56.0 63            56.5 56   56.0 132            56.5 119
+NTNU 194764 Industriell kjemi og bioteknologi                  49.4 16            52.6 15   49.4 21             52.6 19
+NTNU 194765 Marin teknikk                                      54.0 89            53.1 74   54.0 157            53.1 134
+NTNU 194766 Produktutvikling og produksjon                     53.0 112           52.8 88   53.0 187            52.8 150
+NTNU 194767 Industriell økonomi og teknologiledelse            61.5 249           58.9 203  61.5 504            58.9 417
+NTNU 194768 Industriell design                                 58.8 54            54.4 35   58.8 126            54.4 92
+NTNU 194769 Energi og miljø                                    54.0 95            54.6 80   54.0 191            54.6 163
+NTNU 194770 Kommunikasjonsteknologi                            48.8 32   48.3 1   49.6 26   48.8 51   48.3 2    49.6 44
+NTNU 194786 Europastudier med fremmedspråk, spansk             Alle               Alle      42.7 11             40.8 3
+NTNU 194793 Europastudier med fremmedspråk, fransk             Alle               Alle      41.3 6              44.3 4
+NTNU 194795 Europastudier med fremmedspråk, tysk               o.i.               o.i.      Alle                Alle
+NTNU 194798 Teknisk kybernetikk                                51.3 58            51.5 48   51.3 100            51.5 86
+NTNU 194818 Samfunnsøkonomi, master                            48.7 31            46.6 24   51.2 105            48.1 86
+NTNU 194843 Lektorutdanning i realfag                          48.7 23            48.6 22   48.7 38             49.0 35
+NTNU 194847 Filmvitenskap                                      Alle               Alle      40.6 59             38.0 37
+NTNU 194851 Medievitenskap                                     42.6 25            38.5 15   42.7 112            40.8 72
+NTNU 194852 Pedagogikk                                         42.5 53            35.0 17   42.5 111            35.8 52
+NTNU 194855 Bioteknologi, master                               54.1 41            52.6 27   54.1 111            52.6 87
+NTNU 194857 Fysikk                                             52.6 29            52.7 22   52.6 75             52.7 60
+NTNU 194859 Geologi                                            51.2 29            47.2 22   53.6 79             49.3 56
+NTNU 194860 Kjemi                                              50.0 22            49.2 17   50.0 44             49.2 36
+NTNU 194862 Matematiske fag                                    47.2 8             49.8 6    47.2 11             49.8 9
+NTNU 194868 Afrikastudier                                      Alle               Alle      Alle                Alle
+NTNU 194870 Europastudier med fremmedspråk, engelsk            43.4 19            42.4 10   43.4 47             42.4 25
+NTNU 194875 Politisk økonomi                                   45.5 37            44.4 27   45.5 70             44.4 51
+NTNU 194876 Psykologi                                          51.1 318           46.7 197  51.1 910            46.7 565
+NTNU 194879 Sosialantropologi                                  40.0 32            37.5 22   40.0 87             37.5 61
+NTNU 194880 Sosiologi                                          42.7 75            39.3 42   42.8 151            40.0 92
+NTNU 194881 Statsvitenskap                                     46.2 84            44.6 57   46.2 216            44.8 154
+NTNU 194887 Engelsk                                            41.5 26            35.6 14   41.5 55             35.6 28
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk                                            Alle               Alle      Alle                Alle
+NTNU 194890 Tysk                                               Alle               Alle      Alle                Alle
+NTNU 194898 Samfunnsøkonomi                                    47.4 120           43.9 80   47.5 338            44.1 244
+NTNU 194901 Språklig kommunikasjon                             Alle               Alle      47.5 5              34.5 1
+NTNU 194904 Kulturminneforvaltning                             37.7 1             Alle      39.2 4              Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           51.5 57            52.0 49   51.5 100            52.0 87
+NTNU 194910 Religionsvitenskap, årsstudium                     45.9 6             Alle      49.6 38             31.2 2
+NTNU 194912 Spansk, årsstudium                                 46.2 7             36.9 1    46.3 27             38.3 9
+NTNU 194929 Religionsvitenskap                                 Alle               Alle      40.2 7              Alle
+NTNU 194930 Fonetikk                                           Alle               o.i.      Alle                o.i.
+NTNU 194932 Klassisk språk og litteratur                       o.i.               o.i.      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         48.7 19            46.3 17   51.0 40             46.3 33
+NTNU 194937 Nanoteknologi                                      62.0 65            61.9 61   62.0 175            61.9 159
+NTNU 194941 Psykologi, profesjonsstudiet                       61.6 745           55.2 461  62.2 1987           56.2 1254
+NTNU 194945 Lektorutdanning i samfunnsfag                      51.8 53            48.4 38   52.2 124            48.6 96
+NTNU 194946 Tekniske geofag                                    52.4 25            51.5 19   52.4 52             51.5 38
+
+--2012--
+NTNU 194104 Afrikastudier, årsstudium                          47.4 8             39.7 5    47.4 34             39.7 20
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          Alle                         Alle
+NTNU 194123 Yrkesfaglærerutdanning helse- og sosialfag         Alle                         Alle
+NTNU 194124 Yrkesfaglærerutdanning Restaurant- og matfag       Alle                         Alle
+NTNU 194127 Yrkesfaglærerutdanning Elektrofag                  Alle                         Alle
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod Alle                         Alle
+NTNU 194170 Engelsk, årsstudium                                50.2 52            43.0 24   50.2 178            43.3 89
+NTNU 194171 Rådgiving og voksnes læring                        48.0 17            Alle      50.0 33             Alle
+NTNU 194174 Fransk, årsstudium                                 Alle               Alle      Alle                Alle
+NTNU 194179 Historie, årsstudium                               47.2 34            33.6 4    47.5 94             34.4 22
+NTNU 194184 Biologi og kjemi, årsstudium                       52.9 23            49.8 15   52.9 58             49.8 41
+NTNU 194200 Kunsthistorie                                      Alle               Alle      Alle                Alle
+NTNU 194205 Matematikk og statistikk, årsstudium               53.9 33            47.7 19   53.9 55             47.7 34
+NTNU 194210 Nordisk, årsstudium                                Alle               Alle      Alle                Alle
+NTNU 194220 Pedagogikk, årsstudium                             49.0 78            36.3 25   49.2 212            37.0 69
+NTNU 194238 Statsvitenskap, årsstudium                         48.4 25            43.3 10   48.6 75             45.0 37
+NTNU 194239 Samfunnsøkonomi, årsstudium                        47.7 35            44.2 17   49.5 143            45.1 77
+NTNU 194240 Sosiologi, årsstudium                              44.8 46            40.8 31   46.8 147            42.6 85
+NTNU 194242 Studier av kunnskap, teknologi og samfunn (STS)    43.5 6             Alle      47.9 27             35.5 5
+NTNU 194244 Tysk, årsstudium                                   Alle               Alle      Alle                Alle
+NTNU 194272 Kunsthistorie, årsstudium                          Alle               Alle      Alle                Alle
+NTNU 194284 Geografi, årsstudium                               50.5 21            40.0 7    50.5 57             40.0 20
+NTNU 194285 Samfunnskunnskap, årsstudium                       49.1 28            41.2 11   49.1 77             42.1 39
+NTNU 194294 Latin                                              Alle               Alle      Alle                Alle
+NTNU 194308 Dansevitenskap                                     Alle               Alle      Alle                Alle
+NTNU 194324 Emnestudier samfunnsvitenskap                      45.8 7             Alle      52.2 50             Alle
+NTNU 194327 Biologi                                            48.8 31            47.4 20   48.8 66             48.2 46
+NTNU 194366 Filosofi, årsstudium                               40.7 7             38.1 3    44.7 62             42.2 27
+NTNU 194367 Sosialantropologi, årsstudium                      41.8 15            40.0 8    44.9 60             40.3 33
+NTNU 194395 Informatikk                                        47.5 80            45.6 52   47.5 140            45.6 94
+NTNU 194437 Musikkvitenskap                                    Alle               Alle      Alle                Alle
+NTNU 194438 Geografi                                           38.7 12            34.8 7    38.7 29             34.8 17
+NTNU 194439 Drama og teater                                    Alle               Alle      37.8 5              Alle
+NTNU 194440 Bevegelsesvitenskap                                47.3 109           44.1 64   47.4 295            44.1 172
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      Alle                Alle
+NTNU 194457 Lingvistikk                                        Alle               Alle      Alle                Alle
+NTNU 194459 Antikkens kultur                                   Alle               Alle      Alle                Alle
+NTNU 194476 Musikkteknologi                                    46.1 15            42.3 10   46.2 20             45.0 12
+NTNU 194478 Arkeologi                                          41.8 28            38.5 13   41.8 80             38.5 37
+NTNU 194479 Filosofi                                           38.4 4             Alle      40.5 24             38.8 6
+NTNU 194481 Historie                                           42.8 22            31.7 2    43.1 60             32.2 10
+NTNU 194486 Samfunns- og idrettsvitenskap                      45.8 97            42.1 55   46.1 244            42.7 153
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            Alle               Alle      Alle                Alle
+NTNU 194626 Kristendomsk. med religions- og livssynsk.         Alle               Alle      Alle                Alle
+NTNU 194646 Film- og videoproduksjon                           52.7 93            48.8 52   53.0 274            50.4 162
+NTNU 194649 Kroppsøving og idrett, årsstudium                  57.2 107           50.4 55   61.7 293            51.5 154
+NTNU 194684 Lektorutdanning i historie                         51.9 57            48.5 46   52.5 129            50.0 99
+NTNU 194685 Lektorutdanning språkfag/engelsk                   48.5 34            46.2 21   48.5 64             46.2 43
+NTNU 194686 Lektorutdanning språkfag/fransk                    Alle               Alle      Alle                Alle
+NTNU 194687 Lektorutdanning språkfag/nordisk                   44.9 4             45.7 3    45.0 8              45.7 7
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudier humaniora, årsstudium                  Alle               Alle      Alle                Alle
+NTNU 194740 Medisin                                            66.1 726           59.0 412  66.2 1342           59.2 773
+NTNU 194752 Psykologi, årsstudium                              49.4 223           46.4 145  50.4 699            48.0 457
+NTNU 194755 Materialteknologi                                  52.3 45            51.8 38   52.3 80             51.8 68
+NTNU 194756 Arkitekt                                           58.3 142           52.7 97   58.3 313            52.8 215
+NTNU 194757 Petroleumsfag                                      55.2 201           54.8 157  55.2 396            54.8 325
+NTNU 194759 Bygg- og miljøteknikk                              53.4 142           52.2 107  53.4 254            52.2 206
+NTNU 194760 Datateknikk                                        52.4 117  47.6 1   52.3 99   52.4 215  47.6 1    52.3 182
+NTNU 194761 Elektronikk                                        50.3 69            49.9 48   50.3 118            49.9 93
+NTNU 194763 Fysikk og matematikk                               55.2 58            56.4 51   55.2 123            56.4 109
+NTNU 194764 Industriell kjemi og bioteknologi                  49.7 21            52.6 18   49.7 41             52.6 36
+NTNU 194765 Marin teknikk                                      54.7 126           53.6 94   54.7 234            53.6 184
+NTNU 194766 Produktutvikling og produksjon                     54.3 147           53.6 114  54.3 261            53.6 206
+NTNU 194767 Industriell økonomi og teknologiledelse            61.8 258           59.5 211  61.8 581            59.5 477
+NTNU 194768 Industriell design                                 57.6 71            53.0 58   58.6 125            54.0 97
+NTNU 194769 Energi og miljø                                    53.6 103           55.0 81   53.6 196            55.0 164
+NTNU 194770 Kommunikasjonsteknologi                            51.3 51   52.0 3   49.4 37   51.3 88   52.0 5    49.4 66
+NTNU 194786 Europastudier med fremmedspråk, spansk             Alle               Alle      Alle                Alle
+NTNU 194793 Europastudier med fremmedspråk, fransk             Alle               Alle      Alle                Alle
+NTNU 194795 Europastudier med fremmedspråk, tysk               Alle               Alle      Alle                Alle
+NTNU 194798 Teknisk kybernetikk                                52.2 88            52.4 62   52.2 160            52.4 128
+NTNU 194818 Samfunnsøkonomi, master                            48.0 39            46.5 30   48.1 111            46.5 87
+NTNU 194843 Lektorutdanning i realfag                          47.3 17            47.4 14   48.3 39             48.3 34
+NTNU 194847 Filmvitenskap                                      Alle               Alle      39.7 41             38.1 25
+NTNU 194851 Medievitenskap                                     40.9 26            37.6 17   42.0 109            40.5 66
+NTNU 194852 Pedagogikk                                         42.5 41            32.8 12   43.1 96             33.8 27
+NTNU 194855 Bioteknologi, master                               53.1 35            52.4 25   53.5 94             52.7 76
+NTNU 194857 Fysikk                                             54.4 41            54.4 33   54.4 90             54.4 73
+NTNU 194859 Geologi                                            53.2 61            50.8 47   53.2 128            50.8 105
+NTNU 194860 Kjemi                                              50.0 20            49.8 15   50.8 47             50.9 35
+NTNU 194862 Matematiske fag                                    50.9 21            49.0 13   50.9 40             49.0 30
+NTNU 194868 Afrikastudier                                      Alle               Alle      35.5 8              34.4 4
+NTNU 194870 Europastudier med fremmedspråk, engelsk            39.6 11            39.6 7    39.6 18             41.7 9
+NTNU 194875 Politisk økonomi                                   47.0 33            42.5 20   47.4 110            44.5 76
+NTNU 194876 Psykologi                                          51.7 295           47.0 191  52.3 780            47.3 520
+NTNU 194879 Sosialantropologi                                  38.4 17            34.6 10   39.9 80             37.7 51
+NTNU 194880 Sosiologi                                          42.7 55            39.2 29   42.7 160            40.4 95
+NTNU 194881 Statsvitskap                                       46.0 70            43.6 42   46.0 183            44.4 132
+NTNU 194887 Engelsk                                            42.4 13            37.2 6    43.4 35             37.2 14
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk                                            Alle               Alle      Alle                Alle
+NTNU 194890 Tysk                                               Alle               Alle      Alle                Alle
+NTNU 194898 Samfunnsøkonomi                                    47.5 143           43.9 88   47.8 449            44.1 298
+NTNU 194901 Språklig kommunikasjon                             Alle               Alle      Alle                Alle
+NTNU 194904 Kulturminneforvaltning                             Alle               Alle      Alle                Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           52.6 60            52.7 48   52.6 116            52.7 97
+NTNU 194910 Religionsvitenskap, årsstudium                     Alle               Alle      45.7 11             Alle
+NTNU 194912 Spansk, årsstudium                                 42.6 4             39.6 1    46.3 27             39.6 6
+NTNU 194929 Religionsvitenskap                                 Alle               Alle      Alle                Alle
+NTNU 194930 Fonetikk                                           Alle               Alle      o.i.                Alle
+NTNU 194932 Klassisk språk og litteratur                       Alle               Alle      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         46.5 12            43.3 11   48.1 34             45.3 31
+NTNU 194937 Nanoteknologi                                      63.2 66            61.1 56   63.2 150            61.1 132
+NTNU 194941 Psykologi, profesjonsstudiet                       62.0 590           55.2 337  62.8 1307           55.7 781
+NTNU 194945 Lektorutdanning i samfunnsfag                      51.3 53            48.3 45   52.0 128            48.9 106
+NTNU 194946 Tekniske geofag                                    54.2 52            52.2 41   54.2 76             52.2 62
+
+--2013--
+NTNU 194104 Afrikastudier, årsstudium                          42.2 9             39.6 3    46.7 26             39.6 10
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          TRU                          TRU
+NTNU 194123 Yrkesfaglærerutdanning helse- og oppvekst          Alle                         Alle
+NTNU 194127 Yrkesfaglærerutdanning Elektrofag                  TRU                          TRU
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod TRU                          TRU
+NTNU 194170 Engelsk, årsstudium                                47.7 50            40.0 22   47.7 132            40.0 57
+NTNU 194171 Rådgiving og voksnes læring                        48.8 17            32.7 1    48.8 30             32.7 2
+NTNU 194174 Fransk, årsstudium                                 Alle               Alle      Alle                Alle
+NTNU 194179 Historie, årsstudium                               46.4 48            36.6 15   46.4 98             36.9 33
+NTNU 194184 Biologi og kjemi                                   57.6 36            53.6 26   57.6 97             53.6 78
+NTNU 194200 Kunsthistorie                                      Alle               Alle      Alle                Alle
+NTNU 194205 Matematikk og statistikk                           54.2 18            46.1 9    54.2 39             46.1 23
+NTNU 194210 Nordisk språk og litteratur, årsstudium            Alle               Alle      Alle                Alle
+NTNU 194220 Pedagogikk, årsstudium                             48.7 79            38.2 32   48.7 202            38.2 64
+NTNU 194238 Statsvitenskap, årsstudium                         49.3 33            45.8 16   52.0 105            45.8 52
+NTNU 194239 Samfunnsøkonomi, årsstudium                        49.6 52            43.1 23   49.6 159            43.1 76
+NTNU 194240 Sosiologi, årsstudium                              47.9 70            41.5 34   47.9 168            41.5 88
+NTNU 194242 Studier av kunnskap, teknologi og samfunn (STS)    44.9 15            36.1 5    44.9 27             36.1 9
+NTNU 194244 Tysk, årsstudium                                   Alle               Alle      Alle                Alle
+NTNU 194272 Kunsthistorie, årsstudium                          Alle               Alle      Alle                Alle
+NTNU 194284 Geografi, årsstudium                               46.4 12            35.8 3    46.4 27             35.8 9
+NTNU 194285 Samfunnskunnskap                                   49.0 37            38.8 17   49.0 74             38.8 29
+NTNU 194294 Latin                                              Alle               Alle      Alle                Alle
+NTNU 194324 Emnestudier samfunnsvitenskap                      46.7 22            Alle      47.3 37             Alle
+NTNU 194327 Biologi                                            49.1 34            47.8 20   49.1 72             47.8 48
+NTNU 194366 Filosofi, årsstudium                               39.4 11            37.0 9    39.4 26             37.0 22
+NTNU 194367 Sosialantropologi, årsstudium                      46.5 31            40.8 14   46.5 68             40.8 35
+NTNU 194395 Informatikk                                        45.6 45            45.6 34   45.6 95             45.6 69
+NTNU 194437 Musikkvitenskap                                    Alle               Alle      Alle                Alle
+NTNU 194438 Geografi                                           43.9 24            37.7 9    43.9 48             37.7 18
+NTNU 194439 Drama og teater                                    Alle               Alle      Alle                Alle
+NTNU 194440 Bevegelsesvitenskap                                48.0 114           43.9 54   48.0 306            43.9 167
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      Alle                Alle
+NTNU 194459 Antikkens kultur                                   Alle               Alle      Alle                Alle
+NTNU 194476 Musikkteknologi                                    43.1 4             39.3 4    48.1 11             40.7 7
+NTNU 194478 Arkeologi                                          41.4 14            Alle      41.6 54             36.0 23
+NTNU 194479 Filosofi                                           Alle               Alle      Alle                Alle
+NTNU 194481 Historie                                           40.7 28            36.9 11   40.7 62             37.7 35
+NTNU 194486 Samfunns- og idrettsvitenskap                      45.7 76            42.1 47   45.7 191            42.1 125
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            Alle               Alle      Alle                Alle
+NTNU 194626 Kristendomsk. med religions- og livssynsk.         Alle               Alle      Alle                Alle
+NTNU 194646 Film- og videoproduksjon                           53.1 80            47.7 44   53.1 242            50.3 137
+NTNU 194649 Kroppsøving og idrett                              58.4 98            50.7 53   58.6 289            51.7 157
+NTNU 194684 Lektorutdanning i historie                         53.9 69            50.4 49   53.9 150            50.9 113
+NTNU 194685 Lektorutdanning språkfag/engelsk                   49.0 50            48.8 39   49.0 81             48.8 64
+NTNU 194686 Lektorutdanning språkfag/fransk                    Alle               Alle      Alle                Alle
+NTNU 194687 Lektorutdanning språkfag/nordisk                   45.8 6             45.7 6    45.8 11             45.7 10
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudier humaniora, årsstudium                  Alle               Alle      Alle                Alle
+NTNU 194740 Medisin                                            66.7 668           60.0 368  66.7 1298           60.0 727
+NTNU 194752 Psykologi, årsstudium                              49.7 232           46.8 143  49.7 638            46.8 385
+NTNU 194755 Materialteknologi                                  53.7 76            51.9 59   53.7 138            51.9 113
+NTNU 194756 Arkitekt                                           57.5 156           52.8 110  57.5 332            52.8 243
+NTNU 194757 Petroleumsfag                                      57.7 285           57.2 230  57.7 549            57.2 458
+NTNU 194759 Bygg- og miljøteknikk                              54.9 250           53.5 181  54.9 421            53.5 323
+NTNU 194760 Datateknikk                                        54.0 156  53.8 14  53.6 116  54.0 273  53.8 21   53.6 223
+NTNU 194761 Elektronikk                                        52.6 127           51.5 92   52.6 217            51.5 171
+NTNU 194763 Fysikk og matematikk                               56.5 94            57.2 78   56.5 194            57.2 172
+NTNU 194764 Industriell kjemi og bioteknologi                  51.4 61            51.9 38   51.4 105            51.9 76
+NTNU 194765 Marin teknikk                                      55.7 206           54.7 157  55.7 353            54.7 280
+NTNU 194766 Produktutvikling og produksjon                     55.7 206           54.7 151  55.7 366            54.7 285
+NTNU 194767 Industriell økonomi og teknologiledelse            62.7 295           59.8 238  62.7 609            59.8 506
+NTNU 194768 Industriell design                                 59.3 84            54.4 62   59.3 159            54.4 128
+NTNU 194769 Energi og miljø                                    55.1 191           55.7 151  55.1 344            55.7 282
+NTNU 194770 Kommunikasjonsteknologi                            53.2 83   52.5 16  51.1 63   53.2 126  52.5 23   51.1 103
+NTNU 194786 Europastudier med fremmedspråk, spansk             Alle               Alle      Alle                Alle
+NTNU 194793 Europastudier med fremmedspråk, fransk             Alle               Alle      Alle                Alle
+NTNU 194795 Europastudier med fremmedspråk, tysk               Alle               Alle      Alle                Alle
+NTNU 194796 Drama og teater, årsstudium                        47.0 14            37.3 2    47.5 41             40.7 13
+NTNU 194798 Teknisk kybernetikk                                53.6 132           53.9 106  53.6 239            53.9 201
+NTNU 194818 Samfunnsøkonomi, master                            48.6 45            47.5 36   48.6 101            47.5 82
+NTNU 194843 Lektorutdanning i realfag                          50.9 32            49.7 25   51.2 75             49.7 61
+NTNU 194847 Filmvitenskap                                      32.4 1             Alle      32.4 2              Alle
+NTNU 194851 Medievitenskap                                     32.1 7             34.2 3    32.1 8              34.2 4
+NTNU 194852 Pedagogikk                                         43.8 55            37.1 21   43.8 116            37.2 49
+NTNU 194855 Bioteknologi                                       52.7 59            51.9 41   52.7 127            51.9 102
+NTNU 194857 Fysikk                                             54.4 46            54.4 36   54.4 94             54.4 76
+NTNU 194859 Geologi                                            54.9 65            50.6 31   54.9 130            50.6 72
+NTNU 194860 Kjemi                                              49.8 20            50.5 16   49.8 32             50.5 26
+NTNU 194862 Matematiske fag                                    50.5 15            49.9 8    50.5 34             49.9 26
+NTNU 194868 Afrikastudier                                      40.6 10            32.7 4    40.6 27             36.5 16
+NTNU 194870 Europastudier med fremmedspråk, engelsk            39.1 7             40.0 5    39.1 19             40.0 13
+NTNU 194875 Politisk økonomi                                   44.6 22            43.6 14   44.6 64             43.6 46
+NTNU 194876 Psykologi                                          51.1 211           46.0 118  51.1 530            46.0 328
+NTNU 194879 Sosialantropologi                                  38.4 16            34.7 10   38.4 49             35.2 33
+NTNU 194880 Sosiologi                                          42.4 34            37.7 19   42.4 92             38.4 53
+NTNU 194881 Statsvitskap                                       45.9 50            44.7 28   45.9 143            44.7 89
+NTNU 194887 Engelsk                                            33.5 3             37.5 2    40.0 19             37.5 13
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk språk og litteratur                        Alle               Alle      Alle                Alle
+NTNU 194890 Tysk                                               Alle               o.i.      Alle                o.i.
+NTNU 194898 Samfunnsøkonomi                                    46.9 107           43.7 66   46.9 341            43.7 224
+NTNU 194904 Kulturminneforvaltning                             Alle               Alle      Alle                Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           54.3 88            53.2 70   54.3 147            53.2 123
+NTNU 194910 Religionsvitenskap, årsstudium                     Alle               Alle      Alle                Alle
+NTNU 194912 Spansk, årsstudium                                 Alle               Alle      40.1 6              Alle
+NTNU 194929 Religionsvitenskap                                 Alle               Alle      Alle                Alle
+NTNU 194930 Fonetikk                                           Alle               Alle      Alle                Alle
+NTNU 194932 Klassiske fag                                      Alle               Alle      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         48.7 20            47.1 14   48.7 47             47.1 38
+NTNU 194937 Nanoteknologi                                      61.3 65            61.5 54   61.3 136            61.5 118
+NTNU 194941 Psykologi, profesjonsstudiet                       63.0 531           55.7 274  63.0 1155           55.7 622
+NTNU 194945 Lektorutdanning i samfunnsfag                      54.6 69            49.6 51   54.6 157            49.9 124
+NTNU 194946 Tekniske geofag                                    55.8 81            54.3 61   55.8 130            54.3 97
+NTNU 194954 Norsk som andrespråk                               Alle               o.i.      Alle                o.i.
+
+--2014--
+NTNU 194104 Afrikastudier, årsstudium                          Alle               Alle      49.8 26             44.3 11
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          Alle                         Alle
+NTNU 194123 Yrkesfaglærerutdanning helse- og oppvekstfag       Alle                         Alle
+NTNU 194124 Yrkesfaglærerutdanning, Resturant og matfag        Alle                         Alle
+NTNU 194127 Yrkesfaglærerutdanning Elektrofag                  Alle                         Alle
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod Alle                         Alle
+NTNU 194136 Medievitenskap, årsstudium                         44.8 16            37.7 5    45.2 39             37.8 15
+NTNU 194170 Engelsk, årsstudium                                47.6 34            41.7 18   48.5 112            42.0 58
+NTNU 194171 Rådgiving og voksnes læring                        39.5 4             Alle      46.0 24             Alle
+NTNU 194174 Fransk, årsstudium                                 o.i.               o.i.      Alle                Alle
+NTNU 194179 Historie, årsstudium                               44.0 32            36.7 7    44.9 79             36.9 29
+NTNU 194184 Biologi og kjemi                                   57.8 29            52.9 20   57.8 73             52.9 54
+NTNU 194200 Kunsthistorie                                      Alle               Alle      Alle                Alle
+NTNU 194205 Matematiske fag, årsstudium                        53.8 41            49.8 31   53.8 75             49.8 53
+NTNU 194210 Nordisk språk og litteratur, årsstudium            o.i.               o.i.      Alle                Alle
+NTNU 194220 Pedagogikk, årsstudium                             49.3 82            37.8 15   51.3 230            38.6 55
+NTNU 194222 Likestilling og mangfold                           o.i.               o.i.      Alle                Alle
+NTNU 194238 Statsvitenskap, årsstudium                         43.1 13            44.0 8    51.4 74             46.4 42
+NTNU 194239 Samfunnsøkonomi, årsstudium                        48.9 33            40.9 18   53.0 163            44.6 88
+NTNU 194240 Sosiologi, årsstudium                              44.5 43            42.4 30   48.2 139            44.5 83
+NTNU 194242 Studier av kunnskap, teknologi og samfunn (STS)    o.i.               o.i.      Alle                Alle
+NTNU 194244 Tysk, årsstudium                                   o.i.               o.i.      Alle                Alle
+NTNU 194262 Filmvitenskap, årsstudium                          o.i.               o.i.      Alle                Alle
+NTNU 194272 Kunsthistorie, årsstudium                          Alle               Alle      Alle                Alle
+NTNU 194284 Geografi, årsstudium                               43.1 18            39.3 5    50.9 52             39.3 11
+NTNU 194285 Samfunnskunnskap                                   45.8 15            33.1 2    48.3 64             38.8 19
+NTNU 194294 Latin                                              o.i.               o.i.      Alle                Alle
+NTNU 194324 Emnestudier samfunnsvitenskap                      50.4 30            Alle      51.3 61             Alle
+NTNU 194327 Biologi                                            50.3 39            47.7 21   50.3 92             47.7 62
+NTNU 194366 Filosofi, årsstudium                               41.2 10            41.9 4    43.0 41             41.9 15
+NTNU 194367 Sosialantropologi, årsstudium                      42.8 9             37.0 3    46.9 52             41.5 26
+NTNU 194395 Informatikk                                        47.2 84            46.3 51   47.2 155            46.3 99
+NTNU 194437 Musikkvitenskap                                    Alle               Alle      Alle                Alle
+NTNU 194438 Geografi                                           41.8 11            35.0 4    41.8 20             36.9 8
+NTNU 194439 Drama og teater                                    Alle               Alle      Alle                Alle
+NTNU 194440 Bevegelsesvitenskap                                46.5 81            41.8 37   46.5 212            42.5 123
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      Alle                Alle
+NTNU 194459 Antikkens kultur                                   Alle               Alle      Alle                Alle
+NTNU 194476 Musikkteknologi                                    45.6 8             Alle      45.6 7              Alle
+NTNU 194478 Arkeologi                                          Alle               Alle      39.7 23             33.5 6
+NTNU 194479 Filosofi                                           Alle               Alle      Alle                Alle
+NTNU 194481 Historie                                           40.0 17            35.0 6    40.0 29             35.0 10
+NTNU 194486 Samfunns- og idrettsvitenskap                      44.6 53            40.1 22   45.5 163            41.9 93
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            o.i.               o.i.      Alle                Alle
+NTNU 194626 Kristendomsk. med religions- og livssynskunnskap   o.i.               o.i.      Alle                Alle
+NTNU 194645 Film- og medievitenskap, årsstudium                40.8 5             37.5 2    43.1 23             37.5 13
+NTNU 194646 Film- og videoproduksjon                           50.8 59            48.0 37   50.8 172            48.0 114
+NTNU 194649 Kroppsøving og idrett                              58.0 61            48.8 30   58.2 204            50.2 99
+NTNU 194684 Lektorutdanning i historie                         53.9 62            48.5 42   54.3 138            49.6 105
+NTNU 194685 Lektorutdanning språkfag/engelsk                   49.7 45            47.6 38   49.7 82             47.8 70
+NTNU 194686 Lektorutdanning språkfag/fransk                    Alle               Alle      Alle                Alle
+NTNU 194687 Lektorutdanning språkfag/nordisk                   45.8 10            44.7 4    45.8 13             44.7 8
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudie humanistiske fag, årsstudium            51.8 14            Alle      55.6 44             Alle
+NTNU 194740 Medisin                                            67.1 638           60.2 351  67.1 1203           60.2 684
+NTNU 194752 Psykologi, årsstudium                              49.8 260           47.7 177  49.9 701            47.7 451
+NTNU 194755 Materialteknologi                                  55.1 119           53.6 94   55.1 205            53.6 166
+NTNU 194756 Arkitektur                                         56.9 155           53.0 115  56.9 315            53.0 237
+NTNU 194757 Petroleumsfag                                      58.8 161           56.9 121  58.8 331            56.9 261
+NTNU 194759 Bygg- og miljøteknikk                              55.8 235           54.0 180  55.8 436            54.0 333
+NTNU 194760 Datateknologi                                      55.1 174  54.7 19  54.4 141  55.1 314  54.7 30   54.4 262
+NTNU 194761 Elektronisk systemdesign og innovasjon             54.3 150           52.8 114  54.3 250            52.8 197
+NTNU 194763 Fysikk og matematikk                               57.3 103           58.6 85   57.3 195            58.6 169
+NTNU 194764 Industriell kjemi og bioteknologi                  53.8 102           52.8 77   53.8 171            52.8 131
+NTNU 194765 Marin teknikk                                      56.4 171           55.4 129  56.4 341            55.4 267
+NTNU 194766 Produktutvikling og produksjon                     56.3 179           54.9 143  56.3 338            54.9 272
+NTNU 194767 Industriell økonomi og teknologiledelse            63.5 322           60.2 272  63.5 652            60.2 534
+NTNU 194768 Industriell design                                 57.9 68            54.1 55   58.0 130            54.1 105
+NTNU 194769 Energi og miljø                                    56.0 191           56.3 153  56.0 388            56.3 319
+NTNU 194770 Kommunikasjonsteknologi                            54.5 93   56.6 20  52.9 73   54.5 178  56.6 42   52.9 148
+NTNU 194777 Musikkvitenskap, årsstudium                        Alle               Alle      45.9 5              45.9 2
+NTNU 194786 Europastudier med fremmedspråk, spansk             Alle               Alle      Alle                Alle
+NTNU 194793 Europastudier med fremmedspråk, fransk             Alle               Alle      Alle                Alle
+NTNU 194795 Europastudier med fremmedspråk, tysk               Alle               Alle      Alle                Alle
+NTNU 194796 Drama og teater, årsstudium                        48.7 14            44.2 6    48.7 33             44.2 14
+NTNU 194798 Kybernetikk og robotikk                            55.8 205           55.3 167  55.8 401            55.3 330
+NTNU 194818 Samfunnsøkonomi, master                            47.8 26            46.0 21   50.4 102            49.8 77
+NTNU 194843 Lektorutdanning i realfag                          51.4 27            50.7 23   51.4 65             50.7 55
+NTNU 194847 Filmvitenskap                                      Alle               Alle      Alle                Alle
+NTNU 194851 Medievitenskap                                     35.9 9             37.1 4    35.9 20             37.1 12
+NTNU 194852 Pedagogikk                                         43.5 49            34.6 13   43.6 92             36.3 29
+NTNU 194855 Bioteknologi                                       54.2 60            53.6 50   54.2 165            53.6 143
+NTNU 194857 Fysikk                                             53.8 39            53.2 29   53.8 82             53.2 62
+NTNU 194859 Geologi                                            55.6 63            50.1 41   55.7 120            50.4 84
+NTNU 194860 Kjemi                                              50.2 34            50.4 26   50.2 59             50.4 45
+NTNU 194862 Matematiske fag                                    53.0 31            53.2 24   53.0 65             53.2 49
+NTNU 194868 Afrikastudier                                      Alle               Alle      37.1 6              38.8 4
+NTNU 194870 Europastudier med fremmedspråk, engelsk            Alle               Alle      Alle                Alle
+NTNU 194875 Politisk økonomi                                   46.1 18            39.2 7    46.8 75             42.2 48
+NTNU 194876 Psykologi                                          50.4 235           46.8 150  50.6 626            46.9 402
+NTNU 194879 Sosialantropologi                                  Alle               Alle      Alle                Alle
+NTNU 194880 Sosiologi                                          41.4 37            40.0 19   41.7 101            40.1 59
+NTNU 194881 Statsvitskap                                       46.6 51            44.2 33   46.6 150            44.7 99
+NTNU 194887 Engelsk                                            37.5 4             38.6 3    37.9 9              38.6 6
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk språk og litteratur                        Alle               Alle      Alle                Alle
+NTNU 194890 Tysk                                               o.i.               o.i.      Alle                Alle
+NTNU 194898 Samfunnsøkonomi                                    48.1 86            42.5 49   48.3 358            44.3 234
+NTNU 194904 Kulturminneforvaltning                             o.i.               o.i.      Alle                Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           54.4 84            54.4 73   54.4 156            54.4 135
+NTNU 194910 Religionsvitenskap, årsstudium                     37.7 1             Alle      45.4 16             Alle
+NTNU 194912 Spansk                                             45.6 4             Alle      45.6 16             Alle
+NTNU 194929 Religionsvitenskap                                 Alle               Alle      Alle                Alle
+NTNU 194930 Fonetikk                                           Alle               Alle      Alle                Alle
+NTNU 194932 Klassiske fag                                      Alle               Alle      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         51.4 17            46.9 10   51.4 38             47.6 28
+NTNU 194937 Nanoteknologi                                      62.8 87            61.8 75   62.8 176            61.8 149
+NTNU 194941 Psykologi, profesjonsstudiet                       63.9 545           54.9 279  63.9 1215           55.7 663
+NTNU 194945 Lektorutdanning i samfunnsfag                      54.4 61            50.2 46   54.4 138            50.2 108
+NTNU 194946 Tekniske geofag                                    56.6 53            54.9 39   56.6 105            54.9 83
+NTNU 194954 Norsk som andrespråk                               Alle               o.i.      Alle                o.i.
+
+--2015--
+NTNU 194104 Afrikastudier, årsstudium                          Alle               Alle      41.8 28             38.3 12
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          Alle                         Alle
+NTNU 194123 Yrkesfaglærerutdanning helse- og oppvekstfag       Alle                         Alle
+NTNU 194127 Yrkesfaglærerutdanning Elektrofag                  Alle                         Alle
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod Alle                         Alle
+NTNU 194136 Medievitenskap, årsstudium                         Alle               Alle      39.9 13             36.3 5
+NTNU 194170 Engelsk, årsstudium                                49.5 33            38.6 9    49.8 104            39.2 37
+NTNU 194171 Rådgiving og voksnes læring                        49.6 20            30.9 1    49.6 42             30.9 2
+NTNU 194174 Fransk, årsstudium                                 Alle               Alle      Alle                Alle
+NTNU 194179 Historie, årsstudium                               45.0 31            35.5 12   45.3 76             36.3 29
+NTNU 194184 Biologi og kjemi                                   52.6 17            52.3 11   56.8 63             54.9 41
+NTNU 194200 Kunsthistorie                                      Alle               Alle      Alle                Alle
+NTNU 194205 Matematiske fag, årsstudium                        51.0 15            47.3 13   52.1 46             48.0 30
+NTNU 194210 Nordisk språk og litteratur, årsstudium            Alle               Alle      38.8 3              Alle
+NTNU 194220 Pedagogikk, årsstudium                             51.4 116           38.3 26   52.5 321            39.0 81
+NTNU 194222 Likestilling og mangfold                           33.2 1             Alle      44.2 21             Alle
+NTNU 194238 Statsvitenskap, årsstudium                         48.2 38            42.3 17   48.7 124            42.8 63
+NTNU 194239 Samfunnsøkonomi, årsstudium                        53.0 55            42.0 25   55.1 197            43.8 100
+NTNU 194240 Sosiologi, årsstudium                              48.7 73            43.3 42   48.7 207            43.3 115
+NTNU 194242 Studier av kunnskap, teknologi og samfunn (STS)    Alle               Alle      46.8 23             Alle
+NTNU 194244 Tysk, årsstudium                                   Alle               Alle      Alle                Alle
+NTNU 194262 Filmvitenskap, årsstudium                          Alle               Alle      38.0 10             32.7 6
+NTNU 194272 Kunsthistorie, årsstudium                          Alle               Alle      Alle                Alle
+NTNU 194284 Geografi, årsstudium                               50.4 11            34.7 1    52.5 53             38.8 15
+NTNU 194294 Latin                                              Alle               Alle      34.3 2              Alle
+NTNU 194327 Biologi                                            49.9 40            47.9 27   49.9 92             47.9 73
+NTNU 194366 Filosofi, årsstudium                               Alle               Alle      45.5 47             41.8 18
+NTNU 194367 Sosialantropologi, årsstudium                      42.8 22            40.0 14   47.8 90             41.7 53
+NTNU 194395 Informatikk                                        48.9 136           47.7 94   48.9 276            47.7 201
+NTNU 194437 Musikkvitenskap                                    Alle               Alle      Alle                Alle
+NTNU 194438 Geografi                                           Alle               Alle      42.7 27             36.2 11
+NTNU 194439 Drama og teater                                    Alle               Alle      39.4 16             35.2 10
+NTNU 194440 Bevegelsesvitenskap                                44.8 84            40.9 42   46.0 252            42.4 132
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      Alle                Alle
+NTNU 194459 Antikkens kultur                                   Alle               Alle      Alle                Alle
+NTNU 194476 Musikkteknologi                                    50.3 15            40.1 7    50.3 18             40.1 9
+NTNU 194478 Arkeologi                                          39.5 6             31.4 2    39.5 31             31.4 4
+NTNU 194479 Filosofi                                           35.0 1             Alle      38.0 3              Alle
+NTNU 194481 Historie                                           34.3 3             33.2 2    40.2 38             36.4 18
+NTNU 194486 Samfunns- og idrettsvitenskap                      43.9 60            41.2 35   45.2 213            42.1 118
+NTNU 194597 Lektorutdanning i kroppsøving og idrett            54.9 82            49.1 63   55.7 228            49.6 176
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            Alle               Alle      Alle                Alle
+NTNU 194645 Film- og medievitenskap, årsstudium                Alle               Alle      44.0 25             37.0 14
+NTNU 194646 Film- og videoproduksjon                           52.3 62            48.0 39   54.8 193            48.4 113
+NTNU 194684 Lektorutdanning i historie                         53.9 74            49.2 51   53.9 146            49.2 104
+NTNU 194685 Lektorutdanning språkfag/engelsk                   50.4 49            47.6 39   50.4 81             47.6 64
+NTNU 194686 Lektorutdanning språkfag/fransk                    Alle               Alle      Alle                Alle
+NTNU 194687 Lektorutdanning språkfag/nordisk                   48.8 17            45.4 11   48.8 25             45.4 19
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudier humanistiske fag, årsstudium           49.6 7             Alle      55.2 48             Alle
+NTNU 194740 Medisin                                            67.0 554           60.0 311  67.0 1067           60.4 626
+NTNU 194752 Psykologi, årsstudium                              49.6 225           46.3 114  49.7 714            46.4 399
+NTNU 194755 Materialteknologi                                  54.5 72            54.4 59   54.5 143            54.4 120
+NTNU 194756 Arkitektur                                         58.4 181           53.6 129  58.4 398            53.6 294
+NTNU 194757 Petroleumsfag                                      53.8 36            51.7 29   54.1 74             52.6 57
+NTNU 194759 Bygg- og miljøteknikk                              56.3 234           54.8 181  56.3 406            54.8 318
+NTNU 194760 Datateknologi                                      55.2 172  57.2 24  55.2 145  55.2 307  57.2 32   55.2 262
+NTNU 194761 Elektronisk systemdesign og innovasjon             54.7 123           53.2 100  54.7 211            53.2 176
+NTNU 194763 Fysikk og matematikk                               57.6 100           58.3 91   57.6 191            58.3 173
+NTNU 194764 Industriell kjemi og bioteknologi                  53.5 75            53.9 63   53.5 137            53.9 112
+NTNU 194765 Marin teknikk                                      55.9 122           54.7 96   55.9 238            54.7 196
+NTNU 194766 Produktutvikling og produksjon                     55.8 141           54.3 108  55.8 277            54.3 223
+NTNU 194767 Industriell økonomi og teknologiledelse            64.0 326           60.6 256  64.0 658            60.6 510
+NTNU 194768 Industriell design                                 57.9 76            54.3 54   57.9 130            54.3 96
+NTNU 194769 Energi og miljø                                    56.0 139           56.4 108  56.0 292            56.4 250
+NTNU 194770 Kommunikasjonsteknologi                            54.7 77   55.4 13  54.0 63   54.7 126  55.4 22   54.0 108
+NTNU 194777 Musikkvitenskap, årsstudium                        Alle               Alle      Alle                Alle
+NTNU 194786 Europastudier med fremmedspråk, spansk             Alle               Alle      Alle                Alle
+NTNU 194793 Europastudier med fremmedspråk, fransk             Alle               Alle      Alle                Alle
+NTNU 194795 Europastudier med fremmedspråk, tysk               Alle               Alle      Alle                Alle
+NTNU 194796 Drama og teater, årsstudium                        50.6 14            45.4 9    51.4 45             45.4 22
+NTNU 194798 Kybernetikk og robotikk                            56.3 202           56.5 166  56.3 369            56.5 300
+NTNU 194818 Samfunnsøkonomi, master                            47.6 27            45.6 17   49.8 93             48.8 69
+NTNU 194843 Lektorutdanning i realfag                          48.2 18            47.2 13   49.0 45             49.8 38
+NTNU 194847 Filmvitenskap                                      Alle               Alle      33.0 7              32.3 5
+NTNU 194851 Medievitenskap                                     Alle               Alle      Alle                Alle
+NTNU 194852 Pedagogikk                                         44.3 52            37.9 18   45.4 149            39.0 69
+NTNU 194855 Bioteknologi                                       55.0 79            54.9 65   55.0 194            54.9 157
+NTNU 194857 Fysikk                                             53.5 61            53.9 47   53.5 121            53.9 96
+NTNU 194859 Geologi                                            52.6 30            48.4 22   53.0 68             49.6 47
+NTNU 194860 Kjemi                                              51.8 38            51.5 26   51.9 84             51.5 65
+NTNU 194862 Matematiske fag                                    51.6 26            51.2 22   51.6 53             51.2 44
+NTNU 194868 Afrikastudier                                      Alle               Alle      34.8 3              31.7 2
+NTNU 194870 Europastudier med fremmedspråk, engelsk            Alle               Alle      33.5 2              32.8 2
+NTNU 194875 Politisk økonomi                                   45.3 29            40.9 16   45.9 98             42.0 58
+NTNU 194876 Psykologi                                          49.8 236           46.6 146  49.8 740            46.6 459
+NTNU 194879 Sosialantropologi                                  38.9 24            34.4 13   40.1 75             36.3 41
+NTNU 194880 Sosiologi                                          42.8 50            39.3 22   44.2 183            40.4 93
+NTNU 194881 Statsvitskap                                       45.0 54            43.2 38   46.0 172            45.0 118
+NTNU 194887 Engelsk                                            Alle               Alle      38.0 24             37.2 19
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk språk og litteratur                        Alle               Alle      Alle                Alle
+NTNU 194890 Tysk                                               Alle               Alle      Alle                Alle
+NTNU 194898 Samfunnsøkonomi                                    47.5 115           42.9 73   48.1 373            44.3 264
+NTNU 194904 Kulturminneforvaltning                             Alle               Alle      Alle                Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           55.1 92            54.4 74   55.1 154            54.4 131
+NTNU 194910 Religionsvitenskap, årsstudium                     41.3 2             Alle      43.3 16             Alle
+NTNU 194912 Spansk                                             Alle               Alle      Alle                Alle
+NTNU 194929 Religionsvitenskap                                 Alle               Alle      39.7 3              Alle
+NTNU 194930 Fonetikk                                           Alle               Alle      Alle                Alle
+NTNU 194932 Klassiske fag                                      Alle               Alle      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         51.8 21            46.2 14   52.4 42             47.6 30
+NTNU 194937 Nanoteknologi                                      63.0 87            62.0 73   63.0 185            62.2 155
+NTNU 194941 Psykologi, profesjonsstudiet                       64.5 566           56.4 323  64.5 1252           56.4 735
+NTNU 194945 Lektorutdanning i samfunnsfag                      52.3 60            49.2 46   52.3 123            49.2 102
+NTNU 194946 Tekniske geofag                                    55.0 18            53.9 13   55.0 33             53.9 24
+NTNU 194954 Norsk som andrespråk                               Alle               Alle      Alle                Alle
