@@ -1,2 +1,2 @@
--- koble navn til studiekodene i den svære fila
--- plott!
+Python dictionary with study ID and name
+connect these with the processed data
