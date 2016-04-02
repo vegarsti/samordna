@@ -1,13 +1,12 @@
 #!/bin/sh
 
 # Necessary files:
-
-# In data/
+# data/
 #   - NTNU.txt
 #   - UIO.txt
-# In utils/
-#   - clean.awk
-#   - clean.py
+# utils/
+#   - scorelines.awk
+#   - 6lines.py
 #   - gather.awk
 
 # Create directory if it does not exist
@@ -27,7 +26,9 @@ for UNIVERSITY in UiO NTNU; do
     awk -F ',' -f utils/gather.awk |
     tr ' ' ',' > tmp.csv
 
+    # Split into the two separate files
     awk 'NR % 2 == 1' tmp.csv > processed/${UNIVERSITY}-ORD.csv
     awk 'NR % 2 == 0' tmp.csv > processed/${UNIVERSITY}-FORST.csv
+
     rm tmp.csv ${UNIVERSITY}-tmp.txt
 done
