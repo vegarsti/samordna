@@ -6,7 +6,7 @@
 #   - UIO.txt
 # utils/
 #   - scorelines.awk
-#   - 6lines.py
+#   - 7lines.py
 #   - gather.awk
 
 # Create directory if it does not exist
@@ -21,7 +21,7 @@ for UNIVERSITY in UiO NTNU; do
     cat ${UNIVERSITY}-tmp.txt |
     awk -f utils/scorelines.awk |
     sort -s -n -k 1,1 |
-    python utils/6lines.py | # or awk -f utils/6lines.awk
+    python utils/7lines.py | # or awk -f utils/6lines.awk
     tr ' ' ',' |
     awk -F ',' -f utils/gather.awk |
     tr ' ' ',' > tmp.csv
