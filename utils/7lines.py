@@ -3,7 +3,7 @@
 
 import sys
 
-minimum = 6
+minimum = 7
 buff = []
 count = 0
 first = ''
