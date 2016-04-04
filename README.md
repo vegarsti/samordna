@@ -14,3 +14,7 @@ I gathered the data for the universities NTNU  (_Norwegian University of Science
 ###Usage
 Running `bash script.sh` will create a `.csv` file that looks like this:
 ![Screenshot of the finished files.](http://i.imgur.com/vGonfgu.png)
+
+
+###Coming up
+Will be expanding this so that the name of the programme connects to the scores.
