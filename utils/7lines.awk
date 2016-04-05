@@ -1,9 +1,9 @@
 $1 == prev {
-   ++cnt
+   ++count
    block = block $0 RS
-   if (cnt == 6) {
+   if (count == 7) {
       printf block
-      cnt = 0
+      count = 0
       block = ""
    }
    next
@@ -12,5 +12,5 @@ $1 == prev {
 {
    block = $0 RS
    prev = $1
-   cnt = 1
+   count = 1
 }
