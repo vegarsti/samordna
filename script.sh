@@ -11,9 +11,13 @@
 #   - append_titles.py
 
 # Extract NTNU and UIO data from complete year files
+echo "" > data/NTNU.txt
+echo "" > data/UIO.txt
+echo "" > data/UIB.txt
 for year in 2009 2010 2011 2012 2013 2014 2015; do
     sed -n '/naturvitenskapelige/,/^$/p' data/${year}.txt >> data/NTNU.txt
     sed -n '/Universitetet i Oslo/,/^$/p' data/${year}.txt >> data/UIO.txt
+    sed -n '/Universitetet i Bergen/,/^$/p' data/${year}.txt >> data/UIB.txt
 done
 
 
@@ -27,7 +31,10 @@ tr ',' ':' > tmp-NTNU-2.txt
 cut -c 5-10 data/UIO.txt > tmp-UIO-1.txt
 cut -c 12-63 data/UIO.txt |
 tr ',' ':' > tmp-UIO-2.txt
-
+# UIB
+cut -c 5-10 data/UIB.txt > tmp-UIB-1.txt
+cut -c 12-63 data/UIB.txt |
+tr ',' ':' > tmp-UIB-2.txt
 
 # Extract IDs and scores
 
@@ -37,12 +44,15 @@ tr -s ' ' > tmp-NTNU.txt
 # UIO
 cut -c 5-11,82-87,93-96 data/UIO.txt |
 tr -s ' ' > tmp-UIO.txt
+# UIB
+cut -c 5-11,92-96,102-106 data/UIB.txt |
+tr -s ' ' > tmp-UIB.txt 
 
 # Create directory if it does not exist
 mkdir -p processed
 
 # Process data from both universities
-for uni in UIO NTNU; do
+for uni in UIO NTNU UIB; do
     awk -f utils/scorelines.awk tmp-${uni}.txt | # Keep lines with actual scores
     sort -s -n -k 1,1 |                 # Sort by study ID; keep year order
     python utils/7lines.py |            # Keep those IDs with scores all 7 years
