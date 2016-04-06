@@ -12,56 +12,56 @@
 #   - gather.awk
 #   - append_titles.py
 
+# Ensure empty files (only necessary if last run crashed, really)
+for uni in NTNU UIO UIB NHH; do
+    echo "" > tmp1-${uni}.txt
+done
+
 # Extract data from complete year files
-echo "" > data/NTNU.txt     # Ensure empty files
-echo "" > data/UIO.txt
-echo "" > data/UIB.txt
-echo "" > data/NHH.txt
 for year in 2009 2010 2011 2012 2013 2014 2015; do
-    #sed -n '/naturvitenskapelige/,/^$/p' data/${year}.txt >> data/NTNU.txt
-    #sed -n '/Universitetet i Oslo/,/^$/p' data/${year}.txt >> data/UIO.txt
-    #sed -n '/Universitetet i Bergen/,/^$/p' data/${year}.txt >> data/UIB.txt
-    sed -n '/Norges Handelshøyskole/,/^$/p' data/${year}.txt >> data/NHH.txt
+    sed -n '/Norges teknisk/,/^$/p' data/${year}.txt >> tmp1-NTNU.txt
+    sed -n '/Universitetet i Oslo/,/^$/p' data/${year}.txt >> tmp1-UIO.txt
+    sed -n '/Universitetet i Bergen/,/^$/p' data/${year}.txt >> tmp1-UIB.txt
+    sed -n '/Norges Handelshøyskole/,/^$/p' data/${year}.txt >> tmp1-NHH.txt
 done
 
 # Extract programme IDs and names
+function extract {
+    # $1 = interval 1
+    # $2 = interval 2
+    # $3 = interval 3
+    # $4 = university
+    cut -c "$1" tmp1-"$4".txt > tmp-"$4"-1.txt
+    cut -c "$2" tmp1-"$4".txt |
+    tr ',' ':' > tmp-"$4"-2.txt
+    cut -c "$3" tmp1-"$4".txt |
+    tr -s ' ' > tmp-"$4".txt
+    paste -d ',' tmp-"$4"-1.txt tmp-"$4"-2.txt > tmp-"$4"-studies-IDs.txt
+}
 
 # NTNU
-cut -c 6-11 data/NTNU.txt > tmp-NTNU-1.txt
-cut -c 13-62 data/NTNU.txt |
-tr ',' ':' > tmp-NTNU-2.txt
+university=NTNU
+interval1="6-11"; interval2="13-62"; interval3="6-12,92-96,110-116"
+extract ${interval1} ${interval2} ${interval3} ${university}
+
 # UIO
-cut -c 5-10 data/UIO.txt > tmp-UIO-1.txt
-cut -c 12-63 data/UIO.txt |
-tr ',' ':' > tmp-UIO-2.txt
+university=UIO
+interval1="5-10"; interval2="12-63"; interval3="5-11,82-87,93-96"
+extract ${interval1} ${interval2} ${interval3} ${university}
+
 # UIB
-cut -c 5-10 data/UIB.txt > tmp-UIB-1.txt
-cut -c 12-63 data/UIB.txt |
-tr ',' ':' > tmp-UIB-2.txt
+university=UIB
+interval1="5-10"; interval2="12-63"; interval3="5-11,92-96,102-106"
+extract ${interval1} ${interval2} ${interval3} ${university}
+
 # NHH
-cut -c 5-10 data/NHH.txt > tmp-NHH-1.txt
-cut -c 12-63 data/NHH.txt |
-tr ',' ':' > tmp-NHH-2.txt
-
-# Extract IDs and scores
-
-# NTNU
-cut -c 6-12,92-96,110-116 data/NTNU.txt |
-tr -s ' ' > tmp-NTNU.txt
-# UIO
-cut -c 5-11,82-87,93-96 data/UIO.txt |
-tr -s ' ' > tmp-UIO.txt
-# UIB
-cut -c 5-11,92-96,102-106 data/UIB.txt |
-tr -s ' ' > tmp-UIB.txt 
-# NHH
-cut -c 5-11,82-86,92-96 data/NHH.txt |
-tr -s ' ' > tmp-NHH.txt 
-
+university=NHH
+interval1="5-10"; interval2="12-63"; interval3="5-11,82-86,92-96"
+extract ${interval1} ${interval2} ${interval3} ${university}
 
 # Create directory if it does not exist
-mkdir -p processed
-
+mkdir -p processed/ordinary
+mkdir -p processed/first
 
 # Process data from all universities
 for uni in UIO NTNU UIB NHH; do
@@ -72,21 +72,15 @@ for uni in UIO NTNU UIB NHH; do
     awk -F ',' -f utils/gather.awk |    # Gather all 7 scores for ID on one line
     tr ' ' ',' > tmp.csv                # Replace spaces with commas
 
-    # Split into the two separate files, one for ordinary, one for first
+    # Split into two separate files, one for ordinary quota, one for the other
     awk 'NR % 2 == 1' tmp.csv > tmp-${uni}-ORD.csv
     awk 'NR % 2 == 0' tmp.csv > tmp-${uni}-FORST.csv
 
-    # Add programme names
-    paste -d ',' tmp-${uni}-1.txt tmp-${uni}-2.txt > ${uni}-studies-IDs.txt
-    mkdir -p processed/ORD
-    mkdir -p processed/FORST
-    python utils/append_titles.py tmp-${uni}-ORD.csv processed/ORD/${uni}.csv ${uni}-studies-IDs.txt ${uni}
-    python utils/append_titles.py tmp-${uni}-FORST.csv processed/FORST/${uni}.csv ${uni}-studies-IDs.txt ${uni}
+    # Add programme names and universities
+    python utils/append_titles.py tmp-${uni}-ORD.csv processed/ordinary/${uni}.csv tmp-${uni}-studies-IDs.txt ${uni}
+    python utils/append_titles.py tmp-${uni}-FORST.csv processed/first/${uni}.csv tmp-${uni}-studies-IDs.txt ${uni}
     #      utils/append_titles.py [file w/o names] [outfile] [file w/names] [uni]
-
-    rm data/${uni}.txt
 done
 
 # Cleanup
 rm tmp*
-rm *-studies-IDs.txt

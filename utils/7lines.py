@@ -13,6 +13,9 @@ lines = sys.stdin.readlines()
 for line in lines:
     if line.split()[0] == first:
         count += 1
+        if count == minimum:
+            for line in buff:
+                sys.stdout.write(line)
     else:
         if count == minimum:
             for line in buff:

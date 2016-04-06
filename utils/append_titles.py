@@ -25,6 +25,7 @@ with open(infile, 'r') as csvinput:
             name = studies_dict[ID]
             row.insert(1, school)
             row.insert(2, name)
+                
             document.append(row)
 
         writer.writerows(document)
