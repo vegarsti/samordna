@@ -1,0 +1,1548 @@
+Ansgar Teologiske                                              VARA               HOVED
+Høgskole                                                       ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+ATH 255196 Kristendom, religion og livssyn                     Alle      Alle     Alle      Alle
+ATH 255418 Interkulturell forståelse, årsstudium               Alle      Alle     Alle      Alle
+ATH 255437 Musikk                                              Alle      Alle     Alle      Alle
+ATH 255480 Teologi                                             Alle      Alle     Alle      Alle
+ATH 255482 Kristendom, religion og livssyn                     Alle      Alle     Alle      Alle
+ATH 255752 Psykologi , årsstudium                              Alle      Alle     Alle      Alle
+ATH 255777 Musikk, årsstudium                                  Alle      Alle     Alle      Alle
+ATH 255869 Interkulturell forståelse                           Alle      Alle     Alle      Alle
+ATH 255876 Psykologi med religion og helse                     Alle      Alle     Alle      Alle
+ATH 255936 Praktisk teologi                                    Alle      Alle     Alle      Alle
+
+
+
+Arkitektur- og                                                 VARA               HOVED
+designhøgskolen i Oslo                                         ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+AHO 189030 Arkitekt                                            o.i.      o.i.     #### 49   Alle
+AHO 189343 Industridesign                                      #### 7    o.i.     #### 8    Alle
+
+
+
+Betanien diakonale                                             VARA               HOVED
+høgskole                                                       ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+BDH 250050 Sykepleierutdanning                                 45.7 149  40.0 60  46.2 307  40.8 117
+
+
+
+Det teologiske                                                 VARA               HOVED
+Menighetsfakultet                                              ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+MF 190196 Kristendom/RLE                                       Alle      Alle     Alle      Alle
+MF 190242 Samfunnsfag                                          Alle      Alle     Alle      Alle
+MF 190418 Tverrkulturell kommunikasjon, årsstudium             Alle      Alle     Alle      Alle
+MF 190480 Teologi, profesjonsstudium                           Alle      Alle     Alle      Alle
+MF 190482 Religion, kultur og samfunn                          Alle      Alle     Alle      Alle
+MF 190927 Ungdom, kultur og tro                                Alle      Alle     Alle      Alle
+MF 190934 Lektor- og adjunktprogram                            Alle      Alle     Alle      Alle
+MF 190936 Teologi                                              Alle      Alle     Alle      Alle
+
+
+
+Diakonhjemmet Høgskole                                         VARA               HOVED
+Oslo                                                           ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+DHS 251050 Sykepleierutdanning, Oslo                           48.3 222  42.5 58  49.1 458  43.5 172
+DHS 251060 Vernepleierutdanning, Rogaland                      40.0 27   Alle     41.0 46   27.9 3
+DHS 251061 Vernepleierutdanning deltid, Haugesund              44.8 26   32.7 3   46.6 43   32.7 4
+DHS 251080 Sosialt arbeid, Oslo                                49.0 164  38.1 36  49.2 281  38.3 61
+DHS 251081 Sosialt arbeid, deltid, Oslo                        42.6 19   Alle     42.6 27   Alle
+DHS 251700 Ergoterapeututdanning, Rogaland                     Alle      Alle     32.0 1    Alle
+
+
+
+Dronning Mauds Minne                                           VARA               HOVED
+Høgskolen                                                      ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+DMMH 253130 Førskolelærerutdanning                             31.2 2    Alle     35.9 67   33.7 42
+DMMH 253131 Førskolelærer, estetisk linje                      38.0 3    33.2 2   38.4 16   34.1 10
+DMMH 253132 Førskolelærer, natur- og friluftslinje.            40.2 14   34.5 6   40.8 36   35.7 21
+DMMH 253133 Førskolelærer, deltid                              44.0 18   Alle     44.0 25   Alle
+DMMH 253134 Førskolelærer, kulturarv, barnekult, svensk/norsk  Alle      Alle     Alle      Alle
+DMMH 253529 Førskolelærer, Internasj. forståelse, flerkult arb Alle      Alle     Alle      Alle
+
+
+
+Fjellhaug Misjonshøgskole                                      VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+FMH 258480 Teologi og misjon                                   Alle      Alle     Alle      Alle
+FMH 258626 KRL                                                 Alle      Alle     Alle      Alle
+FMH 258777 Musikk                                              Alle      Alle     Alle      Alle
+
+
+
+Haraldsplass diakonale                                         VARA               HOVED
+høgskole                                                       ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HDH 252050 Sykepleierutdanning                                 46.7 194  42.2 85  47.0 391  43.2 171
+
+
+
+Høgskolen i Akershus                                           VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HIAK 202050 Sykepleierutdanning                                42.0 199  33.0 30  42.5 363  36.6 105
+HIAK 202060 Vernepleierutdanning                               43.2 121  Alle     45.1 223  30.0 11
+HIAK 202063 Vernepleierutdanning, deltid                       41.3 65   Alle     42.1 116  Alle
+HIAK 202105 Yrkesfaglærerutdanning i service og samferdsel     Alle               Alle
+HIAK 202106 Yrkesfaglærerutd. i helse- og sosialfag, deltid    Alle               Alle
+HIAK 202108 Yrkesfaglærerutd. i design-og håndverksfag, deltid Alle               Alle
+HIAK 202109 Yrkesfaglærerutd. i bygg og anleggsteknikk         Alle               Alle
+HIAK 202123 Yrkesfaglærerutd. i helse- og sosialfag            Alle               Alle
+HIAK 202124 Yrkesfaglærerutd. i restaurant- og matfag          Alle               Alle
+HIAK 202126 Yrkesfaglærerutd. i design-og håndverksfag         Alle               Alle
+HIAK 202127 Yrkesfaglærerutd. i elektrofag                     Alle               Alle
+HIAK 202129 Yrkesfaglærerutd. i teknikk og industriell prod.   Alle               Alle
+HIAK 202405 Produktdesign                                      Alle      Alle     Alle      Alle
+HIAK 202408 Samfunnsernæring                                   51.0 50   41.1 13  52.3 122  43.8 45
+HIAK 202876 Læringspsykologi med vekt på adferdsanalyse        46.7 53   36.4 8   48.8 107  37.2 24
+HIAK 202896 Husøkonomi og serviceledelse                       Alle      Alle     Alle      Alle
+HIAK 202897 Kostøkonomi, ernæring og ledelse                   Alle      Alle     Alle      Alle
+
+
+
+Høgskolen i Bergen                                             VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIB 203003 Ingeniør, bygg                                      44.8 21   Alle     41.2 10   44.8 43   Alle      41.2 24
+HIB 203004 Ingeniør, data                                      43.2 5    Alle     36.1 1    43.2 9    Alle      36.1 2
+HIB 203006 Ingeniør, elkraftteknikk                            Alle      Alle     Alle      Alle      Alle      Alle
+HIB 203009 Ingeniør, kjemi                                     Alle      Alle     Alle      Alle      Alle      Alle
+HIB 203011 Ingeniør, marinteknikk                              45.6 23   Alle     41.9 11   46.8 47   Alle      43.6 25
+HIB 203012 Ingeniør, maskinteknikk                             48.5 20   Alle     40.5 4    48.5 38   36.0 1    40.5 10
+HIB 203017 Ingeniør, automatisering                            44.4 7    38.0 2   Alle      44.4 10   38.0 2    36.5 2
+HIB 203024 Ingeniør, elektronikk                               Alle      Alle     Alle      Alle      Alle      Alle
+HIB 203028 Ingeniør, kommunikasjonssystemer                    Alle      Alle     Alle      Alle      Alle      Alle
+HIB 203045 Ingeniør, produksjonsteknikk                        39.5 1    Alle     Alle      39.5 1    Alle      Alle
+HIB 203050 Sykepleierutdanning                                 45.5 307           42.5 159  48.4 884            43.8 476
+HIB 203060 Vernepleierutdanning                                46.2 132           38.6 47   46.9 285            39.3 115
+HIB 203080 Sosialt arbeid                                      51.2 236           44.6 127  51.6 547            45.5 308
+HIB 203096 Ingeniør, undervannsteknologi                       50.8 38   36.0 1   40.9 8    52.8 63   36.0 2    41.0 11
+HIB 203130 Førskolelærerutdanning                              Alle               Alle      34.8 51             30.5 24
+HIB 203132 Førskolelærerutd. med vekt på kunstfag              Alle               Alle      40.9 21             34.6 7
+HIB 203133 Førskolelærerutd, m/vekt på natur og friluftsliv    38.0 17            37.4 8    43.7 79             40.8 37
+HIB 203203 Folkehelsearbeid                                    49.9 79            45.5 49   49.9 226            45.6 123
+HIB 203369 Økonomi og administrasjon                           50.7 385           47.3 266  50.7 1037           47.3 714
+HIB 203395 Informasjonsteknologi                               Alle               Alle      37.7 4              Alle
+HIB 203440 Faglærerutdanning, idrett                           51.1 115           47.1 65   53.3 340            47.6 202
+HIB 203446 Mat og helse                                        55.2 68            49.4 27   56.3 177            49.4 69
+HIB 203466 Tegnspråk og tolking                                47.9 26            35.7 5    47.9 66             36.2 12
+HIB 203547 Grunnskolelærer 1.-7. trinn                         Alle               Alle      39.6 28             39.7 25
+HIB 203548 Grunnskolelærer 1.-7. trinn med musikk              Alle               Alle      Alle                Alle
+HIB 203618 Drama                                               51.2 22            43.1 9    54.2 68             43.1 25
+HIB 203651 Grunnskolelærer 5.-10. trinn med kunst/håndverk     44.1 7             40.5 5    44.4 21             41.5 14
+HIB 203655 Grunnskolelærer 5.-10. trinn med matematikk         51.4 39            45.7 27   54.2 94             47.0 59
+HIB 203657 Grunnskolelærer 5.-10. trinn med samfunnsfag        49.8 59            45.9 44   50.5 141            46.2 98
+HIB 203658 Grunnskolelærer 5.-10. trinn med norsk              44.6 15            42.6 11   44.6 29             42.6 21
+HIB 203659 Grunnskolelærer 5.-10. trinn med mat og helse       46.9 12            43.3 10   47.6 37             43.3 27
+HIB 203660 Grunnskolelærer 5.-10. trinn med musikk             42.8 4             42.5 3    42.8 7              42.5 6
+HIB 203700 Ergoterapeututdanning                               46.8 99            42.9 51   48.1 268            44.5 155
+HIB 203701 Radiografutdanning                                  41.6 57            36.9 22   43.4 160            38.1 55
+HIB 203702 Bioingeniørutdanning                                46.3 23            45.5 11   46.3 48             45.5 33
+HIB 203703 Fysioterapeututdanning                              55.9 409           50.0 264  56.3 1179           50.6 763
+HIB 203753 Landmåling og eiendomsdesign                        45.6 36            35.8 8    45.6 82             35.8 18
+HIB 203822 Ingeniør, energiteknologi                           49.2 40   Alle     49.4 25   49.2 59   Alle      49.4 39
+
+
+
+Høgskolen i Bodø                                               VARA                         HOVED
+                                                               ORD       ORDF     PRA       ORD       ORDF      PRA
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HBO 204050 Sykepleierutdanning, Bodø                           36.4 12   29.6 1             41.2 83   34.5 32
+HBO 204055 Sykepleierutdanning, Mo i Rana                      o.i.      o.i.               Alle      Alle
+HBO 204070 Barnevern                                           Alle      o.i.               Alle      Alle
+HBO 204080 Sosialt arbeid                                      43.2 21   Alle               43.2 36   Alle
+HBO 204130 Førskolelærerutd., samlings- og IKT-basert          o.i.      o.i.               Alle      Alle
+HBO 204131 Førskolelærerutdanning                              o.i.      o.i.               Alle      Alle
+HBO 204140 Faglærer i kroppsøving og idrettsfag                o.i.      o.i.               Alle      Alle
+HBO 204164 Bedriftsøkonomi, årsstudium                         o.i.      o.i.               Alle      Alle
+HBO 204170 Engelsk                                             o.i.      o.i.               Alle      Alle
+HBO 204179 Historie, årsstudium                                Alle      Alle               Alle      Alle
+HBO 204184 Biologi og kjemi                                    Alle      Alle               Alle      Alle
+HBO 204219 Statsvitenskap, årsstudium                          Alle      Alle               Alle      Alle
+HBO 204233 Grunnstudium                                        o.i.      o.i.               Alle      Alle
+HBO 204249 Sosiologi, årsstudium                               Alle      Alle               Alle      Alle
+HBO 204276 Organisasjon og ledelse                             o.i.      o.i.               Alle      Alle
+HBO 204300 Informatikk                                         TRU       TRU                TRU       TRU
+HBO 204301 Business og IT                                      o.i.      o.i.               Alle      Alle
+HBO 204318 Regnskap og revisjon                                Alle      Alle               Alle      Alle
+HBO 204327 Biologi                                             Alle      Alle               Alle      Alle
+HBO 204342 Økonomi og ledelse                                  36.0 7    32.9 4             36.0 17   33.9 12
+HBO 204345 Siviløkonom                                         37.8 1    39.6 1             40.8 17   42.2 16
+HBO 204368 Eiendomsmegling                                     34.9 6    36.1 5             34.9 19   36.1 11
+HBO 204412 Informasjonsbehandling, årsstudium                  o.i.      o.i.               Alle      Alle
+HBO 204427 Animal Science                                      49.9 12   47.0 8             56.4 51   51.0 43
+HBO 204440 Idrett                                              o.i.      o.i.               Alle      Alle
+HBO 204454 Journalistikk                                       43.6 28   40.5 17  Alle      43.6 70   40.5 41   Alle
+HBO 204455 Språk                                               Alle      Alle               Alle      Alle
+HBO 204468 Bachelor of Arts; Nordic Perspectives               Alle      Alle               Alle      Alle
+HBO 204470 Økonomi og ledelse, Mo i Rana                       32.5 2    Alle               32.5 2    Alle
+HBO 204473 Eksportmarkedsføring                                Alle      Alle               Alle      Alle
+HBO 204481 Historie                                            Alle      Alle               Alle      Alle
+HBO 204547 Grunnskolelærer 1.-7. trinn                         Alle      Alle               Alle      Alle
+HBO 204548 Grunnskolelærer 1.-7. trinn, fleksibel              Alle      Alle               Alle      Alle
+HBO 204642 Kunst og håndverk                                   Alle      Alle               Alle      Alle
+HBO 204649 Idrett, årsstudium                                  o.i.      o.i.               Alle      Alle
+HBO 204651 Grunnskolelærer 5.-10. trinn                        39.3 2    41.9 2             39.3 3    41.9 3
+HBO 204655 Grunnskolelærer 5-10 trinn, fleksibe                Alle      Alle               Alle      Alle
+HBO 204867 Havbruksdrift og ledelse                            Alle      Alle               Alle      Alle
+HBO 204880 Sosiologi                                           Alle      Alle               Alle      Alle
+HBO 204881 Statsvitenskap                                      Alle      Alle               Alle      Alle
+HBO 204912 Spansk, årsstudium                                  Alle      Alle               Alle      Alle
+
+
+
+Høgskolen i Buskerud                                           VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIBU 205004 Ingeniør, data,  Kongsberg                         Alle      Alle     Alle      Alle      Alle      Alle
+HIBU 205005 Ingeniør elektro, Kongsberg                        Alle      Alle     Alle      Alle      Alle      Alle
+HIBU 205012 Ingeniør, maskin, Kongsberg                        Alle      Alle     Alle      Alle      Alle      Alle
+HIBU 205050 Sykepleier, Drammen                                40.7 182           31.8 26   41.5 297            33.8 60
+HIBU 205160 Økonomi og administrasjon, Kongsberg               Alle               Alle      Alle                Alle
+HIBU 205162 Økonomi og administrasjon, Hønefoss.               Alle               Alle      Alle                Alle
+HIBU 205205 Matematikk, Hønefoss                               Alle               Alle      Alle                Alle
+HIBU 205210 Norsk, deltid, Hønefoss                            Alle               Alle      Alle                Alle
+HIBU 205246 Juss, Hønefoss                                     47.8 48            43.2 26   47.8 103            43.2 55
+HIBU 205251 Visuell kommunikasjon, Drammen                     46.7 55            42.7 31   50.7 183            45.8 108
+HIBU 205291 Økonomi og ledelse - siviløkonom, Kongsberg        Alle               Alle      Alle                Alle
+HIBU 205317 Reiseliv, Hønefoss                                 Alle               Alle      Alle                Alle
+HIBU 205345 Økonomi og ledelse - siviløkonom, Hønefoss         Alle               Alle      Alle                Alle
+HIBU 205370 Dynamisk webdesign, Hønefoss                       Alle               Alle      Alle                Alle
+HIBU 205395 IT og informasjonssystemer, Hønefoss               Alle               Alle      Alle                Alle
+HIBU 205404 Økonomi og administrasjon, Kongsberg               Alle               Alle      Alle                Alle
+HIBU 205414 Økonomi og administrasjon, Hønefoss                Alle               Alle      Alle                Alle
+HIBU 205547 Grunnskolelærer 1.-7. trinn, Drammen               Alle               Alle      Alle                Alle
+HIBU 205620 IT og informasjonssystemer, Hønefoss               Alle               Alle      Alle                Alle
+HIBU 205622 Engelsk, deltid, Hønefoss                          Alle               Alle      Alle                Alle
+HIBU 205623 Engelsk, Hønefoss                                  Alle               Alle      Alle                Alle
+HIBU 205651 Grunnskolelærer 5.-10. trinn med språkfag, Drammen Alle               Alle      Alle                Alle
+HIBU 205655 Grunnskolelærer 5.-10. trinn med realfag, Drammen  Alle               Alle      Alle                Alle
+HIBU 205657 Grunnskolelærer 5.-10. trinn med samfunnsfag, Dr.  Alle               Alle      Alle                Alle
+HIBU 205661 Matematikk,  deltid, Hønefoss                      Alle               Alle      Alle                Alle
+HIBU 205672 Norsk, Hønefoss                                    Alle               Alle      Alle                Alle
+HIBU 205680 Samfunnsfag, deltid, Hønefoss                      Alle               Alle      Alle                Alle
+HIBU 205701 Radiograf, Drammen                                 43.6 53            28.4 1    44.3 113            32.2 12
+HIBU 205867 Juss og ledelse, Hønefoss                          43.4 47            40.2 23   44.2 124            42.1 66
+HIBU 205881 Statsvitenskap,  Drammen                           42.8 39            35.6 7    44.3 94             38.7 30
+HIBU 205894 Optometri,  Kongsberg                              29.0 1             31.8 1    35.0 13             35.7 9
+
+
+
+Høgskolen i Finnmark                                           VARA                                   HOVED
+                                                               ORD       FOR      ORDF      SAMISK    ORD       FOR       ORDF     SAMISK
+-------------------------------------------------------------- --------- -------- --------- --------- --------- --------- -------- ---------                                                  
+HIF 206006 Energiteknologi                                     TRU       TRU      TRU                 TRU       TRU       TRU
+HIF 206050 Sykepleierutdanning, Hammerfest                     Alle               Alle      Alle      Alle                Alle     Alle
+HIF 206070 Barnevern                                           Alle               Alle                Alle                Alle
+HIF 206071 Barnevern, samlinger                                Alle               Alle                Alle                Alle
+HIF 206080 Sosialt arbeid                                      Alle               Alle                Alle                Alle
+HIF 206081 Sosialt arbeid, samlinger                           Alle               Alle                Alle                Alle
+HIF 206130 Førskolelærerutdanning                              Alle               Alle                Alle                Alle
+HIF 206132 Førskolelærerutdanning, samlinger                   Alle               Alle                Alle                Alle
+HIF 206162 Økonomisk administrativ ledelse                     Alle               Alle                Alle                Alle
+HIF 206164 Bedriftsøkonomi                                     Alle               Alle                Alle                Alle
+HIF 206170 Engelsk                                             Alle               Alle                Alle                Alle
+HIF 206185 Idrett, årsstudium                                  Alle               Alle                Alle                Alle
+HIF 206255 Hotelladministrasjon                                Alle               Alle                Alle                Alle
+HIF 206319 Reiseliv og turisme                                 Alle               Alle                Alle                Alle
+HIF 206369 Økonomi og administrasjon                           Alle               Alle                Alle                Alle
+HIF 206395 Informasjonsteknologi                               TRU                TRU                 TRU                 TRU
+HIF 206440 Friluftsliv og idrett                               Alle               Alle                Alle                Alle
+HIF 206547 Grunnskolelrutda 1.-7. språkf, Finnsnes/Bardufoss   Alle               Alle                Alle                Alle
+HIF 206548 Grunnskolelærerutdanning 1.-7. språkfag, Alta       Alle               Alle                Alle                Alle
+HIF 206605 Friluftsliv                                         Alle               Alle                Alle                Alle
+HIF 206649 Idrett/kroppsøving, årsstudium                      Alle               Alle                Alle                Alle
+HIF 206651 Grunnskolelærerutdanning 5.-10. Finnsnes/Bardufoss  Alle               Alle                Alle                Alle
+HIF 206655 Grunnskolelærerutdanning 5.-10. trinn, Alta         Alle               Alle                Alle                Alle
+HIF 206663 Mediefag, årsstudium                                Alle               Alle                Alle                Alle
+HIF 206754 Reiseliv, samlingsbasert                            Alle               Alle                Alle                Alle
+HIF 206838 Medieproduksjon                                     Alle               Alle                Alle                Alle
+
+
+
+Høgskolen i Gjøvik                                             VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIG 207003 Ingeniør, bygg - konstruksjon                       Alle      Alle     Alle      Alle      Alle      Alle
+HIG 207004 Ingeniør, data                                      Alle      Alle     Alle      Alle      Alle      Alle
+HIG 207005 Ingeniør, elektro                                   Alle      Alle     Alle      Alle      Alle      Alle
+HIG 207012 Ingeniør, maskin - industriell design               Alle      Alle     Alle      Alle      Alle      Alle
+HIG 207033 Ingeniør, bygg - landmåling                         Alle      Alle     Alle      Alle      Alle      Alle
+HIG 207034 Ingeniør, maskin - Lean Manufacturing               Alle      Alle     Alle      Alle      Alle      Alle
+HIG 207040 Ingeniør, bygg - prosjektstyring og ledelse         Alle      Alle     Alle      Alle      Alle      Alle
+HIG 207046 Medieteknologi                                      Alle               Alle      Alle                Alle
+HIG 207050 Sykepleierutdanning                                 37.5 72            31.9 17   38.9 157            34.3 64
+HIG 207051 Sykepleierutdanning, deltid                         41.8 19            Alle      51.1 45             Alle
+HIG 207052 Sykepleierutdanning, deltid, Gudbrandsdal           46.8 4             Alle      46.8 9              Alle
+HIG 207053 Sykepleierutdanning, deltid, Valdres                37.6 3             Alle      37.6 7              Alle
+HIG 207054 Sykepleierutdanning, deltid, Hadeland               Alle               Alle      36.2 2              Alle
+HIG 207136 Mediemanagement, årsstudium                         Alle               Alle      Alle                Alle
+HIG 207149 Mediedesign                                         44.3 16            41.7 11   49.3 89             45.8 58
+HIG 207160 Økonomi og ledelse, årsstudium                      Alle               Alle      46.4 44             39.3 19
+HIG 207188 Medie- og informasjonsteknologi, årsstudium         Alle               Alle      Alle                Alle
+HIG 207248 Landmåling, årsstudium                              Alle               Alle      Alle                Alle
+HIG 207264 Medieproduksjon                                     Alle               Alle      Alle                Alle
+HIG 207369 Økonomi og ledelse                                  Alle               Alle      39.4 43             35.9 22
+HIG 207374 Drift av nettverk og datasystemer                   Alle               Alle      Alle                Alle
+HIG 207395 Programvareutvikling                                Alle               Alle      Alle                Alle
+HIG 207396 Geografiske informasjonssystemer (GIS), årsstudium  Alle               Alle      Alle                Alle
+HIG 207406 Geomatikk                                           Alle               Alle      Alle                Alle
+HIG 207429 Informasjonssikkerhet                               Alle               Alle      Alle                Alle
+HIG 207602 Teknologidesign, årsstudium                         Alle               Alle      Alle                Alle
+HIG 207604 Medieproduksjon, årsstudium                         Alle               Alle      Alle                Alle
+HIG 207673 Spillprogrammering                                  Alle               Alle      38.9 5              36.9 1
+HIG 207701 Radiografutdanning                                  35.5 9             Alle      42.7 51             Alle
+HIG 207824 Teknologidesign og -ledelse                         Alle               Alle      Alle                Alle
+HIG 207838 Mediemanagement                                     Alle               Alle      Alle                Alle
+
+
+
+Høgskolen i Harstad                                            VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HIH 208035 Økonomi og ledelse                                  Alle      Alle     Alle      Alle
+HIH 208050 Sykepleierutdanning                                 Alle      Alle     30.6 2    Alle
+HIH 208051 Sykepleierutdanning, deltid                         Alle      Alle     Alle      Alle
+HIH 208060 Vernepleierutdanning                                Alle      Alle     Alle      Alle
+HIH 208061 Vernepleierutdanning, deltid - Stokmarknes          Alle      Alle     Alle      Alle
+HIH 208070 Barnevernspedagogutdanning                          36.7 2    Alle     36.7 5    Alle
+HIH 208318 Revisjon                                            Alle      Alle     Alle      Alle
+HIH 208349 Reiseliv og opplevelsesproduksjon                   Alle      Alle     Alle      Alle
+HIH 208350 Handel, service og logistikk                        Alle      Alle     Alle      Alle
+HIH 208607 Produsentstudiet                                    Alle      Alle     Alle      Alle
+
+
+
+Høgskolen i Hedmark                                            VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HIHM 209050 Sykepleierutdanning, Elverum                       37.6 54   29.6 9   37.6 96   30.5 31
+HIHM 209053 Sykepleierutdanning, Kongsvinger                   40.2 30   Alle     40.2 46   27.9 1
+HIHM 209130 Førskolelærerutdanning, Hamar                      Alle      Alle     Alle      Alle
+HIHM 209132 Førskolelærerutdanning, nett- og samlingsbasert    34.5 4    Alle     37.7 14   Alle
+HIHM 209140 Faglærerutd. i kroppsøving og idrettsfag, Elverum  Alle      Alle     Alle      Alle
+HIHM 209157 Faglærerutdanning i musikk, Hamar                  Alle      Alle     Alle      Alle
+HIHM 209162 Administrasjon og ledelse, Rena                    Alle      Alle     Alle      Alle
+HIHM 209164 Bedriftsøkonomi, Rena                              Alle      Alle     Alle      Alle
+HIHM 209167 Bedriftsøkonomi, nett & samlinger, deltid          Alle      Alle     Alle      Alle
+HIHM 209172 Jakt, fiske og guiding, Evenstad (Koppang)         Alle      Alle     Alle      Alle
+HIHM 209185 Idrett, årsstudium, Elverum                        Alle      Alle     Alle      Alle
+HIHM 209223 Utmarksforvaltning, årsstudium, Evenstad (Koppang) Alle      Alle     Alle      Alle
+HIHM 209239 Krisehåndtering, deltid, Rena                      Alle      Alle     Alle      Alle
+HIHM 209242 Samfunnsfag, Hamar                                 Alle      Alle     44.5 7    Alle
+HIHM 209250 Skogbruk, årsstudium, Evenstad (Koppang)           Alle      Alle     Alle      Alle
+HIHM 209253 Servicestudiet, samlingsbasert, deltid             Alle      Alle     Alle      Alle
+HIHM 209299 Bioteknologi, Hamar                                Alle      Alle     Alle      Alle
+HIHM 209311 Landbruksteknikk, Blæstad (Hamar)                  Alle      Alle     Alle      Alle
+HIHM 209318 Revisjonsfag, Rena                                 Alle      Alle     Alle      Alle
+HIHM 209320 Agronomi, Blæstad (Hamar)                          Alle      Alle     Alle      Alle
+HIHM 209322 Skogbruk, Evenstad (Koppang)                       Alle      Alle     Alle      Alle
+HIHM 209323 Utmarksforvaltning, Evenstad (Koppang)             Alle      Alle     Alle      Alle
+HIHM 209359 Markedsføring og internasjonalisering, Rena        Alle      Alle     Alle      Alle
+HIHM 209369 Økonomi og administrasjon, Rena                    Alle      Alle     Alle      Alle
+HIHM 209393 Innovasjon, entreprenørsk. og foretaksutv., Rena   Alle      Alle     Alle      Alle
+HIHM 209409 Økologisk landbruk, årsstud, nett & saml, deltid   Alle      Alle     Alle      Alle
+HIHM 209423 Natur- og økoturisme, Evenstad (Koppang)           Alle      Alle     Alle      Alle
+HIHM 209440 Idrett - spesialisering i trenerrollen, Elverum    Alle      Alle     Alle      Alle
+HIHM 209446 Mat og helse, Elverum                              Alle      Alle     Alle      Alle
+HIHM 209451 Animasjon, Hamar                                   42.3 20   40.0 14  47.6 86   44.2 55
+HIHM 209455 Språk- og kulturfag, Hamar                         Alle      Alle     Alle      Alle
+HIHM 209470 Service Management, Rena                           Alle      Alle     Alle      Alle
+HIHM 209472 Virtuell kunst og design, Hamar                    34.0 4    35.6 3   45.2 58   43.5 38
+HIHM 209476 Music Management, Rena                             Alle      Alle     Alle      Alle
+HIHM 209486 Folkehelse med vekt på fysisk aktivitet, Elverum   Alle      Alle     Alle      Alle
+HIHM 209514 Digital medieproduksjon, Rena                      Alle      Alle     Alle      Alle
+HIHM 209516 Regnskapsførerfag, Rena                            Alle      Alle     Alle      Alle
+HIHM 209538 Faglærerutd. for tospråklige lærere,nett&samlinger Alle      Alle     Alle      Alle
+HIHM 209547 Grunnskolelærer 1.-7. trinn, Hamar                 Alle      Alle     Alle      Alle
+HIHM 209548 Grunnskolelærer 1.-7. trinn, nett & samlinger      Alle      Alle     Alle      Alle
+HIHM 209605 Friluftsliv, Elverum                               Alle      Alle     Alle      Alle
+HIHM 209623 Engelsk, Hamar                                     Alle      Alle     46.1 13   Alle
+HIHM 209626 Religion, livssyn og etikk, Hamar                  Alle      Alle     Alle      Alle
+HIHM 209650 Idrett, årsstudium, Kongsvinger                    Alle      Alle     Alle      Alle
+HIHM 209651 Grunnskolelærer  5.-10. trinn, Hamar               Alle      Alle     Alle      Alle
+HIHM 209663 Mediefag, Rena                                     Alle      Alle     Alle      Alle
+HIHM 209667 Musikk, årsstudium, Hamar                          Alle      Alle     Alle      Alle
+HIHM 209668 Landbruksteknikk årsstudium, Blæstad (Hamar)       Alle      Alle     Alle      Alle
+HIHM 209669 Bioenergi, Evenstad (Koppang)                      Alle      Alle     Alle      Alle
+HIHM 209672 Norsk, Hamar                                       Alle      Alle     Alle      Alle
+HIHM 209676 Sosialpedagogikk, Elverum                          Alle      Alle     Alle      Alle
+HIHM 209714 Musikkproduksjon, Rena                             Alle      Alle     Alle      Alle
+HIHM 209743 Tannpleie, Elverum                                 42.2 17   34.8 2   45.5 38   35.7 8
+HIHM 209839 Visuell simulering, Hamar                          32.1 1    Alle     40.8 35   39.1 24
+HIHM 209867 Organisasjons- og ledelsesfag, Rena                Alle      Alle     Alle      Alle
+
+
+
+Høgskolen i Lillehammer                                        VARA                         HOVED
+                                                               ORD       ORDF     SAMISK    ORD       ORDF      SAMISK
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIL 210035 Økonomi og administrasjon                           41.2 36   38.5 23            42.5 106  39.8 68
+HIL 210060 Vernepleierutdanning                                37.2 31   Alle               38.5 55   Alle
+HIL 210070 Barnevern                                           40.3 81   35.0 42            41.1 192  35.0 100
+HIL 210080 Sosialt arbeid                                      41.1 75   34.8 35            41.1 159  35.0 71
+HIL 210149 Film- og fjernsynsvitenskap                         Alle      Alle               Alle      Alle
+HIL 210164 Økonomi og administrasjon, årsstudium               46.7 35   44.5 21            46.7 76   44.5 42
+HIL 210185 Idrett, årsstudium                                  40.0 31   39.8 18            40.6 101  40.7 70
+HIL 210220 Pedagogikk, årsstudium                              Alle      Alle               Alle      Alle
+HIL 210240 Sosiologi, årsstudium                               Alle      Alle               Alle      Alle
+HIL 210246 Jus, årsstudium                                     43.3 54   41.8 33            43.3 147  41.8 100
+HIL 210262 Film- og fjernsynsvitenskap, årsstudium             Alle      Alle               Alle      Alle
+HIL 210264 Flerkameraproduksjon                                o.i.      o.i.     o.i.      o.i.      o.i.      o.i.
+HIL 210272 Kunsthistorie                                       Alle      Alle               Alle      Alle
+HIL 210288 Samtidshistorie og internasjonale studier           Alle      Alle               Alle      Alle
+HIL 210308 Kulturprosjektledelse                               o.i.      o.i.               o.i.      o.i.
+HIL 210317 Reiselivsledelse                                    Alle      Alle               Alle      Alle
+HIL 210319 Markedsføring og ledelse av turismeopplevelser      Alle      Alle               Alle      Alle
+HIL 210392 Dokumentarfilmproduksjon                            o.i.      o.i.               o.i.      o.i.
+HIL 210440 Idrett                                              42.9 38   41.3 27            43.0 109  41.3 71
+HIL 210481 Samtidshistorie                                     Alle      Alle               Alle      Alle
+HIL 210526 Jus                                                 43.8 114  42.4 75            43.8 248  42.4 166
+HIL 210534 Produksjons- og prosjektledelse                     o.i.      o.i.               o.i.      o.i.
+HIL 210654 Kulturprosjektledelse, årsstudium                   42.8 5    Alle               44.2 13   Alle
+HIL 210676 Pedagogikk, deltid                                  Alle      Alle               Alle      Alle
+HIL 210752 Psykologi, årsstudium                               46.5 96   43.4 56            46.5 250  43.4 151
+HIL 210754 Reiseliv og turisme, årsstudium                     Alle      Alle               Alle      Alle
+HIL 210852 Pedagogikk                                          Alle      Alle               Alle      Alle
+HIL 210867 Organisasjon og ledelse                             40.8 27   34.3 9             42.3 83   35.5 38
+HIL 210872 Internasjonale studier                              Alle      Alle               Alle      Alle
+HIL 210876 Psykologi                                           45.7 80   38.1 31            45.7 179  38.1 78
+HIL 210880 Sosiologi                                           Alle      Alle               Alle      Alle
+
+
+
+Høgskolen i Molde                                              VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HIM 211050 Sykepleierutdanning                                 32.2 4    Alle     32.2 6    Alle
+HIM 211060 Vernepleierutdanning                                37.4 9    28.8 1   37.4 13   Alle
+HIM 211164 Bedriftsøkonomi                                     Alle      Alle     Alle      Alle
+HIM 211185 Idrett                                              36.0 4    38.2 2   40.4 45   40.1 36
+HIM 211189 Informasjonsbehandling                              Alle      Alle     Alle      Alle
+HIM 211238 Statsvitenskap                                      Alle      Alle     Alle      Alle
+HIM 211246 Jus                                                 34.8 3    34.6 2   41.4 36   37.7 24
+HIM 211292 Logistikk og Supply Chain Management                Alle      Alle     Alle      Alle
+HIM 211318 Revisjon                                            Alle      Alle     Alle      Alle
+HIM 211369 Økonomi og administrasjon                           Alle      Alle     Alle      Alle
+HIM 211370 IT og logistikk                                     Alle      Alle     Alle      Alle
+HIM 211404 Siviløkonom, 1. avdeling                            Alle      Alle     41.0 23   41.0 21
+HIM 211422 IT-basert bedriftsutvikling                         Alle      Alle     Alle      Alle
+HIM 211432 Internasjonal logistikk, Ålesund                    Alle      Alle     Alle      Alle
+HIM 211488 Sport Management, idrettsledelse                    32.0 2    32.6 1   40.6 77   38.8 50
+HIM 211841 Jus og administrasjon                               Alle      Alle     34.8 8    35.2 6
+HIM 211866 Petroleumslogistikk, Kristiansund                   36.9 5    29.6 1   39.6 29   35.2 13
+
+
+
+Høgskolen i Narvik                                             VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIN 212003 Ingeniør, Allmenn Bygg                              Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212004 Ingeniør, Datateknikk                               Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212005 Ingeniør, Industriell elektronikk                   Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212006 Ingeniør, Elkraftteknikk                            Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212018 Ingeniør, Prosessteknologi                          Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212027 Ingeniør, Satelitteknologi                          Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212034 Ingeniør, Industriteknikk                           Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212040 Ingeniør, første studieår, Alta                     Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212050 Sykepleierutdanning                                 37.0 8             29.6 2    37.0 14             29.6 4
+HIN 212075 Ingeniør, Allmenn Bygg, nettbasert                  Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212076 Ingeniør, Industriteknikk, nettbasert               Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212077 Ingeniør, Prosessteknologi, nettbasert              Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212078 Ingeniør, Datateknikk, nettbasert                   Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212079 Ingeniør, første studieår, Elektro, nettbasert      Alle      Alle     Alle      Alle      Alle      Alle
+HIN 212410 Økonomi og administrasjon                           Alle               Alle      Alle                Alle
+HIN 212761 Elektroteknikk                                      Alle               Alle      Alle                Alle
+HIN 212804 Data/IT                                             Alle               Alle      Alle                Alle
+HIN 212805 Ingeniørdesign                                      Alle               Alle      Alle                Alle
+HIN 212806 Integrert bygningsteknologi                         Alle               Alle      Alle                Alle
+HIN 212811 Industriell teknologi                               Alle               Alle      Alle                Alle
+HIN 212814 Satelitteknologi                                    Alle               Alle      Alle                Alle
+
+
+
+Høgskolen i Nesna                                              VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HINE 213051 Sykepleierutdanning, deltid                        Alle      Alle     Alle      Alle
+HINE 213130 Førskolelærer                                      Alle      Alle     Alle      Alle
+HINE 213131 Førskolelærerutdanning, deltid, samlingsbasert     Alle      Alle     Alle      Alle
+HINE 213132 Førskolelærer, deltid (Lofoten)                    Alle      Alle     Alle      Alle
+HINE 213395 Informasjonsteknologi, Mo i Rana                   Alle      Alle     Alle      Alle
+HINE 213505 Kunst og håndverk, samlingsbasert                  Alle      Alle     Alle      Alle
+HINE 213547 Grunnskolelærer 1.-7. trinn                        Alle      Alle     Alle      Alle
+HINE 213620 Informasjonsteknologi, årsstudium, Mo i Rana       Alle      Alle     Alle      Alle
+HINE 213623 Engelsk samlingsbasert                             Alle      Alle     Alle      Alle
+HINE 213651 Grunnskolelærer 5.-10. trinn                       Alle      Alle     Alle      Alle
+HINE 213666 Naturfag, samlingsbasert                           Alle      Alle     Alle      Alle
+HINE 213680 Samfunnsfag, samlingsbasert                        Alle      Alle     Alle      Alle
+HINE 213777 Kreativt musikkarbeid, samlingsbasert              Alle      Alle     Alle      Alle
+
+
+
+Høgskolen i Nord-                                              VARA               HOVED
+Trøndelag                                                      ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HINT 214050 Sykepleierutdanning, Levanger                      41.3 60   33.9 17  41.9 173  37.4 87
+HINT 214058 Sykepleierutdanning, Namsos                        Alle      Alle     37.0 42   33.0 25
+HINT 214060 Vernepleierutdanning, Namsos                       Alle      Alle     Alle      Alle
+HINT 214130 Førskolelærerutdanning, Levanger                   Alle      Alle     Alle      Alle
+HINT 214185 Idrett, Levanger                                   Alle      Alle     42.5 91   42.5 66
+HINT 214240 Sosiologi, Steinkjer                               Alle      Alle     Alle      Alle
+HINT 214318 Revisjon, Steinkjer                                Alle      Alle     Alle      Alle
+HINT 214321 Husdyrfag, velferd og produksjon, Steinkjer        Alle      Alle     Alle      Alle
+HINT 214323 Utmarksforvaltning, Steinkjer                      Alle      Alle     Alle      Alle
+HINT 214369 Økonomi og administrasjon, Steinkjer               Alle      Alle     Alle      Alle
+HINT 214388 Naturforvaltning, Steinkjer                        Alle      Alle     Alle      Alle
+HINT 214396 Geografi, nettbasert, Steinkjer                    Alle      Alle     Alle      Alle
+HINT 214421 Husdyrvelferd, Steinkjer, årsstudium               Alle      Alle     Alle      Alle
+HINT 214430 Multimedieteknologi, Steinkjer                     Alle      Alle     Alle      Alle
+HINT 214440 Kroppsøving og idrettsfag, faglærerut., Levanger   Alle      Alle     42.4 47   39.1 28
+HINT 214468 Grønn næringsutvikling, Steinkjer                  Alle      Alle     Alle      Alle
+HINT 214516 Regnskap, Steinkjer                                Alle      Alle     Alle      Alle
+HINT 214547 Grunnskolelærerutdanning 1.-7. trinn, Levanger     Alle      Alle     Alle      Alle
+HINT 214605 Friluftsliv, Levanger                              Alle      Alle     50.3 38   40.0 15
+HINT 214623 Engelsk, Levanger                                  Alle      Alle     Alle      Alle
+HINT 214639 Faglærerutd i musikk - rytmisk profil, Levanger    Alle      Alle     Alle      Alle
+HINT 214642 Kunst og håndverk, Levanger                        Alle      Alle     Alle      Alle
+HINT 214649 Kroppsøving, Levanger                              Alle      Alle     41.6 29   35.4 19
+HINT 214651 Grunnskolelærerutdanning 5.-10. trinn, Levanger    Alle      Alle     Alle      Alle
+HINT 214661 Matematikk, Levanger                               Alle      Alle     Alle      Alle
+HINT 214666 Naturfag, Levanger                                 Alle      Alle     Alle      Alle
+HINT 214667 Musikk, Levanger                                   Alle      Alle     Alle      Alle
+HINT 214673 Spill- og opplevelsesteknologi, Steinkjer          Alle      Alle     Alle      Alle
+HINT 214680 Samfunnsfag, Levanger                              Alle      Alle     Alle      Alle
+HINT 214696 Trafikklærerutdanning, Stjørdal                    42.2 59            43.3 94
+HINT 214749 Farmasiutdanning, Namsos                           Alle      Alle     Alle      Alle
+
+
+
+Høgskolen i Oslo                                               VARA                                             HOVED
+                                                               ORD       FOR      IVMINO    ORDF      PRA       ORD       FOR      IVMINO    ORDF     PRA
+-------------------------------------------------------------- --------- -------- --------- --------- --------- --------- -------- --------- -------- -------                                 
+HIO 215003 Ingeniør, bygg                                      37.2 4    Alle               38.0 2              43.0 36   Alle               39.2 20
+HIO 215004 Ingeniør, data                                      Alle      Alle               Alle                Alle      Alle               Alle
+HIO 215005 Ingeniør, elektro                                   Alle      Alle               Alle                Alle      Alle               Alle
+HIO 215009 Ingeniør, bioteknologi og kjemi                     Alle      Alle               Alle                Alle      Alle               Alle
+HIO 215012 Ingeniør, maskin                                    43.7 7    Alle               Alle                43.7 15   Alle               Alle
+HIO 215050 Sykepleierutdanning                                 42.2 454                     35.7 128            43.1 985                     37.0 376
+HIO 215051 Sykepleierutdanning, deltid                         39.7 110                     Alle                41.8 180                     Alle
+HIO 215070 Barnevernspedagogutdanning                          50.0 481                     41.8 174            50.9 1093                    43.2 466
+HIO 215071 Barnevernspedagogutdanning, deltid                  40.9 31                                          40.9 40
+HIO 215080 Sosialt arbeid                                      49.0 496                     41.7 179            49.7 1051                    42.5 397
+HIO 215130 Førskolelærerutdanning                              41.0 159                     31.3 18             42.8 382                     33.9 95
+HIO 215131 Førskolelærerutdanning, deltid                      32.7 8                                           32.7 7
+HIO 215138 Administrasjon og ledelse                           50.4 355                     43.2 155            51.0 977                     43.9 488
+HIO 215150 Faglærerutd. i formgiving/kunst/håndverk            44.0 32                      Alle                49.0 112                     35.3 15
+HIO 215162 Økonomi og ledelse, årsstudium                      60.7 282                     49.2 80             60.7 787                     49.2 251
+HIO 215185 Kroppsøving og idrett, årsstudium                   53.6 151                     43.0 70             55.1 486                     47.9 234
+HIO 215200 Kunst og design                                     54.4 102                     46.5 37             54.9 305                     46.7 123
+HIO 215219 Politikk og forvaltning                             52.2 88                      39.3 22             53.5 227                     41.7 69
+HIO 215253 Økonomi og ledelse, årsstudium, deltid              61.2 177                     36.9 8              61.9 393                     39.0 23
+HIO 215336 Bibliotek- og informasjonsvitenskap                 Alle                         Alle                44.4 68                      Alle
+HIO 215369 Økonomi og administrasjon/revisjon                  51.0 404                     44.0 203            51.0 961                     44.1 520
+HIO 215395 Informasjonsteknologi                               41.1 15                      Alle                44.3 38                      35.5 5
+HIO 215439 Drama og teaterkommunikasjon                        48.3 20                      41.8 9              50.8 99                      45.0 40
+HIO 215447 Idrett, friluftsliv og helse                        46.5 144                     41.1 72             47.8 428                     42.6 210
+HIO 215449 Anvendt datateknologi                               44.4 80                      36.4 21             46.5 194                     37.6 65
+HIO 215454 Journalistikk                                       59.6 288           49.8 12   51.2 149  Alle      60.4 830           50.0 14   52.3 415 Alle
+HIO 215484 Utviklingsstudier                                   49.3 77                      42.4 35             50.5 228                     44.9 111
+HIO 215505 Kunst og design - tekstil, årsstudium               52.2 69                      46.7 25             52.7 231                     46.7 105
+HIO 215547 Grunnskolelærerutd 1.-7. trinn                      Alle                         Alle                41.0 46                      38.8 39
+HIO 215602 Design og komm. i digitale medier, deltid           55.2 100                     35.8 9              56.8 270                     40.3 47
+HIO 215603 Bibliotek- og informasjonsvitenskap, årsstudium     Alle                         Alle                47.6 38                      Alle
+HIO 215618 Drama og teaterkommunikasjon, årsstudium            43.0 7                       35.5 1              53.8 147                     48.3 66
+HIO 215642 Kunst og design, årsstudium                         55.5 105                     49.5 46             55.5 322                     49.5 151
+HIO 215651 Grunnskolelærerutd 5.-10. trinn med norsk           44.0 15                      38.6 8              45.9 61                      41.7 40
+HIO 215655 Grunnskolelærerutd 5.-10. trinn med engelsk         45.6 23                      41.3 14             46.6 84                      42.5 58
+HIO 215657 Grunnskolelærerutd 5.-10. trinn med matematikk      46.0 24                      40.0 13             47.3 75                      43.2 38
+HIO 215691 Utviklingsstudier, årsstudium                       50.0 89                      40.6 23             52.8 296                     43.8 95
+HIO 215700 Ergoterapeututdanning                               44.4 99                      37.4 28             45.8 262                     38.7 85
+HIO 215701 Radiografutdanning                                  45.9 134                     37.2 27             45.9 292                     37.2 69
+HIO 215702 Bioingeniørutdanning                                42.1 12                      35.7 1              42.9 30                      36.3 7
+HIO 215703 Fysioterapeututdanning                              56.1 603                     49.8 341            56.1 1645                    49.8 960
+HIO 215706 Fysioterapeututdanning, mensendieck                 54.2 251                     47.1 134            54.3 637                     47.5 332
+HIO 215749 Farmasiutdanning                                    41.7 14                      Alle                42.1 20                      Alle
+HIO 215822 Ingeniør, energi og miljø i bygg                    Alle      Alle               Alle                Alle      Alle               Alle
+HIO 215846 Arkiv og dokumentbehandling, deltid                 Alle                         Alle                Alle                         Alle
+HIO 215848 Fotojournalistikk                                   56.9 1                       Alle                61.7 2                       Alle
+HIO 215850 Medier og kommunikasjon                             51.5 216                     46.8 102            53.1 621                     47.2 293
+HIO 215900 Velferdsfag                                         46.2 120                     32.3 11             47.0 221                     34.2 34
+
+
+
+Høgskulen i Sogn og                                            VARA                         HOVED
+Fjordane                                                       ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HSF 216005 Ingeniør, elektro, Førde                            Alle      Alle     Alle      Alle      Alle      Alle
+HSF 216050 Sykepleierutdanning, Førde, start høst              33.6 12            31.1 2    35.2 51             34.9 29
+HSF 216052 Sykepleierutdanning, Førde, start vår               Alle               Alle      Alle                Alle
+HSF 216060 Vernepleierutdanning                                30.4 1             Alle      30.7 4              Alle
+HSF 216070 Barnevernspedagogutdanning                          Alle               Alle      34.4 29             32.9 18
+HSF 216080 Sosialt arbeid                                      35.4 10            32.7 4    39.3 43             34.8 25
+HSF 216130 Førskolelærerutdanning                              Alle               Alle      Alle                Alle
+HSF 216164 Bedriftsøkonomi                                     Alle               Alle      Alle                Alle
+HSF 216170 Engelsk                                             Alle               Alle      Alle                Alle
+HSF 216185 Idrett                                              Alle               Alle      44.6 96             43.7 62
+HSF 216242 Samfunnsfag                                         Alle               Alle      Alle                Alle
+HSF 216246 Jus                                                 39.7 9             35.5 5    39.9 39             38.0 25
+HSF 216302 Friluftsliv                                         Alle               Alle      45.6 48             40.5 24
+HSF 216310 Landskapsplanlegging med landskapsarkitektur        Alle               Alle      Alle                Alle
+HSF 216330 Reiselivsledelse                                    Alle               Alle      Alle                Alle
+HSF 216351 Ungdomssosiologi                                    Alle               Alle      Alle                Alle
+HSF 216368 Eiendomsmegling                                     30.0 2             Alle      30.0 4              Alle
+HSF 216369 Økonomi og administrasjon                           Alle               Alle      Alle                Alle
+HSF 216373 Naturfag                                            Alle               Alle      Alle                Alle
+HSF 216440 Idrett, fysisk aktivitet og helse                   Alle               Alle      46.5 106            45.0 69
+HSF 216469 Geologi og geofare                                  Alle               Alle      Alle                Alle
+HSF 216481 Historie                                            Alle               Alle      Alle                Alle
+HSF 216485 Idrett og kroppsøving                               Alle               Alle      40.0 33             37.8 22
+HSF 216547 Grunnskulelærarutdanning 1.-7. trinn                Alle               Alle      Alle                Alle
+HSF 216548 Grunnskulelærarutdanning 1.-7. trinn, deltid        Alle               Alle      Alle                Alle
+HSF 216651 Grunnskulelærarutdanning 5.-10. trinn               Alle               Alle      Alle                Alle
+HSF 216754 Reiseliv                                            Alle               Alle      Alle                Alle
+HSF 216835 Fornybar energi                                     29.7 2             32.3 2    41.3 15             34.8 6
+HSF 216927 Sosiologi - ungdomssosiologi                        Alle               Alle      Alle                Alle
+
+
+
+Høgskolen Stord/Haugesund                                      VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HSH 218002 Ingeniør, brannsikkerhet, Haugesund                 Alle      Alle     Alle      Alle      Alle      Alle
+HSH 218012 Ingeniør, maskin, Haugesund                         Alle      Alle     Alle      Alle      Alle      Alle
+HSH 218047 Ingeniør, HMS, Haugesund                            Alle      Alle     Alle      Alle      Alle      Alle
+HSH 218050 Sykepleierutdanning, Stord                          38.0 46            32.2 10   38.1 77             32.5 27
+HSH 218056 Sykepleierutdanning, Haugesund                      38.8 45            33.1 12   39.2 104            34.0 42
+HSH 218130 Førskolelærerutd. ordinær linje, Stord              30.6 1             Alle      36.0 10             28.7 3
+HSH 218134 Førskolelærerutd. natur og friluftslinje, Stord     Alle               Alle      Alle                Alle
+HSH 218156 Faglærerutd. i  praktisk-estetiske fag, Stord       TRU                TRU       TRU                 TRU
+HSH 218157 Faglærerutdanning i musikk, Stord                   Alle               Alle      Alle                Alle
+HSH 218353 Maritim utdanning, nautikk, Haugesund               34.2 2             Alle      39.6 24             Alle
+HSH 218369 Økonomi og administrasjon, Haugesund                34.5 13            32.9 9    37.0 53             35.6 34
+HSH 218505 Kunst og håndverk, Stord                            Alle               Alle      Alle                Alle
+HSH 218547 Grunnskolelærerutdanning 1.-7. trinn                Alle               Alle      Alle                Alle
+HSH 218623 Engelsk, Stord                                      Alle               Alle      Alle                Alle
+HSH 218649 Idrett/Kroppsøving, Stord                           Alle               Alle      37.4 29             36.1 19
+HSH 218651 Grunnskolelærerutdanning 5.-10. trinn               Alle               Alle      Alle                Alle
+HSH 218667 Musikk, Stord                                       Alle               Alle      Alle                Alle
+HSH 218680 Samfunnsfag, Stord                                  Alle               Alle      Alle                Alle
+
+
+
+Høgskolen i Sør-Trøndelag                                      VARA                                             HOVED
+                                                               ORD       FOR      INTK      ORDF      TKURK     ORD       FOR      INTK      ORDF     TKURK
+-------------------------------------------------------------- --------- -------- --------- --------- --------- --------- -------- --------- -------- -------                                 
+HIST 219003 Ingeniør, bygg                                     50.1 60   33.3 3             44.0 36             50.1 118  34.0 5             44.8 82
+HIST 219004 Ingeniør, data                                     35.8 4    Alle               39.8 3              38.0 7    Alle               39.8 5
+HIST 219005 Ingeniør, elektro og datateknikk                   Alle      Alle               Alle                Alle      Alle               Alle
+HIST 219009 Ingeniør, kjemi                                    Alle      Alle               Alle                Alle      Alle               Alle
+HIST 219012 Ingeniør, maskin                                   46.5 34   34.0 2             42.2 24             46.5 64   34.0 7             43.1 42
+HIST 219013 Ingeniør, materialteknikk                          44.5 5    Alle               42.2 3              47.5 25   33.3 3             44.5 16
+HIST 219016 Ingeniør, logistikk                                Alle      Alle               Alle                40.0 2    Alle               Alle
+HIST 219035 Økonomi og administrasjon                          49.4 306                     45.2 193            50.0 977                     46.1 673
+HIST 219050 Sykepleierutdanning                                47.2 221                     41.9 97             48.9 742                     44.1 399
+HIST 219060 Vernepleierutdanning                               43.2 95                      33.6 16             43.6 194                     34.8 46
+HIST 219070 Barnevernspedagogutdanning                         45.3 181                     40.1 86             45.9 452                     41.1 259
+HIST 219080 Sosionomutdanning                                  48.7 188           o.i.      43.2 92             49.1 463           o.i.      43.4 243
+HIST 219221 Tegnspråk for hørende                              44.6 16                      30.4 1              48.0 56                      34.8 10
+HIST 219287 Informatikk med spes. i info.behandling            Alle                         o.i.                Alle                         o.i.
+HIST 219346 Matteknologi                                       Alle                         Alle      o.i.      37.3 1                       Alle     o.i.
+HIST 219374 Informatikk med spes. i drift av datasystemer      Alle                         Alle                Alle                         Alle
+HIST 219422 IT-støttet bedriftsutvikling                       41.2 38                      37.5 23             41.2 84                      37.5 50
+HIST 219466 Tegnspråk og tolking                               46.9 17                      Alle                46.9 43                      Alle
+HIST 219547 Grunnskolelærer 1.-7. trinn                        Alle                         Alle                Alle                         Alle
+HIST 219548 Grunnskolelærer 1.-7. trinn m/realfag              Alle                         Alle                Alle                         Alle
+HIST 219651 Grunnskolelærer 5.-10. trinn                       40.3 20                      38.4 17             41.2 52                      40.9 47
+HIST 219655 Grunnskolelærer 5.-10. trinn m/realfag             40.4 7                       42.2 7              44.4 34                      43.2 27
+HIST 219700 Ergoterapeututdanning                              40.5 39                      35.7 13             41.3 156                     38.4 84
+HIST 219701 Radiografutdanning                                 42.2 58                      37.2 21             44.7 182                     41.0 88
+HIST 219702 Bioingeniørutdanning                               44.3 16                      43.0 10             47.6 75                      44.5 54
+HIST 219703 Fysioterapeututdanning                             56.3 358                     49.8 227            56.3 1057                    50.0 676
+HIST 219704 Audiografutdanning                                 Alle                         Alle                40.3 59                      33.4 18
+
+
+
+Høgskolen i Telemark                                           VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIT 220003 Ingeniør, bygg                                      43.1 3    32.0 1   39.3 1    43.1 4    32.0 1    39.3 2
+HIT 220006 Ingeniør, elkraft                                   Alle      Alle     Alle      Alle      Alle      Alle
+HIT 220012 Ingeniør, maskin                                    Alle      Alle     Alle      Alle      Alle      Alle
+HIT 220035 Økonomi og administrasjon, 2 år, Bø                 Alle               Alle      Alle                Alle
+HIT 220050 Sykepleierutdanning                                 44.1 95            34.3 24   44.7 172            35.9 48
+HIT 220051 Sykepleierutdanning, deltid, 4 år                   39.3 36            Alle      40.6 69             Alle
+HIT 220060 Vernepleierutdanning                                42.4 51            Alle      42.4 78             30.8 5
+HIT 220070 Barnevern i et flerkulturelt samfunn                43.8 67            35.9 16   44.6 138            37.6 47
+HIT 220090 Ingeniør, informatikk og automatisering             Alle      Alle     Alle      Alle      Alle      Alle
+HIT 220130 Førskolelærerutdanning, Notodden                    Alle               Alle      Alle                Alle
+HIT 220131 Førskolelærer, deltid - samlingsbasert,  Notodden   Alle               Alle      33.0 3              Alle
+HIT 220132 Førskolelærerutdanning, Drammen                     38.6 19            Alle      38.9 30             Alle
+HIT 220133 Førskolelærerutdanning,  Porsgrunn                  33.8 3             Alle      38.3 22             Alle
+HIT 220140 Faglærer i kroppsøving og idrettsfag, Notodden      Alle               Alle      34.4 7              31.5 5
+HIT 220150 Faglærer i formgiving, kunst og håndv., Notodden    Alle               Alle      Alle                Alle
+HIT 220156 Faglærer i praktisk-estetiske fag,  Notodden        Alle               Alle      Alle                Alle
+HIT 220164 Bedriftsøkonomi, årsstudium,  Bø                    Alle               Alle      Alle                Alle
+HIT 220167 Bedriftsøkonomi, Porsgrunn                          39.9 10            Alle      39.9 14             Alle
+HIT 220170 Engelsk årsstudium, Bø                              Alle               Alle      Alle                Alle
+HIT 220172 Friluftsliv, kultur og naturveiledning årsstud, Bø  Alle               Alle      Alle                Alle
+HIT 220179 Historie, årsstudium, Bø                            Alle               Alle      Alle                Alle
+HIT 220185 Idrett årsstudium, Bø                               Alle               Alle      37.7 49             37.6 36
+HIT 220187 Informatikk årsstudium,  Bø                         Alle               Alle      Alle                Alle
+HIT 220188 Informatikk årsstudium, Porsgrunn                   Alle               Alle      Alle                Alle
+HIT 220210 Norsk,årsstudium,  Bø                               Alle               Alle      Alle                Alle
+HIT 220273 Kultur-arrangering, formidling og forv. 2-årig      Alle               Alle      Alle                Alle
+HIT 220302 Friluftsliv, kultur- og naturveiledning,  Bø        Alle               Alle      Alle                Alle
+HIT 220308 Kultur-arrangering, formidling og forvaltning, Bø   Alle               Alle      Alle                Alle
+HIT 220317 Reiseliv, Bø                                        Alle               Alle      Alle                Alle
+HIT 220318 Revisjon, Bø                                        Alle               Alle      Alle                Alle
+HIT 220359 Internasjonal markedsføring, Bø                     40.4 12            40.9 8    40.4 47             40.9 37
+HIT 220368 Eiendomsmegling, Bø                                 39.2 22            36.2 10   40.5 116            37.8 63
+HIT 220369 Økonomi og administrasjon, Bø                       Alle               Alle      Alle                Alle
+HIT 220388 Økologi og naturressurser, Bø                       Alle               Alle      Alle                Alle
+HIT 220395 Informatikk,  Bø                                    Alle               Alle      Alle                Alle
+HIT 220440 Idrettsvitenskap, Bø                                Alle               Alle      39.0 24             37.2 12
+HIT 220441 Visuelle kunstfag og design, Notodden               Alle               Alle      Alle                Alle
+HIT 220442 Folkekunst, Rauland                                 Alle               Alle      Alle                Alle
+HIT 220443 Folkemusikk, Rauland                                Alle               Alle      Alle                Alle
+HIT 220447 Natur og friluftsliv,  Bø                           Alle               Alle      Alle                Alle
+HIT 220448 Forurensing og miljø, Bø                            Alle               Alle      Alle                Alle
+HIT 220449 Informasjonssystemer, Bø                            Alle               Alle      Alle                Alle
+HIT 220456 Litteratur og språk, Bø                             Alle               Alle      Alle                Alle
+HIT 220481 Historiske fag, Bø                                  Alle               Alle      Alle                Alle
+HIT 220505 Leire 1- Kunst og design, Notodden                  Alle               Alle      Alle                Alle
+HIT 220532 Form og design, Notodden                            Alle               Alle      Alle                Alle
+HIT 220547 Grunnskolelærer 1.-7. trinn, Notodden               Alle               Alle      Alle                Alle
+HIT 220548 Grunnskolelærer 1.-7. trinn, Porsgrunn              Alle               Alle      Alle                Alle
+HIT 220550 Grunnskolelærer 1.-7. trinn, nett Notodden          Alle               o.i.      Alle                o.i.
+HIT 220551 Grunnskolelærer 1.-7. trinn, Notodden, desentra.    Alle               Alle      Alle                Alle
+HIT 220602 Digital mediedesign, Notodden                       46.8 6             Alle      50.0 31             Alle
+HIT 220605 Natur og friluftsliv årsstudium, Bø                 Alle               Alle      Alle                Alle
+HIT 220628 Folkekunst årsstudium, Rauland                      Alle               Alle      Alle                Alle
+HIT 220629 Folkemusikk årsstudium, Rauland                     Alle               Alle      Alle                Alle
+HIT 220630 Kunst og håndverk,  årsstudium Notodden             Alle               Alle      Alle                Alle
+HIT 220637 Tegning - bilde, årsstudium Notodden                Alle               Alle      Alle                Alle
+HIT 220649 Kroppsøving og idrettsfag, årsstudium Notodden      Alle               Alle      38.8 4              32.2 3
+HIT 220651 Grunnskolelærer 5.-10. trinn, Porsgrunn             Alle               Alle      Alle                Alle
+HIT 220688 Ingeniør, gass- og energiteknologi                  Alle      Alle     Alle      Alle      Alle      Alle
+HIT 220895 Innovasjon og entreprenørskap, Bø                   Alle               Alle      Alle                Alle
+HIT 220912 Spansk, Bø                                          Alle               Alle      Alle                Alle
+
+
+
+Høgskolen i Vestfold                                           VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HVE 222004 Ingeniør, datateknikk                               o.i.      o.i.     o.i.      Alle      Alle      Alle
+HVE 222005 Ingeniør, elektronikk                               Alle      Alle     Alle      Alle      Alle      Alle
+HVE 222012 Ingeniør, produktdesign                             Alle      Alle     Alle      Alle      Alle      Alle
+HVE 222017 Ingeniør, elektro-automasjon                        o.i.      o.i.     o.i.      Alle      Alle      Alle
+HVE 222044 Skipsfart og logistikk                              38.0 6             30.7 1    43.5 54             37.2 20
+HVE 222050 Sykepleierutdanning                                 43.4 140           32.3 17   43.4 211            32.5 35
+HVE 222130 Førskolelærer, generell                             Alle               o.i.      Alle                Alle
+HVE 222131 Førskolelærer, deltid                               Alle               Alle      Alle                Alle
+HVE 222132 Førskolelærer, estetisk linje                       TRU                TRU       TRU                 TRU
+HVE 222164 Bedriftsøkonomi                                     45.6 19            Alle      47.1 46             33.3 2
+HVE 222170 Engelsk                                             39.3 3             Alle      44.4 18             32.3 2
+HVE 222179 Historie, årsstudium                                o.i.               o.i.      Alle                Alle
+HVE 222205 Matematikk                                          Alle               Alle      Alle                Alle
+HVE 222240 Sosiologi, årsstudium                               39.7 7             Alle      41.8 18             Alle
+HVE 222242 Samfunnsfag                                         40.7 5             Alle      48.8 30             38.3 2
+HVE 222351 Ungdomskunnskap                                     38.2 3             Alle      45.0 35             32.8 3
+HVE 222352 Maritim teknisk driftsledelse                       Alle               Alle      38.8 8              Alle
+HVE 222353 Nautikk                                             39.3 4             Alle      43.8 39             30.0 2
+HVE 222369 Økonomi og administrasjon                           44.5 55            36.7 15   44.5 118            36.9 33
+HVE 222412 Informasjonssystemer                                o.i.               o.i.      Alle                Alle
+HVE 222418 Internasjonal forståelse og samarbeid               o.i.               o.i.      Alle                Alle
+HVE 222446 Mat og helse                                        41.9 3             Alle      55.8 41             39.7 10
+HVE 222453 Informasjonssystemer og IT-ledelse                  o.i.               o.i.      Alle                Alle
+HVE 222455 Språk og kulturfag                                  41.0 3             Alle      42.7 8              Alle
+HVE 222481 Historie                                            o.i.               o.i.      Alle                Alle
+HVE 222543 Samtidskunst                                        Alle               Alle      Alle                Alle
+HVE 222547 Grunnskolelærerutdanning, 1.-7. trinn               Alle               Alle      Alle                Alle
+HVE 222548 Grunnskolelærerutdanning 1.- 7. trinn trainee       Alle               Alle      Alle                Alle
+HVE 222620 IKT i læring                                        Alle               Alle      43.6 6              Alle
+HVE 222626 Religion, livssyn og etikk                          o.i.               o.i.      Alle                Alle
+HVE 222642 Kunst og håndverk                                   39.8 2             Alle      50.9 19             36.7 2
+HVE 222649 Idrett                                              36.2 6             33.4 4    41.4 91             39.1 52
+HVE 222651 Grunnskolelærerutdanning, 5.-10. trinn              Alle               Alle      Alle                Alle
+HVE 222663 Mediekunnskap                                       TRU                TRU       TRU                 TRU
+HVE 222666 Naturfag                                            Alle               Alle      Alle                Alle
+HVE 222667 Musikk                                              o.i.               o.i.      Alle                Alle
+HVE 222672 Norsk                                               Alle               o.i.      51.4 14             o.i.
+HVE 222796 Teater for barn og unge                             Alle               Alle      Alle                Alle
+HVE 222823 Ingeniør, mikro- og nanoteknologi                   o.i.      o.i.     o.i.      Alle      Alle      Alle
+HVE 222880 Sosiologi                                           36.5 11            Alle      39.8 21             Alle
+HVE 222912 Spansk                                              Alle               Alle      46.0 15             Alle
+
+
+
+Høgskulen i Volda                                              VARA                         HOVED
+                                                               ORD       ORDF     PRA       ORD       ORDF      PRA
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HVO 223070 Sosialt arbeid, barnevernspedagog                   o.i.      o.i.               Alle      Alle
+HVO 223080 Sosialt arbeid, sosionom                            o.i.      o.i.               Alle      Alle
+HVO 223130 Førskulelærarutdanning                              Alle      Alle               Alle      Alle
+HVO 223179 Historie                                            Alle      Alle               Alle      Alle
+HVO 223196 Religion, livssyn og etikk (RLE)                    Alle      Alle               Alle      Alle
+HVO 223205 Matematikk i grunnskulen                            Alle      Alle               Alle      Alle
+HVO 223210 Norsk (nordisk)                                     Alle      Alle               Alle      Alle
+HVO 223211 Norsk (nordisk), deltid                             Alle      Alle               Alle      Alle
+HVO 223285 Samfunnsvitskap                                     Alle      Alle               Alle      Alle
+HVO 223430 Media, IKT og design                                41.2 17   41.4 10            41.2 44   41.4 29
+HVO 223437 Musikk                                              o.i.      o.i.               Alle      Alle
+HVO 223439 Drama/teater                                        o.i.      o.i.               Alle      Alle
+HVO 223440 Idrett og friluftsliv                               Alle      Alle               34.9 4    36.3 3
+HVO 223446 Matkultur og helse                                  43.6 3    Alle               43.6 7    Alle
+HVO 223451 Animasjon                                           46.0 1    Alle               46.0 1    Alle
+HVO 223452 Planlegging og administrasjon                       Alle      Alle               Alle      Alle
+HVO 223453 PR, kommunikasjon og media                          45.1 22   41.2 10            46.0 69   44.0 37
+HVO 223454 Journalistikk                                       53.2 87   48.2 61  46.9 1    53.2 244  48.2 156  46.9 1
+HVO 223472 Kunst og handverk                                   o.i.      o.i.               Alle      Alle
+HVO 223481 Historie, kultur og samfunn                         Alle      Alle               Alle      Alle
+HVO 223547 Grunnskulelærarutdanning 1.-7. trinn                Alle      Alle               Alle      Alle
+HVO 223605 Friluftsliv                                         Alle      Alle               56.0 55   48.4 23
+HVO 223613 Historie, deltid                                    Alle      Alle               Alle      Alle
+HVO 223618 Drama                                               Alle      Alle               Alle      Alle
+HVO 223620 Digital kompetanse                                  Alle      Alle               Alle      Alle
+HVO 223623 Engelsk                                             Alle      Alle               Alle      Alle
+HVO 223630 Kunst og handverk                                   Alle      Alle               43.0 4    33.3 1
+HVO 223649 Idrett                                              36.6 2    33.8 1             44.5 44   43.2 29
+HVO 223651 Grunnskulelærarutdanning 5.-10. trinn               Alle      Alle               Alle      Alle
+HVO 223663 Mediekunnskap                                       Alle      Alle               Alle      Alle
+HVO 223666 Naturfag i grunnskulen                              Alle      Alle               Alle      Alle
+HVO 223667 Musikk                                              o.i.      o.i.               Alle      Alle
+HVO 223680 Skuleretta samfunnsfag                              Alle      Alle               Alle      Alle
+HVO 223891 Språk og litteratur                                 Alle      Alle               Alle      Alle
+
+
+
+Høgskolen i Østfold                                            VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIØ 224003 Ingeniør, bygg, Fredrikstad                         Alle      Alle     Alle      Alle      Alle      Alle
+HIØ 224004 Ingeniør, data, Halden                              Alle      Alle     Alle      Alle      Alle      Alle
+HIØ 224005 Ingeniør, elektro, Fredrikstad                      Alle      Alle     Alle      Alle      Alle      Alle
+HIØ 224009 Ingeniør, kjemi, Fredrikstad                        Alle      Alle     Alle      Alle      Alle      Alle
+HIØ 224012 Ingeniør, maskin, Fredrikstad                       Alle      Alle     Alle      Alle      Alle      Alle
+HIØ 224035 Økonomi og administrasjon, Halden                   Alle               Alle      36.2 29             32.1 10
+HIØ 224050 Sykepleierutdanning, Fredrikstad                    41.9 119           30.9 19   42.0 201            32.0 52
+HIØ 224051 Sykepleierutdanning, deltid, Fredrikstad            43.6 51            Alle      44.0 77             Alle
+HIØ 224060 Vernepleierutdanning, Fredrikstad                   41.6 66            Alle      41.6 108            28.4 2
+HIØ 224070 Barnevern, Fredrikstad                              44.9 125           37.1 52   45.6 244            37.7 99
+HIØ 224080 Sosialt arbeid, Fredrikstad                         49.0 128           37.8 46   49.0 246            38.1 86
+HIØ 224130 Førskolelærerutdanning, Halden                      Alle               Alle      Alle                Alle
+HIØ 224131 Førskolelærerutdanning, deltid, Halden              Alle               Alle      Alle                Alle
+HIØ 224170 Engelsk, Halden                                     Alle               Alle      Alle                Alle
+HIØ 224187 Informatikk, årsstudium, Halden                     Alle               Alle      Alle                Alle
+HIØ 224210 Norsk, Halden                                       Alle               Alle      Alle                Alle
+HIØ 224238 Statsvitenskap, Halden                              Alle               Alle      Alle                Alle
+HIØ 224244 Tysk, Halden                                        Alle               Alle      Alle                Alle
+HIØ 224270 Informatikk, Halden                                 Alle               Alle      Alle                Alle
+HIØ 224318 Revisjon, Halden                                    34.3 1             Alle      34.3 8              Alle
+HIØ 224398 Bedriftsøkonomi, Halden                             44.5 4             Alle      44.5 12             29.8 1
+HIØ 224453 Informasjonssystemer og IT-ledelse, Halden          Alle               Alle      Alle                Alle
+HIØ 224455 Internasjonal kommunikasjon, Halden                 Alle               Alle      Alle                Alle
+HIØ 224474 Samfunn, språk og kultur, Halden                    Alle               Alle      Alle                Alle
+HIØ 224505 Kunst og håndverk, Halden                           Alle               Alle      Alle                Alle
+HIØ 224547 Grunnskolelærerutdanning, 1.-7. trinn, Halden       Alle               Alle      Alle                Alle
+HIØ 224610 Fransk, Halden                                      Alle               Alle      Alle                Alle
+HIØ 224626 Religion, livssyn og etikk, Halden                  Alle               Alle      Alle                Alle
+HIØ 224649 Kroppsøving og idrett, Halden                       38.2 21            35.9 14   40.9 74             40.4 49
+HIØ 224651 Grunnskolelærerutdanning, 5.-10. trinn, Halden      Alle               Alle      Alle                Alle
+HIØ 224661 Matematikk, Halden                                  TRU                TRU       TRU                 TRU
+HIØ 224666 Naturfag, Halden                                    Alle               Alle      Alle                Alle
+HIØ 224667 Musikk, Halden                                      Alle               Alle      Alle                Alle
+HIØ 224680 Samfunnsfag, Halden                                 Alle               Alle      Alle                Alle
+HIØ 224702 Bioingeniørutdanning, Fredrikstad                   Alle               Alle      Alle                Alle
+HIØ 224845 Digital medieproduksjon, Halden                     Alle               Alle      Alle                Alle
+HIØ 224895 Innovasjon og prosjektledelse, Fredrikstad          Alle               Alle      37.6 5              Alle
+HIØ 224912 Spansk, Halden                                      Alle               Alle      Alle                Alle
+
+
+
+Høgskolen i Ålesund                                            VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+HIÅ 225003 Ingeniør, bygg                                      Alle      Alle     Alle      Alle      Alle      Alle
+HIÅ 225004 Ingeniør, data                                      Alle      Alle     Alle      Alle      Alle      Alle
+HIÅ 225017 Ingeniør, automatiseringsteknikk                    Alle      Alle     Alle      41.9 2    32.0 1    43.9 1
+HIÅ 225023 2-årig ingeniør, bygg                               o.i.               o.i.      o.i.                o.i.
+HIÅ 225031 2-årig ingeniør, skipsdesign                        TRU                TRU       TRU                 TRU
+HIÅ 225032 2-årig ingeniør, produkt-  og systemdesign          TRU                TRU       TRU                 TRU
+HIÅ 225045 Ingeniør, produkt-  og systemdesign                 44.8 4    o.i.     46.4 2    44.8 9    o.i.      46.4 4
+HIÅ 225050 Sykepleierutdanning                                 Alle               Alle      35.3 57             32.4 37
+HIÅ 225093 2-årig ingeniør, automatiseringsteknikk             TRU                TRU       TRU                 TRU
+HIÅ 225160 Shipping og økonomi                                 Alle               Alle      44.9 35             36.0 15
+HIÅ 225162 Økonomi og ledelse                                  Alle               Alle      45.6 59             38.7 25
+HIÅ 225184 Medisinsk og marint årsstudium                      Alle               Alle      Alle                Alle
+HIÅ 225299 Bachelor i Marine- og biologiske fag                Alle               Alle      Alle                Alle
+HIÅ 225353 Maritim utdanning, nautikk                          45.1 25            38.9 10   46.5 80             43.2 30
+HIÅ 225369 Økonomi og administrasjon                           42.6 18            37.3 11   44.6 94             41.9 63
+HIÅ 225410 Handels- og Serviceledelse                          32.1 1             31.9 1    39.0 30             35.7 16
+HIÅ 225432 Shipping og logistikk                               38.1 9             34.7 7    43.1 71             38.9 45
+HIÅ 225473 Eksportmarkedsføring                                33.2 2             Alle      40.7 37             40.4 26
+HIÅ 225699 Ingeniør, skipsdesign                               Alle      Alle     Alle      Alle      Alle      Alle
+HIÅ 225702 Bioingeniør                                         Alle               Alle      Alle                Alle
+HIÅ 225895 Innovasjonsledelse og entreprenørskap               Alle               Alle      39.2 26             38.4 15
+
+
+
+Høyskolen Diakonova                                            VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+HD 232050 Sykepleierutdanning                                  42.6 126  35.9 31  43.6 204  37.1 61
+
+
+
+Lovisenberg diakonale                                          VARA               HOVED
+høgskole                                                       ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+LDH 230050 Sykepleierutdanning                                 43.6 215  37.7 64  43.6 370  37.7 122
+
+
+
+Mediehøgskolen Gimlekollen                                     VARA                         HOVED
+                                                               ORD       ORDF     PRA       ORD       ORDF      PRA
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+MHG 257418 Interkulturell kommunikasjon                        Alle      Alle               Alle      Alle
+MHG 257454 Journalistikk, radio- og fjernsynslinje             Alle      Alle     o.i.      36.4 17   39.0 15   o.i.
+MHG 257604 Mediekommunikasjon, radio- og fjernsynslinje        Alle      Alle               Alle      Alle
+MHG 257849 Journalistikk, avis- og nettavislinje               36.8 5    37.1 2   o.i.      39.5 13   37.6 9    o.i.
+MHG 257851 Kommunikasjon og medier                             Alle      Alle               Alle      Alle
+MHG 257902 Interkulturell kommunikasjon                        Alle      Alle               Alle      Alle
+
+
+
+Misjonshøgskolen                                               VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+MHS 256196 Kristendomskunnskap/RLE                             Alle      Alle     Alle      Alle
+MHS 256418 Interkult. kommunikasjon og globalt samarb.         Alle      Alle     Alle      Alle
+MHS 256480 Teologi                                             Alle      Alle     Alle      Alle
+MHS 256482 Religion og interkulturell kommunikasjon            Alle      Alle     Alle      Alle
+MHS 256680 Samfunnsfag                                         Alle      Alle     Alle      Alle
+MHS 256771 Teologi,  profesjonsstudium                         Alle      Alle     Alle      Alle
+
+
+
+Norges Handelshøyskole                                         VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+NHH 191345 Siviløkonomutdanningen                              54.7 586  51.7 495 55.5 1663 52.7 1395
+
+
+
+Norges idrettshøgskole                                         VARA                                   HOVED
+                                                               ORD       MILK     NIFK      ORDF      ORD       MILK      NIFK     ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- --------- -------- ---------                                                  
+NIH 150172 Friluftsliv                                         51.9 53                      45.4 26   51.9 196                     45.4 107
+NIH 150440 Idrettsvitenskap                                    46.0 64   o.i.     o.i.      44.4 47   46.0 98   o.i.      o.i.     44.4 77
+NIH 150649 Idrett og samfunn                                   46.3 78                      43.0 56   50.0 315                     44.4 209
+
+
+
+Norges teknisk-                                                VARA                         HOVED
+naturvitenskapelige                                            ORD       JNTNUK   ORDF      ORD       JNTNUK    ORDF
+univ.
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+NTNU 194109 Yrkesfaglærerutd. bygg- og anleggsteknikk          Alle                         Alle
+NTNU 194123 Yrkesfaglærerutdanning helse- og sosialfag         Alle                         Alle
+NTNU 194124 Yrkesfaglærerutdanning, restaurant-og matfag       Alle                         Alle
+NTNU 194129 Yrkesfaglærerutdanning teknikk og industriell prod TRU                          TRU
+NTNU 194170 Engelsk, årsstudium                                44.0 38            41.6 23   46.9 185            42.2 113
+NTNU 194174 Fransk, årsstudium                                 o.i.               o.i.      Alle                Alle
+NTNU 194179 Historie, årsstudium                               48.2 48            34.1 8    49.6 161            37.1 51
+NTNU 194184 Biologi og kjemi, årsstudium                       54.0 13            51.9 12   54.0 39             51.9 31
+NTNU 194185 Samfunns-og idrettsvitenskap, årsstudium           52.2 99            47.3 54   55.9 321            50.8 187
+NTNU 194188 Informatikk, årsstudium                            Alle               Alle      Alle                Alle
+NTNU 194200 Kunsthistorie                                      37.6 6             Alle      37.6 10             Alle
+NTNU 194205 Matematikk og statistikk, årsstudium               52.8 17            45.8 14   52.8 39             45.8 30
+NTNU 194210 Nordisk, årsstudium                                36.4 1             Alle      36.4 2              Alle
+NTNU 194239 Samfunnsøkonomi, årsstudium                        51.8 37            42.8 17   52.8 115            44.2 61
+NTNU 194244 Tysk, årsstudium                                   Alle               Alle      Alle                Alle
+NTNU 194272 Kunsthistorie, årsstudium                          43.0 5             Alle      46.8 33             35.5 5
+NTNU 194284 Geografi, årsstudium                               44.2 15            37.0 4    52.2 54             40.4 16
+NTNU 194285 Samfunnskunnskap, årsstudium                       50.0 42            40.7 17   51.1 132            42.3 61
+NTNU 194294 Latin                                              o.i.               o.i.      Alle                Alle
+NTNU 194324 Emnestudier samfunnsvitenskap                      53.5 91            39.2 26   53.5 223            39.6 75
+NTNU 194327 Biologi                                            50.0 36            47.8 24   50.0 75             47.8 54
+NTNU 194366 Filosofi, årsstudium                               45.0 31            43.7 20   45.0 89             43.7 56
+NTNU 194395 Informatikk                                        44.8 40            43.6 25   44.8 85             43.6 61
+NTNU 194437 Musikkvitenskap                                    Alle               Alle      39.5 2              44.1 2
+NTNU 194438 Geografi                                           39.7 11            31.8 4    40.7 59             36.3 29
+NTNU 194439 Drama og teater                                    42.5 12            38.9 4    45.6 70             42.1 44
+NTNU 194440 Bevegelses- og idrettsvitenskap                    47.4 112           43.4 62   48.3 396            45.2 261
+NTNU 194456 Allmenn litteraturvitenskap                        Alle               Alle      43.3 7              30.4 1
+NTNU 194457 Lingvistikk                                        o.i.               o.i.      Alle                Alle
+NTNU 194459 Antikkens kultur                                   39.5 5             Alle      39.5 14             37.4 4
+NTNU 194476 Musikkteknologi                                    47.9 11            39.5 5    50.9 33             45.0 17
+NTNU 194478 Arkeologi                                          44.4 36            42.8 17   44.6 106            43.0 64
+NTNU 194479 Filosofi                                           38.3 11            34.4 5    41.8 62             38.1 34
+NTNU 194481 Historie                                           40.0 22            35.2 5    41.4 83             37.8 43
+NTNU 194486 Samfunns- og idrettsvitenskap                      44.9 74            40.0 42   45.1 213            41.3 137
+NTNU 194615 Allmenn litteraturvitenskap, årsstudium            46.7 4             34.6 2    46.8 18             35.8 7
+NTNU 194626 Kristendomsk. med religions-og livssynsk.          39.6 1             Alle      39.6 2              Alle
+NTNU 194646 Medieproduksjon                                    51.6 70            47.4 43   55.6 270            48.9 162
+NTNU 194684 Lektorutdanning i historie                         47.2 31            45.0 24   47.2 71             45.0 58
+NTNU 194685 Lektorutdanning språkfag/engelsk                   45.5 15            44.8 10   45.5 31             44.8 22
+NTNU 194686 Lektorutdanning språkfag/fransk                    o.i.               Alle      o.i.                Alle
+NTNU 194687 Lektorutdanning språkfag/nordisk                   38.4 1             Alle      38.4 3              41.8 2
+NTNU 194689 Lektorutdanning språkfag/tysk                      Alle               Alle      Alle                Alle
+NTNU 194715 Emnestudier humaniora, årsstudium                  50.5 11            Alle      50.5 18             Alle
+NTNU 194752 Introduksjonsstudium i psykologi                   48.3 272           47.5 167  48.3 699            47.5 466
+NTNU 194755 Materialteknologi                                  50.8 35            52.1 29   50.8 53             52.1 43
+NTNU 194756 Arkitekt                                           59.2 136           54.4 93   59.4 371            54.8 268
+NTNU 194757 Petroleumsfag                                      51.6 44            51.8 40   51.6 93             51.8 84
+NTNU 194759 Bygg- og miljøteknikk                              52.4 111           52.2 91   52.4 206            52.2 173
+NTNU 194760 Datateknikk                                        49.2 45   Alle     49.0 38   49.2 78   Alle      49.0 68
+NTNU 194761 Elektronikk                                        48.0 35            48.6 29   48.0 64             48.6 52
+NTNU 194763 Fysikk og matematikk                               54.0 48            55.5 41   54.0 107            55.5 96
+NTNU 194764 Industriell kjemi og bioteknologi                  52.3 22            53.9 20   52.3 47             53.9 42
+NTNU 194765 Marin teknikk                                      53.1 89            53.1 73   53.1 153            53.1 128
+NTNU 194766 Produktutvikling og produksjon                     52.5 85            52.7 69   52.5 154            52.7 125
+NTNU 194767 Industriell økonomi og teknologiledelse            60.8 199           58.2 160  60.8 451            58.2 377
+NTNU 194768 Industriell design                                 58.5 49            54.4 34   58.5 112            54.4 77
+NTNU 194769 Energi og miljø                                    53.9 91            54.2 79   53.9 191            54.2 169
+NTNU 194770 Kommunikasjonsteknologi                            50.4 20   47.6 1   47.2 17   50.4 46   47.6 2    47.2 37
+NTNU 194786 Europastudier med fremmedspråk, spansk             40.5 6             41.3 4    40.5 13             41.3 8
+NTNU 194793 Europastudier med fremmedspråk, fransk             Alle               Alle      40.4 3              Alle
+NTNU 194795 Europastudier med fremmedspråk, tysk               Alle               Alle      41.1 2              42.4 2
+NTNU 194798 Teknisk kybernetikk                                50.0 27            51.6 21   50.0 69             51.6 58
+NTNU 194818 Samfunnsøkonomi, master                            50.1 39            48.3 32   51.4 116            49.8 97
+NTNU 194843 Lektorutdanning i realfag                          47.2 15            50.0 12   47.2 30             50.0 26
+NTNU 194847 Filmvitenskap                                      39.7 31            35.7 17   41.7 118            39.1 72
+NTNU 194851 Medievitenskap                                     44.8 67            40.4 42   44.8 201            42.2 134
+NTNU 194852 Pedagogikk                                         43.3 75            38.1 29   43.6 217            38.6 96
+NTNU 194855 Bioteknologi, master                               53.0 31            53.5 27   53.0 76             53.5 63
+NTNU 194857 Fysikk                                             51.7 38            52.4 31   51.7 64             52.4 51
+NTNU 194859 Geologi                                            50.1 22            49.2 15   50.6 65             51.2 46
+NTNU 194860 Kjemi                                              48.8 18            49.8 14   48.8 38             49.8 33
+NTNU 194862 Matematiske fag                                    48.6 12            47.9 11   48.6 21             48.8 19
+NTNU 194868 Afrikastudier                                      37.0 3             Alle      42.3 47             37.3 21
+NTNU 194870 Europastudier med fremmedspråk, engelsk            43.2 12            42.5 7    43.6 40             44.4 24
+NTNU 194875 Politisk økonomi                                   46.4 41            45.2 25   46.5 111            45.2 73
+NTNU 194876 Psykologi                                          48.0 256           44.5 150  48.0 740            44.5 488
+NTNU 194879 Sosialantropologi                                  42.7 74            37.1 29   42.8 195            38.3 109
+NTNU 194880 Sosiologi                                          43.1 109           40.6 64   43.3 308            41.3 192
+NTNU 194881 Statsvitenskap                                     46.6 114           44.6 68   46.6 289            44.6 194
+NTNU 194887 Engelsk                                            37.0 3             32.1 1    42.1 57             39.1 32
+NTNU 194888 Fransk                                             Alle               Alle      Alle                Alle
+NTNU 194889 Nordisk                                            Alle               Alle      37.4 1              Alle
+NTNU 194890 Tysk                                               Alle               Alle      Alle                Alle
+NTNU 194898 Samfunnsøkonomi                                    47.2 123           44.6 77   47.2 347            44.6 249
+NTNU 194901 Språklig kommunikasjon                             37.7 5             38.0 4    39.2 10             38.0 6
+NTNU 194904 Kulturminneforvaltning                             Alle               Alle      Alle                Alle
+NTNU 194905 Ingeniørvitenskap og IKT                           49.6 27            50.7 24   49.6 59             50.7 52
+NTNU 194910 Religionsvitenskap, årsstudium                     46.0 6             36.8 1    46.0 26             36.8 6
+NTNU 194912 Spansk, årsstudium                                 49.3 20            38.8 4    49.3 52             40.8 21
+NTNU 194929 Religionsvitenskap                                 38.2 10            34.0 6    38.2 17             36.2 11
+NTNU 194930 Fonetikk                                           Alle               Alle      Alle                Alle
+NTNU 194932 Klassisk språk og litteratur                       Alle               Alle      Alle                Alle
+NTNU 194934 Lektorutdanning i geografi                         Alle               Alle      Alle                Alle
+NTNU 194937 Nanoteknologi                                      63.0 75            61.9 67   63.0 185            61.9 163
+NTNU 194945 Lektorutdanning i samfunnsfag                      48.6 32            48.4 27   48.6 67             48.4 56
+NTNU 194946 Tekniske geofag                                    50.3 15            51.6 13   50.3 36             51.6 30
+
+
+
+Norges veterinærhøgskole                                       VARA                         HOVED
+                                                               ORD       ORDF     SAMISK    ORD       ORDF      SAMISK
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+NVH 193772 Veterinærstudiet                                    63.4 248  54.7 138 o.i.      63.4 447  55.3 284  o.i.
+NVH 193780 Dyrepleierutdanning                                 57.1 268  48.3 115           58.2 730  48.7 333
+
+
+
+Norsk Lærerakademi                                             VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+NLA 254130 Førskolelærerutdanning                              Alle      Alle     Alle      Alle
+NLA 254182 Menighetspedagogikk                                 Alle      Alle     Alle      Alle
+NLA 254196 Årsstudium i KRL                                    Alle      Alle     Alle      Alle
+NLA 254220 Pedagogikk, årsstudium                              Alle      Alle     Alle      Alle
+NLA 254418 Interkulturell forståelse, vekt på Sør-Amerika      Alle      Alle     39.2 9    40.8 9
+NLA 254482 Kristendomskunnskap                                 Alle      Alle     Alle      Alle
+NLA 254485 Kristendom og idrett                                Alle      Alle     Alle      Alle
+NLA 254547 Grunnskolelærerutdanning 1.-7. trinn                Alle      Alle     Alle      Alle
+NLA 254651 Grunnskolelærerutdanning 5.-10. trinn               Alle      Alle     Alle      Alle
+NLA 254717 Interkulturell forståelse, vekt på Norge            Alle      Alle     Alle      Alle
+NLA 254791 Interkulturell forståelse, vekt på Øst-Asia         Alle      Alle     Alle      Alle
+NLA 254852 Pedagogikk                                          Alle      Alle     Alle      Alle
+NLA 254902 Interkulturell forståelse, vekt på Øst-Afrika       Alle      Alle     Alle      Alle
+NLA 254929 Religion og kultur                                  Alle      Alle     Alle      Alle
+
+
+
+Opptakssentralen Medisin                                       VARA                                                                HOVED
+                                                               ORD       NN       NNF       NTF       NTFF      ORDF      SAMISK   ORD       NN       NNF     NTF      NTFF    ORDF     SAMISK
+-------------------------------------------------------------- --------- -------- --------- --------- --------- --------- -------- --------- -------- ------- -------- ------- -------- ------
+NTNU 194740 NTNU Medisin                                       66.4 624                                         58.4 396           66.4 1267                                   59.4 855
+UIB 184740 UIB Medisin                                         65.1 654                                         56.9 429           65.2 1288                                   57.3 864
+UIO 185740 UIO Medisin, start høst                             67.9 679                                         58.4 407           67.9 1294                                   59.0 790
+UIO 185745 UIO Medisin, start vår                              67.0 634                                         57.5 387           67.0 1144                                   57.8 703
+UIT 186740 UIT Medisin                                         65.9 596  60.7 77  54.7 38   60.7 25   54.4 9    56.8 372  o.i.     65.9 1150 60.7 116 55.3 59 60.7 34  55.6 15 57.2 741 o.i.
+
+
+
+Politihøgskolen                                                VARA      HOVED
+                                                               ORD       ORD
+-------------------------------------------------------------- --------- --------                                                                                                             
+PHS 233679 Politiutdanning, Stavern                            42.6 74   42.8 115
+PHS 233681 Politiutdanning, Oslo                               48.3 183  48.3 358
+PHS 233682 Politiutdanning, Bodø                               41.9 65   42.1 86
+PHS 233683 Politiutdanning, Kongsvinger                        43.0 74   43.7 124
+
+
+
+Sámi allaskuvla/Samisk                                         VARA               HOVED
+høgskole                                                       ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+SA/SH 231135 Samisk førskolelærerutdanning                     Alle      Alle     Alle      Alle
+SA/SH 231557 Samisk grunnskolellærer 1-7                       Alle      Alle     Alle      Alle
+
+
+
+Universitetet i Agder                                          VARA                         HOVED
+                                                               ORD       FOR      ORDF      ORD       FOR       ORDF
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+UIA 201003 Ingeniør, byggdesign, Grimstad                      o.i.      o.i.     o.i.      Alle      Alle      Alle
+UIA 201004 Ingeniør, data, Grimstad                            Alle      Alle     Alle      Alle      Alle      Alle
+UIA 201006 Ingeniør, fornybar energi, Grimstad                 o.i.      o.i.     o.i.      Alle      Alle      Alle
+UIA 201007 Ingeniør, flyteknikk, Grimstad                      Alle      Alle     Alle      Alle      Alle      Alle
+UIA 201012 Ingeniør, maskin, Grimstad                          40.0 7    32.0 1   38.0 3    40.0 6    32.0 1    38.0 3
+UIA 201023 Ingeniør, byggdesign, Grimstad 2-årig               Alle               Alle      Alle                Alle
+UIA 201026 Ingeniør, fornybar energi, Grimstad 2-årig          o.i.               o.i.      Alle                Alle
+UIA 201032 Ingeniør, maskin, Grimstad, 2-årig                  o.i.               o.i.      Alle                Alle
+UIA 201050 Sykepleierutdanning, Kr.sand                        44.4 171           41.3 86   44.9 370            41.6 214
+UIA 201052 Sykepleierutdanning, Grimstad                       40.0 102           35.8 50   40.5 170            36.7 91
+UIA 201060 Vernepleierutdanning, Grimstad                      43.9 78            36.3 27   43.9 131            36.4 53
+UIA 201080 Sosionomutdanning                                   45.6 118           41.2 62   45.6 256            41.2 138
+UIA 201130 Førskolelærerutd., Kr.sand.                         Alle               Alle      Alle                Alle
+UIA 201132 Førskolelærerutd., Grimstad                         Alle               Alle      35.4 16             31.7 9
+UIA 201149 Multimedieteknologi og -design, Grimstad            Alle               Alle      Alle                Alle
+UIA 201157 Faglærerutdanning i drama                           Alle               Alle      Alle                Alle
+UIA 201170 Engelsk, årsstudium                                 Alle               Alle      Alle                Alle
+UIA 201172 Friluftsliv og naturguiding, årsstudium             Alle               Alle      Alle                Alle
+UIA 201174 Fransk, årsstudium                                  Alle               Alle      Alle                Alle
+UIA 201179 Historie, årsstudium                                Alle               Alle      Alle                Alle
+UIA 201184 Biologi, årsstudium                                 Alle               Alle      Alle                Alle
+UIA 201189 IT og informasjonssystemer, årsstudium              Alle               Alle      Alle                Alle
+UIA 201200 Kunstfag med fordypning i kunst og håndverk         43.2 2             32.1 1    47.5 8              36.2 4
+UIA 201203 Folkehelsearbeid                                    44.5 15            34.0 6    47.6 67             40.7 30
+UIA 201205 Matematikk, årsstudium                              Alle               Alle      Alle                Alle
+UIA 201210 Nordisk språk og litteratur, årsstudium             Alle               Alle      Alle                Alle
+UIA 201238 Statsvitenskap, årsstudium                          o.i.               o.i.      Alle                Alle
+UIA 201242 Samfunnsfag, årsstudium                             44.6 4             Alle      49.5 48             36.0 14
+UIA 201247 Utviklingsstudiet, årsstudium                       41.8 8             35.7 4    44.8 45             41.2 26
+UIA 201260 IT og informasjonssystemer                          o.i.               o.i.      Alle                Alle
+UIA 201301 Matematisk finans                                   Alle               Alle      Alle                Alle
+UIA 201303 Oversetting og interkulturell kom., engelsk         Alle               Alle      42.2 9              33.8 1
+UIA 201317 Opplevelsesbasert reiseliv                          41.0 25            37.6 19   41.3 82             38.6 55
+UIA 201318 Revisjon                                            42.9 25            38.5 19   44.5 61             39.6 41
+UIA 201327 Biologi                                             Alle               Alle      Alle                Alle
+UIA 201345 Økonomi og administrasjon - siviløkonom             47.1 71            45.7 64   47.1 210            45.7 185
+UIA 201366 Filosofi, årsstudium                                Alle               Alle      Alle                Alle
+UIA 201369 Økonomi og administrasjon, Kr.sand                  43.1 114           41.2 90   43.4 304            41.8 225
+UIA 201404 Økonomi og administrasjon, Grimstad                 40.6 35            38.9 18   40.8 126            39.1 80
+UIA 201437 Kunstfag med fordypning i musikk                    Alle               Alle      Alle                Alle
+UIA 201440 Idrett                                              45.6 45            43.9 29   45.6 134            43.9 89
+UIA 201456 Litteratur, film og teater                          Alle               Alle      Alle                Alle
+UIA 201474 Samfunnsendring og kommunikasjon                    Alle               Alle      Alle                Alle
+UIA 201481 Historie                                            Alle               Alle      Alle                Alle
+UIA 201482 Religion, etikk og kultur                           Alle               Alle      Alle                Alle
+UIA 201484 Utviklingsstudier                                   41.5 16            38.4 7    41.7 65             41.8 37
+UIA 201547 Grunnskolelærerutdanning 1.-7. trinn, Kristiansand  o.i.               o.i.      Alle                Alle
+UIA 201548 Grunnskolelærerutdanning 1.-7. trinn, Grimstad      Alle               Alle      Alle                Alle
+UIA 201618 Drama, årsstudium                                   Alle               Alle      Alle                Alle
+UIA 201642 Kunst og håndverk, årsstudium                       41.0 1             31.3 1    45.7 23             37.6 8
+UIA 201646 Ernæring, mat og kultur, årsstudium                 44.0 12            38.2 8    52.8 95             47.7 53
+UIA 201649 Idrett, årsstudium                                  42.7 41            41.1 31   42.7 133            42.1 94
+UIA 201651 Grunnskolelærerutdanning 5.-10. trinn, Kr. sand     o.i.               o.i.      Alle                Alle
+UIA 201652 Religion og etikk, årsstudium                       Alle               Alle      Alle                Alle
+UIA 201661 Fysikk, årsstudium                                  Alle               Alle      Alle                Alle
+UIA 201663 Mediefag, årsstudium                                Alle               Alle      41.6 25             39.7 18
+UIA 201667 Musikk, årsstudium                                  41.5 11            41.7 9    45.9 24             43.7 20
+UIA 201676 Pedagogikk, årsstudium                              50.3 27            33.5 3    50.6 96             35.2 19
+UIA 201690 Tysk, årsstudium                                    Alle               Alle      Alle                Alle
+UIA 201702 Bioingeniør                                         43.9 9             42.1 5    43.9 20             42.7 14
+UIA 201767 Industriell økonomi og info.ledelse, Grimstad       Alle               Alle      Alle                Alle
+UIA 201794 Kommunikasjon, årsstudium                           35.3 2             30.4 1    42.0 28             36.2 11
+UIA 201803 Ingeniør, elektronikk Grimstad                      Alle      Alle     Alle      Alle      Alle      Alle
+UIA 201807 Informasjons- og kom.teknologi, Grimstad            Alle               Alle      Alle                Alle
+UIA 201828 Matematikkdidaktikk                                 Alle               Alle      Alle                Alle
+UIA 201850 Kommunikasjon                                       40.4 11            41.2 8    40.7 26             41.2 19
+UIA 201852 Pedagogikk                                          Alle               Alle      38.9 10             Alle
+UIA 201853 Spesialpedagogikk                                   45.9 25            33.2 4    47.1 64             36.7 19
+UIA 201862 Matematikk og fysikk                                Alle               Alle      Alle                Alle
+UIA 201864 Ernæring, mat og kultur                             48.9 15            42.7 7    53.1 93             45.9 56
+UIA 201881 Statsvitenskap                                      42.6 41            40.0 27   42.6 84             40.0 54
+UIA 201887 Engelsk                                             Alle               Alle      Alle                Alle
+UIA 201889 Nordisk språk og litteratur                         Alle               Alle      Alle                Alle
+UIA 201900 Arbeids- og velferdsforvaltning                     o.i.               o.i.      Alle                Alle
+UIA 201912 Spansk, årsstudium                                  Alle               Alle      Alle                Alle
+UIA 201922 Litteratur, film og teater, årsstudium              Alle               Alle      Alle                Alle
+
+
+
+Universitetet i Bergen                                         VARA                         HOVED
+                                                               ORD       ORDF     PRA       ORD       ORDF      PRA
+-------------------------------------------------------------- --------- -------- --------- --------- --------- ---------                                                                     
+UIB 184154 Adjunktutdanning i matematikk og naturfag           Alle      Alle               Alle      Alle
+UIB 184162 Administrasjon og organisasjonsvitenskap, årsstud.  53.0 55   42.4 18            53.0 145  42.4 49
+UIB 184170 Engelsk, årsstudium, start vår                      50.5 15   40.0 4             50.5 49   40.0 21
+UIB 184174 Fransk, årsstudium, start vår                       58.7 8    38.8 1             58.7 14   38.8 4
+UIB 184179 Historie, årsstudium                                58.5 104  45.7 39            58.5 272  45.7 89
+UIB 184189 Informasjonsvitenskap, årsstudium, start vår        54.0 10   40.4 2             54.0 21   40.4 6
+UIB 184200 Kulturvitenskap                                     44.6 20   37.8 7             44.6 52   37.8 20
+UIB 184203 Folkehelse og helsefremmende arbeid                 44.6 37   39.8 17            44.6 99   39.8 52
+UIB 184208 Utviklingsstudier, årsstudium                       52.9 40   45.0 27            52.9 111  45.0 60
+UIB 184211 Nordisk, årsstudium                                 54.7 22   Alle               54.7 37   Alle
+UIB 184238 Sammenliknende politikk, årsstudium                 54.4 56   45.0 23            54.4 113  45.0 43
+UIB 184239 Samfunnsøkonomi, årsstudium                         55.3 79   48.5 47            55.3 248  48.5 132
+UIB 184240 Sosiologi, årsstudium                               49.1 126  43.5 79            49.1 291  43.5 182
+UIB 184244 Tysk, årsstudium, start vår                         Alle      Alle               58.0 5    Alle
+UIB 184248 Geografi, årsstudium                                52.4 26   37.6 6             52.4 70   37.6 14
+UIB 184272 Kunsthistorie, årsstudium                           56.1 38   43.8 8             56.1 116  43.8 30
+UIB 184298 Havbruksbiologi                                     Alle      Alle               Alle      Alle
+UIB 184300 Datavitenskap                                       Alle      Alle               Alle      Alle
+UIB 184306 Informatikk-matematikk-økonomi                      Alle      Alle               Alle      Alle
+UIB 184327 Biologi                                             Alle      Alle               Alle      Alle
+UIB 184366 Filosofi, årsstudium, start vår                     45.7 10   34.8 1             45.7 18   34.8 3
+UIB 184367 Sosialantropologi, årsstudium                       50.8 64   43.2 38            50.8 191  43.2 112
+UIB 184369 Samfunnsøkonomi, bachelor                           49.7 195  45.2 121           49.7 544  45.2 356
+UIB 184377 Miljø- og ressursfag, naturvitenskapelig            Alle      Alle               Alle      Alle
+UIB 184436 Informasjons- og kommunikasjonsteknologi            41.3 4    39.7 2             41.3 14   39.7 7
+UIB 184438 Geografi                                            43.4 29   36.0 6             43.4 60   36.0 18
+UIB 184453 Informasjonsvitenskap                               41.2 46   37.5 19            42.9 96   38.7 40
+UIB 184454 Journalistikk                                       57.3 170  52.2 120 o.i.      58.4 476  52.7 319  o.i.
+UIB 184455 Språk og informasjon                                45.0 15   40.0 7             45.0 38   40.0 17
+UIB 184459 Antikke studier                                     44.1 34   41.3 19            44.1 66   41.3 34
+UIB 184461 Midtøstenkunnskap                                   42.4 30   39.2 11            42.4 63   39.2 26
+UIB 184472 Digital kultur                                      45.3 40   38.5 13            45.3 93   38.5 33
+UIB 184475 Kunsthistorie                                       47.5 20   33.7 2             47.5 36   33.7 3
+UIB 184478 Arkeologi                                           44.9 51   39.6 21            44.9 119  39.6 53
+UIB 184479 Filosofi og idéhistorie                             43.0 24   37.2 10            43.0 51   37.2 21
+UIB 184481 Historie                                            42.5 54   36.5 22            42.5 112  36.5 55
+UIB 184502 Miljø- og ressursfag, samfunnsvitenskapelig         50.9 16   46.4 8             50.9 41   46.4 20
+UIB 184565 Italiensk                                           46.9 3    Alle               46.9 11   Alle
+UIB 184663 Medievitenskap, årsstudium                          52.7 64   45.5 36            52.7 165  45.5 81
+UIB 184670 Naturvitenskapelige fag, årsstudium                 47.1 4    Alle               47.1 17   Alle
+UIB 184692 Teatervitenskap                                     41.9 9    38.3 2             41.9 17   38.3 6
+UIB 184698 Samfunnsøkonomi, master                             50.3 45   47.8 39            50.3 125  47.8 108
+UIB 184707 Farmasi                                             52.2 11   50.7 8             52.2 34   50.7 26
+UIB 184708 Human ernæring                                      61.3 72   54.7 49            61.3 146  54.7 101
+UIB 184724 Rettsvitenskap                                      53.6 1015 50.0 701           53.6 2146 50.0 1477
+UIB 184742 Odontologi                                          62.6 196  54.2 118           62.6 384  54.2 245
+UIB 184743 Tannpleie                                           48.2 65   42.4 27            48.2 161  42.4 82
+UIB 184752 Psykologi, årsstudium                               47.9 552  45.7 373           47.9 1335 45.7 921
+UIB 184792 Musikkterapi                                        Alle      Alle               Alle      Alle
+UIB 184817 Lektorutdanning i nordisk                           Alle      Alle               Alle      Alle
+UIB 184827 Fiskehelse                                          49.3 4    Alle               49.3 4    Alle
+UIB 184829 Datateknologi                                       40.8 9    41.4 5             40.8 29   41.4 15
+UIB 184837 Kognitiv vitenskap                                  43.2 30   40.5 15            43.2 62   40.5 34
+UIB 184838 Film- og tv-produksjon                              54.9 157  49.6 90            54.9 410  49.6 241
+UIB 184843 Lektorutdanning i naturvitenskap eller matematikk   48.1 7    49.9 6             48.1 9    49.9 8
+UIB 184844 Lektorutdanning i engelsk, fransk eller tysk        48.0 19   45.7 12            48.0 38   45.7 29
+UIB 184850 Nye medier                                          48.0 40   43.5 20            48.0 100  43.5 55
+UIB 184851 Medievitenskap                                      46.0 91   42.9 54            46.0 208  42.9 132
+UIB 184852 Pedagogikk                                          47.4 57   43.6 32            47.4 161  43.6 88
+UIB 184857 Fysikk                                              Alle      Alle               Alle      Alle
+UIB 184859 Geovitenskap, retning geologi                       40.3 8    43.1 6             40.3 8    43.1 7
+UIB 184860 Kjemi                                               Alle      Alle               Alle      Alle
+UIB 184862 Matematiske fag                                     Alle      Alle               Alle      Alle
+UIB 184865 Molekylærbiologi                                    48.4 22   47.6 17            48.4 34   47.6 27
+UIB 184867 Administrasjon og organisasjonsvitenskap            45.4 64   38.8 24            46.1 180  40.8 82
+UIB 184870 Europastudier                                       43.8 42   43.9 19            43.8 75   43.9 40
+UIB 184871 Latinamerikastudier                                 45.2 25   38.9 9             45.2 46   38.9 20
+UIB 184873 Kjønnsstudier                                       43.4 25   40.9 13            43.4 54   40.9 32
+UIB 184875 Politisk økonomi                                    48.3 53   44.5 30            48.3 125  44.5 77
+UIB 184876 Generell psykologi                                  54.2 213  47.4 100           54.2 536  47.4 304
+UIB 184878 Sammenliknende politikk                             45.5 74   44.7 45            45.5 142  44.7 85
+UIB 184879 Sosialantropologi                                   43.6 70   41.2 41            43.9 181  42.0 113
+UIB 184880 Sosiologi                                           43.9 125  42.4 75            45.1 304  42.6 187
+UIB 184883 Utviklingsstudier                                   46.5 71   45.4 42            46.5 166  45.4 110
+UIB 184886 Russisk                                             45.5 7    35.7 2             45.5 26   35.7 6
+UIB 184887 Engelsk                                             43.6 47   37.7 23            43.6 89   37.7 46
+UIB 184888 Fransk                                              51.4 5    37.3 1             51.4 12   37.3 3
+UIB 184889 Nordisk                                             Alle      Alle               Alle      Alle
+UIB 184890 Tysk                                                Alle      Alle               Alle      Alle
+UIB 184893 Språkvitenskap                                      46.9 4    47.7 2             46.9 9    47.7 5
+UIB 184903 Arbeids- og organisasjonspsykologi                  57.0 133  46.3 46            57.0 319  46.3 133
+UIB 184909 Retorikk                                            46.1 20   40.4 11            46.1 47   40.4 22
+UIB 184910 Religionsvitenskap, årsstudium                      53.5 33   36.8 7             53.5 78   36.8 15
+UIB 184911 Norsk som andrespråk                                Alle      Alle               45.8 3    o.i.
+UIB 184912 Spansk språk og latinamerikastudier, år, start vår  55.1 14   34.5 1             55.1 37   34.5 4
+UIB 184915 Geovitenskap, retning geofysikk                     Alle      Alle               Alle      Alle
+UIB 184916 Meteorologi og oseanografi                          Alle      Alle               Alle      Alle
+UIB 184917 Petroleums- og prosessteknologi                     47.5 30   45.3 24            47.5 80   45.3 57
+UIB 184919 USA-studier                                         44.2 43   41.7 25            44.2 100  41.7 54
+UIB 184922 Litteraturvitenskap                                 42.2 18   40.5 9             42.2 29   40.5 16
+UIB 184923 Arabisk                                             49.5 3    Alle               49.5 9    Alle
+UIB 184924 Spansk språk og latinamerikastudier                 43.3 8    37.3 4             43.3 22   37.3 7
+UIB 184925 Språk og interkulturell kommunikasjon               41.9 17   36.9 8             41.9 29   36.9 14
+UIB 184929 Religionsvitenskap                                  45.5 20   Alle               45.5 43   34.7 8
+UIB 184931 Gresk                                               Alle      Alle               Alle      Alle
+UIB 184932 Latin                                               Alle      Alle               Alle      Alle
+UIB 184939 Nanoteknologi                                       54.0 22   52.7 18            54.0 64   52.7 48
+
+
+
+Universitetet for miljø-                                       VARA               HOVED
+og biovitenskap                                                ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+UMB 192199 Grunnstudium                                        52.4 86   47.6 42  52.4 180  47.6 92
+UMB 192230 Eiendomsfag                                         43.0 8    32.0 2   48.1 46   36.8 11
+UMB 192233 Frie realfag                                        Alle      Alle     Alle      Alle
+UMB 192298 Akvakultur                                          Alle      Alle     Alle      Alle
+UMB 192299 Bioteknologi                                        40.7 5    43.6 1   40.7 7    43.6 3
+UMB 192310 Landskapsingeniør                                   47.2 26   37.6 7   47.2 61   38.6 19
+UMB 192321 Husdyrvitenskap                                     Alle      Alle     Alle      Alle
+UMB 192322 Skogfag                                             Alle      Alle     Alle      Alle
+UMB 192327 Biologi                                             Alle      Alle     Alle      Alle
+UMB 192332 Kjemi                                               Alle      Alle     Alle      Alle
+UMB 192369 Økonomi og administrasjon                           43.6 51   40.0 22  43.6 105  40.3 55
+UMB 192377 Miljø og naturressurser                             Alle      Alle     Alle      Alle
+UMB 192388 Økologi og naturforvaltning                         Alle      Alle     Alle      Alle
+UMB 192406 Geomatikk: kart, satellitter og 3D-modellering      Alle      Alle     Alle      Alle
+UMB 192468 Samfunnsøkonomi                                     43.3 21   36.2 5   43.3 31   36.2 9
+UMB 192484 Internasjonale miljø- og utviklingsstudier          50.6 30   41.3 13  51.8 95   45.9 33
+UMB 192544 Hestefag                                            Alle      Alle     43.1 5    36.8 3
+UMB 192732 Landskapsarkitektur                                 54.3 51   45.8 16  55.5 144  46.3 52
+UMB 192759 Byggeteknikk og arkitektur                          51.4 26   47.1 15  51.4 53   47.1 34
+UMB 192766 Maskin-, prosess- og produktutvikling               39.9 3    42.0 2   39.9 4    42.0 3
+UMB 192767 Industriell økonomi                                 49.3 21   49.3 16  49.3 40   49.3 33
+UMB 192783 Kjemi og bioteknologi                               Alle      Alle     Alle      Alle
+UMB 192784 Miljøfysikk og fornybar energi                      48.3 6    48.6 5   48.3 31   48.6 26
+UMB 192809 Vann- og miljøteknikk                               Alle      Alle     Alle      Alle
+UMB 192813 Geomatikk: kart, satellitter og 3D-mod., master     Alle      Alle     Alle      Alle
+UMB 192835 Fornybar energi                                     49.3 26   41.5 8   52.4 110  44.6 44
+UMB 192842 Plantevitenskap                                     Alle      Alle     Alle      Alle
+UMB 192843 Lektorutdanning i realfag                           Alle      Alle     Alle      Alle
+UMB 192857 Energi- og miljøfysikk                              46.1 6    45.2 4   46.1 16   45.2 11
+UMB 192864 Matvitenskap                                        Alle      Alle     Alle      Alle
+UMB 192948 Mat- og miljøteknologi                              TRU       TRU      TRU       TRU
+UMB 192949 By- og regionplanlegging                            46.6 8    32.2 1   48.9 44   37.6 11
+
+
+
+Universitetet i Oslo                                           VARA               HOVED
+                                                               ORD       ORDF     ORD       ORDF
+-------------------------------------------------------------- --------- -------- --------- ---------                                                                                         
+UIO 185170 Engelsk, årsstudium                                 59.9 158  49.0 63  59.9 473  49.0 190
+UIO 185174 Fransk, årsstudium                                  58.0 40   47.2 16  58.0 126  47.2 49
+UIO 185179 Historie, årsenhet                                  53.9 149  42.1 37  55.0 409  43.4 114
+UIO 185211 Nordisk, særlig norsk språk og litteratur, årsenhe  55.3 47   Alle     55.3 91   Alle
+UIO 185212 Norsk som andrespråk, årsstudium                    48.2 13   o.i.     49.3 27   o.i.
+UIO 185221 Tegnspråk, årsenhet                                 55.6 42   41.6 4   55.6 134  41.6 21
+UIO 185222 Tverrfaglige kjønnsstudier, årsenhet                51.8 24   40.2 6   52.9 77   41.9 16
+UIO 185233 Realfag, årsenhet                                   Alle      Alle     Alle      Alle
+UIO 185272 Kunsthistorie, årsenhet                             55.7 81   45.3 17  56.7 251  46.9 75
+UIO 185306 Matematikk, informatikk og teknologi                Alle      Alle     Alle      Alle
+UIO 185308 Kultur og kommunikasjon                             52.9 219  48.4 106 52.9 555  48.4 282
+UIO 185327 Biologi                                             Alle      Alle     Alle      Alle
+UIO 185437 Musikkvitenskap                                     o.i.      o.i.     o.i.      o.i.
+UIO 185438 Samfunnsgeografi                                    51.3 69   42.1 27  51.3 157  42.1 56
+UIO 185439 Estetiske studier                                   48.4 28   32.6 1   50.0 103  37.4 17
+UIO 185452 Offentlig administrasjon og ledelse                 52.1 231  45.0 96  52.1 598  45.0 285
+UIO 185459 Antikk kultur og klassiske språk                    46.0 15   38.1 6   46.0 38   38.1 16
+UIO 185462 Kunsthistorie                                       48.8 50   35.4 5   48.8 112  35.4 13
+UIO 185464 Informatikk: tekniske og naturvitenskaplige anvend  Alle      Alle     Alle      Alle
+UIO 185465 Helseledelse og helseøkonomi                        50.4 83   40.0 22  50.4 173  40.0 61
+UIO 185466 Tegnspråk og tolking                                52.4 41   39.3 4   52.4 93   39.3 14
+UIO 185478 Arkeologi                                           47.2 75   39.2 25  47.6 168  40.5 72
+UIO 185479 Filosofi og idéhistorie                             49.1 87   40.4 25  49.1 187  40.4 52
+UIO 185480 Teologi og kristendom                               Alle      Alle     Alle      Alle
+UIO 185481 Historie                                            48.1 125  38.2 35  48.1 257  38.2 81
+UIO 185482 Religion og samfunn                                 47.5 28   37.4 3   47.5 73   37.4 10
+UIO 185582 Japansk med Japanstudier                            49.4 105  43.7 46  49.4 183  43.7 66
+UIO 185592 Kinesisk med Kinastudier                            47.0 50   40.0 18  47.0 93   40.0 34
+UIO 185595 Midtøstenstudier med hebraisk                       51.6 5    Alle     51.6 14   35.2 2
+UIO 185598 Midtøstenstudier med persisk                        48.2 16   Alle     48.2 28   Alle
+UIO 185601 Arkivkunnskap, årsenhet                             52.8 31   Alle     52.8 57   Alle
+UIO 185615 Allmenn litteraturvitenskap                         54.0 31   42.2 1   54.0 98   42.2 15
+UIO 185626 Kristendom, årsenhet                                45.5 7    Alle     45.5 24   Alle
+UIO 185690 Tysk, årsenhet                                      Alle      Alle     51.2 33   Alle
+UIO 185694 Sør-Asiastudier med hindi                           Alle      Alle     Alle      Alle
+UIO 185695 Sør-Asiastudier med sanskrit                        Alle      Alle     Alle      Alle
+UIO 185698 Samfunnsøkonomisk analyse, 5-årig                   53.0 58   48.7 33  53.0 122  48.7 78
+UIO 185707 Farmasi                                             46.3 30   47.3 23  46.3 51   47.3 38
+UIO 185708 Ernæring                                            63.4 102  55.9 60  63.4 215  56.3 137
+UIO 185724 Rettsvitenskap (jus), start høst                    58.4 1204 52.0 657 58.4 2609 52.0 1506
+UIO 185725 Rettsvitenskap (jus), start vår                     55.2 1002 49.6 534 55.2 1981 49.6 1106
+UIO 185742 Odontologi, start høst                              65.2 213  55.8 121 65.2 379  56.0 221
+UIO 185748 Odontologi, start vår                               64.1 213  54.8 119 64.1 345  54.8 193
+UIO 185752 Psykologi, årsenhet                                 56.2 451  50.7 245 56.2 1161 50.7 626
+UIO 185771 Teologi, profesjonsstudium                          Alle      Alle     Alle      Alle
+UIO 185817 Lektorprogrammet, nordisk                           42.4 5    40.7 4   42.4 15   40.7 13
+UIO 185829 Informatikk: programmering og nettverk              40.0 25   37.9 11  40.0 43   37.9 17
+UIO 185830 Informatikk: design, bruk og interaksjon            46.8 97   38.2 24  46.8 223  38.2 64
+UIO 185832 Informatikk: nanoelektronikk og robotikk            41.9 13   42.4 6   41.9 35   42.4 14
+UIO 185837 Informatikk: språk og kommunikasjon                 Alle      Alle     Alle      Alle
+UIO 185841 Demokrati og rettigheter i informasjonssamfunnet    47.2 77   42.3 37  47.2 180  42.3 89
+UIO 185843 Lektorprogrammet, realfag                           Alle      Alle     Alle      Alle
+UIO 185844 Lektorprogrammet, kultur og samfunnsfag             52.1 93   46.0 56  52.1 184  46.0 125
+UIO 185851 Medievitenskap                                      50.8 158  44.6 73  50.8 405  44.6 191
+UIO 185852 Pedagogikk                                          46.4 214  35.8 41  46.4 460  35.8 114
+UIO 185853 Spesialpedagogikk                                   48.0 162  33.7 16  48.0 349  33.7 43
+UIO 185856 Elektronikk og datateknologi                        Alle      Alle     Alle      Alle
+UIO 185857 Fysikk, astronomi og meteorologi                    42.2 9    46.3 6   42.2 18   46.3 13
+UIO 185858 Geofag: geologi, geofysikk og geografi              41.3 8    40.5 5   41.3 11   40.5 8
+UIO 185860 Kjemi                                               Alle      Alle     Alle      Alle
+UIO 185862 Matematikk og økonomi                               48.6 11   Alle     48.6 28   34.7 3
+UIO 185863 Materialer, energi og nanoteknologi                 Alle      Alle     Alle      Alle
+UIO 185865 Molekylærbiologi og biologisk kjemi                 40.7 2    Alle     40.7 8    44.3 5
+UIO 185868 Sør-Asia områdestudier                              41.5 8    Alle     46.8 39   29.7 2
+UIO 185870 Europastudier (EU)                                  50.9 123  46.0 49  50.9 289  46.0 131
+UIO 185871 Europeiske og amerikanske studier:språk, litt, omr  o.i.      o.i.     Alle      Alle
+UIO 185872 Internasjonale studier                              59.2 275  54.0 132 59.2 666  54.0 361
+UIO 185873 Tverrfaglige kjønnsstudier                          44.0 4    Alle     45.0 26   34.0 7
+UIO 185874 Kriminologi                                         52.8 499  46.6 248 52.8 1192 46.6 627
+UIO 185876 Psykologi                                           55.0 529  47.0 274 55.0 1276 47.0 654
+UIO 185879 Sosialantropologi                                   49.7 192  43.9 92  49.7 463  43.9 213
+UIO 185880 Sosiologi                                           50.8 313  44.0 138 50.8 716  44.0 348
+UIO 185881 Statsvitenskap                                      52.9 343  47.4 160 52.9 819  47.4 413
+UIO 185883 Utviklingsstudier                                   50.7 147  47.8 76  50.7 359  47.8 194
+UIO 185889 Nordiske studier                                    41.4 7    Alle     41.4 10   Alle
+UIO 185893 Lingvistikk                                         49.0 12   39.5 1   52.4 41   41.1 7
+UIO 185898 Samfunnsøkonomi                                     53.9 217  46.9 121 53.9 580  46.9 343
+UIO 185899 Tannpleie                                           52.8 103  42.6 36  52.8 212  42.6 72
+UIO 185912 Spansk                                              58.1 65   45.5 14  58.1 204  45.5 49
+UIO 185922 Allmenn litteraturvitenskap                         51.7 29   39.2 4   51.7 76   39.2 13
+UIO 185923 Midtøstenstudier med arabisk                        49.9 61   36.2 6   49.9 120  36.2 9
+UIO 185929 Religionshistorie og kulturhistorie                 38.8 14   Alle     38.8 23   Alle
+UIO 185935 Lektorprogrammet, fremmedspråk                      Alle      Alle     Alle      Alle
+UIO 185941 Psykologi profesjon, start høst                     65.3 547  56.4 269 65.3 1270 56.4 683
+UIO 185942 Psykologi profesjon, start vår                      64.2 481  55.0 238 64.2 979  55.1 525
+
+
+
+Universitetet i Stavanger                                      VARA                                   HOVED
+                                                               ORD       FOR      ORDF      PRA       ORD       FOR       ORDF     PRA
+-------------------------------------------------------------- --------- -------- --------- --------- --------- --------- -------- ---------                                                  
+UIS 217003 Bygg                                                44.7 17   Alle     39.8 6              45.9 32   Alle      40.2 12
+UIS 217004 Data                                                Alle      Alle     Alle                Alle      Alle      Alle
+UIS 217005 Elektro                                             Alle      Alle     Alle                Alle      Alle      Alle
+UIS 217009 Kjemi og miljø                                      Alle      Alle     Alle                Alle      Alle      Alle
+UIS 217012 Maskin                                              Alle      Alle     Alle                Alle      Alle      Alle
+UIS 217015 Petroleumsteknologi                                 49.3 39   Alle     42.5 14             49.3 62   Alle      42.5 24
+UIS 217046 Fjernsyns- og multimedieproduksjon                  52.6 64            45.6 41             52.6 183            45.8 113
+UIS 217050 Sykepleierutdanning                                 41.6 154           37.7 81             41.6 303            37.7 171
+UIS 217070 Barnevern                                           40.4 116           36.9 68             41.2 286            38.2 166
+UIS 217080 Sosialt arbeid                                      44.3 160           39.3 81             44.3 294            39.3 149
+UIS 217092 Teknisk realfag                                     Alle      Alle     Alle                Alle      Alle      Alle
+UIS 217130 Førskolelærerutdanning                              32.3 13            29.4 7              32.3 22             29.4 14
+UIS 217170 Engelsk, årsstudium                                 Alle               Alle                39.2 31             34.3 14
+UIS 217179 Historie, årsstudium                                Alle               Alle                43.7 29             Alle
+UIS 217196 Religionsstudier                                    Alle               Alle                Alle                Alle
+UIS 217200 Kunst- og kulturstudier                             Alle               Alle                Alle                Alle
+UIS 217205 Matematikk, årsstudium                              Alle               Alle                Alle                Alle
+UIS 217211 Nordisk, årsstudium                                 Alle               Alle                Alle                Alle
+UIS 217240 Sosiologi, årsstudium                               42.3 47            37.0 21             42.5 100            37.0 46
+UIS 217244 Tysk                                                TRU                TRU                 TRU                 TRU
+UIS 217255 Hotelledelse                                        Alle               Alle                Alle                Alle
+UIS 217272 Kunsthistorie                                       Alle               Alle                Alle                Alle
+UIS 217317 Reiselivsledelse                                    Alle               Alle                38.5 108            36.8 78
+UIS 217318 Regnskap og revisjon                                51.1 82            38.8 38             51.1 187            39.3 84
+UIS 217369 Økonomi og administrasjon                           44.1 171           41.2 109            45.8 535            42.5 332
+UIS 217440 Kroppsøving/idrett                                  42.2 40            39.3 25             45.4 145            40.8 84
+UIS 217454 Journalistikk                                       53.4 90            47.9 64   o.i.      53.4 244            47.9 150 o.i.
+UIS 217481 Historie                                            Alle               Alle                Alle                Alle
+UIS 217505 Kunst og håndtverk                                  58.0 16            32.4 1              59.0 54             43.6 13
+UIS 217547 Grunnskolelærerutdanning 1.-7. trinn                Alle               Alle                Alle                Alle
+UIS 217618 Drama                                               Alle               Alle                46.1 25             41.1 10
+UIS 217649 Kroppsøving/idrett, årsstudium                      42.9 55            40.2 35             45.2 156            42.5 99
+UIS 217651 Grunnskolelærerutdanning 5.-10. trinn               41.4 14            40.3 11             41.4 27             40.3 22
+UIS 217755 Konstruksjoner og materialer                        46.8 15            39.9 3              46.8 27             40.2 7
+UIS 217800 Industriell økonomi                                 54.7 36            48.7 12             56.0 92             50.0 40
+UIS 217801 Petroleumsteknologi, master                         49.7 47            44.8 18             52.7 94             47.3 47
+UIS 217802 Offshoreteknologi                                   48.6 32            43.6 12             48.6 66             44.3 33
+UIS 217803 Informasjonsteknologi                               36.9 2             37.2 1              36.9 2              37.2 1
+UIS 217844 Adjunkt- og lektorprogram i humanistiske fag        Alle               Alle                Alle                Alle
+UIS 217860 Biologisk kjemi                                     Alle               Alle                38.2 1              40.0 1
+UIS 217862 Matematikk                                          Alle               Alle                Alle                Alle
+UIS 217880 Sosiologi                                           45.0 80            35.8 31             45.0 157            35.8 64
+UIS 217887 Engelsk språk og litteratur                         Alle               Alle                Alle                Alle
+UIS 217889 Nordisk språk og litteratur                         Alle               Alle                Alle                Alle
+UIS 217938 Byutvikling og urban design                         46.3 10            41.4 5              46.3 24             44.8 13
+UIS 217947 Petroleumsgeologi                                   41.5 6    o.i.     40.4 3              43.7 13   o.i.      40.4 6
+
+
+
+Universitetet i Tromsø                                         VARA                                                       HOVED
+                                                               ORD       FOR      NN        NNF       ORDF      SAMISK    ORD      FOR       NN       NNF     ORDF     SAMISK
+-------------------------------------------------------------- --------- -------- --------- --------- --------- --------- -------- --------- -------- ------- -------- -------                
+UIT 186002 Ingeniør, Sikkerhet og miljø                        Alle      Alle                         Alle                Alle     Alle                       Alle
+UIT 186017 Ingeniør, Automatiseringsteknikk                    Alle      Alle                         Alle                Alle     Alle                       Alle
+UIT 186018 Ingeniør, Prosess/gassteknologi                     Alle      Alle                         Alle                Alle     Alle                       Alle
+UIT 186049 Ingeniør, Nautikk                                   45.0 2    Alle                         Alle                Alle     Alle                       Alle
+UIT 186050 Sykepleierutdanning                                 53.5 90            44.3 44   38.9 20   43.9 34   Alle      53.5 209           45.5 84  39.6 39 44.2 90  39.0 3
+UIT 186130 Førskolelærerutdanning                              Alle                                   Alle                Alle                                Alle
+UIT 186132 Førskolelærerutdanning, samlingsbasert              Alle                                   Alle                Alle                                Alle
+UIT 186164 Bedriftsøkonomi                                     35.3 2                                 Alle                52.0 55                             39.3 20
+UIT 186170 Engelsk                                             Alle                                   Alle                Alle                                Alle
+UIT 186179 Historie, årsstudium                                Alle                                   Alle                Alle                                Alle
+UIT 186205 Matematikk                                          Alle                                   Alle                Alle                                Alle
+UIT 186211 Nordisk                                             Alle                                   Alle                Alle                                Alle
+UIT 186222 Kjønnsstudier                                       Alle                                   Alle                Alle                                Alle
+UIT 186299 Bioteknologi                                        Alle                                   Alle                Alle                                Alle
+UIT 186306 Datasikkerhet                                       Alle                                   Alle                Alle                                Alle
+UIT 186327 Biologi                                             Alle                                   Alle                Alle                                Alle
+UIT 186331 Fiskerifag                                          Alle                                   Alle      Alle      Alle                                Alle     Alle
+UIT 186369 Økonomi og administrasjon                           39.5 25                                32.0 7              43.8 142                            38.5 71
+UIT 186395 Informatikk                                         Alle                                   Alle                Alle                                Alle
+UIT 186427 Biomedisin                                          Alle                                   Alle                Alle                                Alle
+UIT 186474 Samfunnsplanlegging og kulturforståelse             Alle                                   Alle                Alle                                Alle
+UIT 186475 Kunstvitenskap                                      Alle                                   Alle                Alle                                Alle
+UIT 186478 Arkeologi                                           Alle                                   Alle                Alle                                Alle
+UIT 186479 Filosofi                                            Alle                                   Alle                Alle                                Alle
+UIT 186481 Historie                                            Alle                                   Alle                Alle                                Alle
+UIT 186482 Religionsvitenskap                                  Alle                                   Alle                Alle                                Alle
+UIT 186483 Russlandsstudier                                    Alle                                   Alle                Alle                                Alle
+UIT 186547 Grunnskolelærerutdanning 1.-7. trinn                Alle                                   Alle                Alle                                Alle
+UIT 186609 Antikkens kultur                                    Alle                                   Alle                Alle                                Alle
+UIT 186615 Allmenn litteraturvitenskap                         Alle                                   Alle                Alle                                Alle
+UIT 186644 Luftfartsfag                                        Alle                                   Alle                56.1 1                              Alle
+UIT 186651 Grunnskolelærerutdanning 5.-10. trinn               Alle                                   Alle                Alle                                Alle
+UIT 186700 Ergoterapeututdanning                               37.5 4             Alle      Alle      34.3 2    o.i.      41.2 31            Alle     Alle    40.0 19  o.i.
+UIT 186701 Radiografutdanning                                  32.0 1             Alle      Alle      Alle      Alle      40.6 33            Alle     Alle    38.7 15  Alle
+UIT 186702 Bioingeniørutdanning                                Alle               Alle      Alle      Alle      Alle      Alle               Alle     Alle    Alle     Alle
+UIT 186703 Fysioterapeututdanning                              61.1 199           51.7 39   46.6 20   50.5 117  54.0 2    o.i.               53.9 84  50.0 53 57.9 346 55.5 11
+UIT 186707 Farmasi                                             Alle               Alle      Alle      Alle      Alle      39.3 6             Alle     Alle    44.9 4   o.i.
+UIT 186709 Fiskehelse                                          Alle                                   Alle      Alle      Alle                                Alle     Alle
+UIT 186724 Rettsvitenskap                                      54.4 379           47.2 45   42.9 28   49.2 225  o.i.      54.4 855           47.2 71  42.9 41 49.2 518 o.i.
+UIT 186739 Medisinske fag                                      Alle                                   Alle                Alle                                Alle
+UIT 186742 Odontologi                                          62.5 169           60.1 41   53.2 19   53.6 91   o.i.      62.5 314           60.1 64  53.2 30 53.6 182 o.i.
+UIT 186743 Tannpleierutdanning                                 o.i.               44.0 7    30.0 1    42.4 6    Alle      o.i.               45.4 16  41.8 6  47.2 24  49.0 1
+UIT 186752 Psykologi, årsstudium                               Alle                                   Alle                Alle                                Alle
+UIT 186769 Energi og miljø i nord                              Alle               Alle      Alle      Alle      Alle      Alle               Alle     Alle    Alle     Alle
+UIT 186770 Dataanalyse og sensorteknologi                      Alle               Alle      Alle      Alle      Alle      Alle               Alle     Alle    Alle     Alle
+UIT 186783 Molekylær bioteknologi                              TRU                TRU       TRU       TRU       TRU       TRU                TRU      TRU     TRU      TRU
+UIT 186785 Informatikk                                         Alle               Alle      Alle      Alle      Alle      Alle               Alle     Alle    Alle     Alle
+UIT 186813 Industriell matematikk                              Alle               Alle      Alle      Alle      Alle      Alle               Alle     Alle    Alle     Alle
+UIT 186814 Romfysikk                                           Alle               Alle      Alle      Alle      Alle      Alle               Alle     Alle    Alle     Alle
+UIT 186843 Lektorutdanning i realfag                           Alle                                   Alle                Alle                                Alle
+UIT 186844 Lektorutdanning i språk og samfunnsfag              Alle                                   Alle                Alle                                Alle
+UIT 186846 Dokumentasjonsvitenskap                             Alle                                   Alle                Alle                                Alle
+UIT 186852 Pedagogikk                                          Alle                                   Alle                Alle                                Alle
+UIT 186857 Fysikk                                              Alle                                   Alle                Alle                                Alle
+UIT 186859 Geologi                                             Alle                                   Alle                Alle                                Alle
+UIT 186860 Kjemi                                               Alle                                   Alle                Alle                                Alle
+UIT 186862 Matematikk og statistikk                            Alle                                   Alle                Alle                                Alle
+UIT 186867 Ledelse, innovasjon og marked                       42.0 11                                Alle                45.7 112                            40.0 58
+UIT 186876 Psykologi                                           46.7 59                                38.7 20             47.9 188                            41.1 98
+UIT 186877 Samfunnssikkerhet og miljø                          Alle                                   Alle                Alle                                Alle
+UIT 186878 Politikk, økonomi og filosofi                       Alle                                   Alle                Alle                                Alle
+UIT 186879 Sosialantropologi                                   Alle                                   Alle                Alle                                Alle
+UIT 186880 Sosiologi                                           Alle                                   Alle                Alle                                Alle
+UIT 186881 Statsvitenskap                                      Alle                                   Alle                Alle                                Alle
+UIT 186891 Språk og litteratur                                 Alle                                   Alle                Alle                                Alle
+UIT 186892 Språk og økonomi                                    Alle                                   Alle                Alle                                Alle
+UIT 186898 Samfunnsøkonomi                                     Alle                                   Alle                Alle                                Alle
+UIT 186910 Religionsvitenskap, årsstudium                      Alle                                   Alle                Alle                                Alle

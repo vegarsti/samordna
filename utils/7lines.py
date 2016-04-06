@@ -1,5 +1,5 @@
-# Print only lines corresponding to programs
-# with minimum 7 years worth of scores
+# Write (to stdout) lines corresponding to programs
+# with 7 years worth of scores
 
 import sys
 
