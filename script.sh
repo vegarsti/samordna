@@ -2,26 +2,29 @@
 
 # Necessary files:
 # data/
-#   - NTNU.txt
-#   - UIO.txt
+#   - 2009.txt
+#   - 2010.txt
+#   - ...
+#   - 2015.txt
 # utils/
 #   - scorelines.awk
 #   - 7lines.py
 #   - gather.awk
 #   - append_titles.py
 
-# Extract NTNU and UIO data from complete year files
+# Extract data from complete year files
 echo "" > data/NTNU.txt     # Ensure empty files
 echo "" > data/UIO.txt
 echo "" > data/UIB.txt
+echo "" > data/NHH.txt
 for year in 2009 2010 2011 2012 2013 2014 2015; do
-    sed -n '/naturvitenskapelige/,/^$/p' data/${year}.txt >> data/NTNU.txt
-    sed -n '/Universitetet i Oslo/,/^$/p' data/${year}.txt >> data/UIO.txt
-    sed -n '/Universitetet i Bergen/,/^$/p' data/${year}.txt >> data/UIB.txt
+    #sed -n '/naturvitenskapelige/,/^$/p' data/${year}.txt >> data/NTNU.txt
+    #sed -n '/Universitetet i Oslo/,/^$/p' data/${year}.txt >> data/UIO.txt
+    #sed -n '/Universitetet i Bergen/,/^$/p' data/${year}.txt >> data/UIB.txt
+    sed -n '/Norges Handelshøyskole/,/^$/p' data/${year}.txt >> data/NHH.txt
 done
 
-
-# Extract programme ID and name
+# Extract programme IDs and names
 
 # NTNU
 cut -c 6-11 data/NTNU.txt > tmp-NTNU-1.txt
@@ -35,6 +38,10 @@ tr ',' ':' > tmp-UIO-2.txt
 cut -c 5-10 data/UIB.txt > tmp-UIB-1.txt
 cut -c 12-63 data/UIB.txt |
 tr ',' ':' > tmp-UIB-2.txt
+# NHH
+cut -c 5-10 data/NHH.txt > tmp-NHH-1.txt
+cut -c 12-63 data/NHH.txt |
+tr ',' ':' > tmp-NHH-2.txt
 
 # Extract IDs and scores
 
@@ -47,12 +54,17 @@ tr -s ' ' > tmp-UIO.txt
 # UIB
 cut -c 5-11,92-96,102-106 data/UIB.txt |
 tr -s ' ' > tmp-UIB.txt 
+# NHH
+cut -c 5-11,82-86,92-96 data/NHH.txt |
+tr -s ' ' > tmp-NHH.txt 
+
 
 # Create directory if it does not exist
 mkdir -p processed
 
-# Process data from both universities
-for uni in UIO NTNU UIB; do
+
+# Process data from all universities
+for uni in UIO NTNU UIB NHH; do
     awk -f utils/scorelines.awk tmp-${uni}.txt | # Keep lines with actual scores
     sort -s -n -k 1,1 |                 # Sort by study ID; keep year order
     python utils/7lines.py |            # Keep those IDs with scores all 7 years
@@ -66,9 +78,10 @@ for uni in UIO NTNU UIB; do
 
     # Add programme names
     paste -d ',' tmp-${uni}-1.txt tmp-${uni}-2.txt > ${uni}-studies-IDs.txt
-    mkdir -p processed/${uni}
-    python utils/append_titles.py tmp-${uni}-ORD.csv processed/${uni}/ORD.csv ${uni}-studies-IDs.txt ${uni}
-    python utils/append_titles.py tmp-${uni}-FORST.csv processed/${uni}/FORST.csv ${uni}-studies-IDs.txt ${uni}
+    mkdir -p processed/ORD
+    mkdir -p processed/FORST
+    python utils/append_titles.py tmp-${uni}-ORD.csv processed/ORD/${uni}.csv ${uni}-studies-IDs.txt ${uni}
+    python utils/append_titles.py tmp-${uni}-FORST.csv processed/FORST/${uni}.csv ${uni}-studies-IDs.txt ${uni}
     #      utils/append_titles.py [file w/o names] [outfile] [file w/names] [uni]
 
     rm data/${uni}.txt
