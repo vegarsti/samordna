@@ -1,7 +1,7 @@
 #Samordna Opptak
 
 ###Background
-All undergraduate studies at public universities (which means almost every university) in Norway have a point system for admission. The portal for this online [Samordna Opptak](http://www.samordnaopptak.no/) does not provide an easy way to view how the admission boundaries change from year to year; these are collected in one large file corresponding to each year, so you have to look through the entire file for each year just to find how they have changed.
+All undergraduate studies at public universities (which means almost every university) in Norway use a purely points system for admission. The online portal for this, [Samordna Opptak](http://www.samordnaopptak.no/), does not provide an easy way to view how the admission boundaries change from year to year; these are collected in one large file for each year, so you have to look through the entire file for each year.
 
 Wanting to learn some Bash scripting and data processing, I figured I could collect the points from each year and make viewing this more accessible.
 

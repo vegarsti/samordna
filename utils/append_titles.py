@@ -1,9 +1,7 @@
 import csv
 import sys
 
-infile = sys.argv[1]
-outfile = sys.argv[2]
-database = sys.argv[3]
+_, infile, outfile, database, school = sys.argv
 
 studies_dict = {}
 
@@ -20,12 +18,13 @@ with open(infile, 'r') as csvinput:
         writer = csv.writer(csvoutput, lineterminator='\n')
 
         document = []
-        document.append(['ID', 'Name', 2009, 2010, 2011, 2012, 2013, 2014, 2015])
+        document.append(['ID', school, 'Name', 2009, 2010, 2011, 2012, 2013, 2014, 2015])
 
         for i, row in enumerate(reader):
             ID = row[0]
             name = studies_dict[ID]
-            row.insert(1, name)
+            row.insert(1, school)
+            row.insert(2, name)
             document.append(row)
 
         writer.writerows(document)
