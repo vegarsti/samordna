@@ -6,11 +6,11 @@ All undergraduate studies at public universities (which means almost every unive
 Wanting to learn some Bash scripting and data processing, I figured I could collect the points from each year and make viewing this more accessible.
 
 ###Format
+The directory `data` contains `2009.txt` through `2015.txt`, taken straight from Samordna Opptak. They look like this:
 ![Screenshot of the original files.](http://i.imgur.com/vW0aXQP.png)
 The middle column are the scores for one quota, those straight out of high school, and  the right column are the scores for the other quota, all others.
 
-I gathered the data for the universities NTNU  (_Norwegian University of Science and Technology_) and UiO (_University of Oslo_), 2009-2015, in two separate files, `data/NTNU.txt` and `data/UIO.txt`.
-
 ###Usage
-Running `bash script.sh` will create a `.csv` file that looks like this:
+Running `make` will create a directory `processed` with two subdirectories; `first` and `ordinary`, containing a `.csv` file for every university with that quota, and also a file `all.csv` containing the data from all universities.
+The `.csv` files look like this:
 ![Screenshot of the finished files.](http://i.imgur.com/WGIyzH3.png)
