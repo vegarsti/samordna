@@ -13,4 +13,4 @@ The middle column are the scores for one quota, those straight out of high schoo
 ###Usage
 Running `make` will create a directory `processed` with two subdirectories; `first` and `ordinary`, containing a `.csv` file for every university with that quota, and also a file `all.csv` containing the data from all universities.
 The `.csv` files look like this:
-![Screenshot of the finished files.](http://i.imgur.com/WGIyzH3.png)
+![Screenshot of the finished files.](http://i.imgur.com/SEmdAZP.png)
