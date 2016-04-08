@@ -12,8 +12,9 @@
 #   - gather.awk
 #   - append_titles.py
 
+
 # Ensure empty files (only necessary if last run crashed, really)
-for uni in NTNU UIO UIB NHH; do
+for uni in NTNU UIO UIB NHH Harald HIB PHS; do
     echo "" > tmp1-${uni}.txt
 done
 
@@ -23,6 +24,9 @@ for year in 2009 2010 2011 2012 2013 2014 2015; do
     sed -n '/Universitetet i Oslo/,/^$/p' data/${year}.txt >> tmp1-UIO.txt
     sed -n '/Universitetet i Bergen/,/^$/p' data/${year}.txt >> tmp1-UIB.txt
     sed -n '/Norges Handelshøyskole/,/^$/p' data/${year}.txt >> tmp1-NHH.txt
+    sed -n '/Haraldsplass/,/^$/p' data/${year}.txt >> tmp1-Harald.txt
+    sed -n '/Høgskolen i Bergen/,/^$/p' data/${year}.txt >> tmp1-HIB.txt
+    sed -n '/Politihøgskolen/,/^$/p' data/${year}.txt >> tmp1-PHS.txt
 done
 
 # Extract from university files
@@ -42,6 +46,9 @@ function extract {
     cut -c $int3 tmp1-$uni.txt |
     tr -s ' ' > tmp-$uni.txt
 }
+
+
+# Arguments needed from universities
 
 # NTNU
 university=NTNU
@@ -63,12 +70,30 @@ university=NHH
 interval1="5-10"; interval2="12-63"; interval3="5-11,82-86,92-96"
 extract ${interval1} ${interval2} ${interval3} ${university}
 
+# Haraldsplass
+university=Harald
+interval1="5-10"; interval2="12-40"; interval3="5-11,82-86,92-96"
+extract ${interval1} ${interval2} ${interval3} ${university}
+
+# HiBergen
+university=HIB
+interval1="5-10"; interval2="12-63"; interval3="5-11,92-96,111-116"
+extract ${interval1} ${interval2} ${interval3} ${university}
+
+# Politihøgskolen
+university=PHS
+interval1="5-10"; interval2="12-41"; interval3="5-11,64-67,72-77"
+extract ${interval1} ${interval2} ${interval3} ${university}
+
+
 # Create directories if they don't exist
 mkdir -p processed/ordinary
 mkdir -p processed/first
 
+
 # Process data from all universities
-for uni in UIO NTNU UIB NHH; do
+for uni in  UIO NTNU UIB NHH Harald HIB PHS; do
+    
     # Variables (for file names)
     infile=tmp-$uni.txt
     tmp1=tmp.csv
@@ -77,11 +102,11 @@ for uni in UIO NTNU UIB NHH; do
     studies=tmp-$uni-studies-IDs.txt
 
     awk -f utils/scorelines.awk ${infile} | # Keep lines with actual scores
-    sort -s -n -k 1,1 |                 # Sort by study ID; keep year order
-    python utils/7lines.py |            # Keep those IDs with scores all 7 years
-    tr ' ' ',' |                        # Replace spaces with commas
-    awk -F ',' -f utils/gather.awk |    # Gather all 7 scores for ID on one line
-    tr ' ' ',' > $tmp1                # Replace spaces with commas
+    sort -s -n -k 1,1 |                     # Sort by study ID; keep year order
+    python utils/7lines.py |                # Keep those IDs with scores all 7 years
+    tr ' ' ',' |                            # Replace spaces with commas
+    awk -F ',' -f utils/gather.awk |        # Gather all 7 scores for ID on one line
+    tr ' ' ',' > $tmp1                      # Replace spaces with commas
 
     # Split into two separate files, one for ordinary quota, one for the other
     awk 'NR % 2 == 1' $tmp1 > $tmp2
@@ -93,10 +118,13 @@ for uni in UIO NTNU UIB NHH; do
     #      utils/append_titles.py [file w/o names] [outfile] [file w/names] [uni]
 done
 
+# Cleanup
+rm tmp*
+rm processed/first/PHS.csv # not first quota...
 
 # Gather all data into one file
 for type in first ordinary; do
-    # Delete file if it exists
+    # Delete file if it exists; ensures appending (>>) to an empty file below
     if [ -f processed/$type/all.csv ]; then
         rm processed/$type/all.csv
     fi
@@ -107,6 +135,3 @@ for type in first ordinary; do
         sed '1d' $file >> processed/$type/all.csv
     done
 done
-
-# Cleanup
-rm tmp*

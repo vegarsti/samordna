@@ -3,24 +3,31 @@
 
 import sys
 
-minimum = 7
+amount = 7
 buff = []
 count = 0
 first = ''
 
 lines = sys.stdin.readlines()
 
+def flush(buff):
+    for line in buff:
+        sys.stdout.write((' ').join(line))
+        sys.stdout.write('\n')
+    buff = []
+    return buff
+
 for line in lines:
-    if line.split()[0] == first:
+    line = line.split()[:3] # ensure no extra stuff
+    if line[0] == first:
         count += 1
-        if count == minimum:
-            for line in buff:
-                sys.stdout.write(line)
+        buff.append(line)
+        if count == amount:
+            buff = flush(buff)
     else:
-        if count == minimum:
-            for line in buff:
-                sys.stdout.write(line)
+        if count == amount:
+            buff = flush(buff)
         buff = []
         count = 1
-    first = line.split()[0]
-    buff.append(line)
+        buff.append(line)
+    first = line[0]
