@@ -50,40 +50,18 @@ function extract {
 
 # Arguments needed from universities
 
-# NTNU
-university=NTNU
-interval1="6-11"; interval2="13-62"; interval3="6-12,92-96,110-116"
-extract ${interval1} ${interval2} ${interval3} ${university}
+uni[1]=NTNU;    int1[1]="6-11";   int2[1]="13-62"; int3[1]="6-12,92-96,110-116"
+uni[2]=UIO;     int1[2]="5-10";   int2[2]="12-63"; int3[2]="5-11,82-87,93-96"
+uni[3]=UIB;     int1[2]="5-10";   int2[3]="12-63"; int3[3]="5-11,92-96,102-106"
+uni[4]=NHH;     int1[2]="5-10";   int2[4]="12-63"; int3[4]="5-11,82-86,92-96"
+uni[5]=Harald;  int1[2]="5-10";   int2[5]="12-40"; int3[5]="5-11,82-86,92-96"
+uni[6]=HIB;     int1[2]="5-10";   int2[6]="12-63"; int3[6]="5-11,92-96,111-116"
+uni[7]=PHS;     int1[2]="5-10";   int2[7]="12-41"; int3[7]="5-11,64-67,72-77"
 
-# UIO
-university=UIO
-interval1="5-10"; interval2="12-63"; interval3="5-11,82-87,93-96"
-extract ${interval1} ${interval2} ${interval3} ${university}
-
-# UIB
-university=UIB
-interval1="5-10"; interval2="12-63"; interval3="5-11,92-96,102-106"
-extract ${interval1} ${interval2} ${interval3} ${university}
-
-# NHH
-university=NHH
-interval1="5-10"; interval2="12-63"; interval3="5-11,82-86,92-96"
-extract ${interval1} ${interval2} ${interval3} ${university}
-
-# Haraldsplass
-university=Harald
-interval1="5-10"; interval2="12-40"; interval3="5-11,82-86,92-96"
-extract ${interval1} ${interval2} ${interval3} ${university}
-
-# HiBergen
-university=HIB
-interval1="5-10"; interval2="12-63"; interval3="5-11,92-96,111-116"
-extract ${interval1} ${interval2} ${interval3} ${university}
-
-# Politihøgskolen
-university=PHS
-interval1="5-10"; interval2="12-41"; interval3="5-11,64-67,72-77"
-extract ${interval1} ${interval2} ${interval3} ${university}
+for i in {1..7}
+do
+    extract ${int1[i]} ${int2[i]} ${int3[i]} ${uni[i]}
+done
 
 
 # Create directories if they don't exist
