@@ -66,11 +66,11 @@ for uni in  UIO NTNU UIB NHH Harald HIB PHS; do
     tmp3=tmp-$uni-FORST.csv
     studies=tmp-$uni-studies-IDs.txt
 
-    awk -f utils/scorelines.awk ${infile} | # Keep lines with actual scores
+    awk -f src/scorelines.awk ${infile} | # Keep lines with actual scores
     sort -s -n -k 1,1 |                     # Sort by study ID; keep year order
-    python utils/7lines.py |                # Keep those IDs with scores all 7 years
+    python src/7lines.py |                # Keep those IDs with scores all 7 years
     tr ' ' ',' |                            # Replace spaces with commas
-    awk -F ',' -f utils/gather.awk |        # Gather all 7 scores for ID on one line
+    awk -F ',' -f src/gather.awk |        # Gather all 7 scores for ID on one line
     tr ' ' ',' > $tmp1                      # Replace spaces with commas
 
     # Split into two separate files, one for ordinary quota, one for the other
@@ -78,9 +78,9 @@ for uni in  UIO NTNU UIB NHH Harald HIB PHS; do
     awk 'NR % 2 == 0' $tmp1 > $tmp3
 
     # Add programme names and universities
-    python utils/append_titles.py $tmp2 processed/ordinary/$uni.csv $studies $uni
-    python utils/append_titles.py $tmp3 processed/first/$uni.csv $studies $uni
-    #      utils/append_titles.py [file w/o names] [outfile] [file w/names] [uni]
+    python src/append_titles.py $tmp2 processed/ordinary/$uni.csv $studies $uni
+    python src/append_titles.py $tmp3 processed/first/$uni.csv $studies $uni
+    #      src/append_titles.py [file w/o names] [outfile] [file w/names] [uni]
 done
 
 # Cleanup
