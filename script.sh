@@ -1,18 +1,5 @@
 #!/bin/sh
 
-# Necessary files:
-# data/
-#   - 2009.txt
-#   - 2010.txt
-#   - ...
-#   - 2015.txt
-# utils/
-#   - scorelines.awk
-#   - 7lines.py
-#   - gather.awk
-#   - append_titles.py
-
-
 # Ensure empty files (only necessary if last run crashed, really)
 for uni in NTNU UIO UIB NHH Harald HIB PHS; do
     echo "" > tmp1-${uni}.txt
