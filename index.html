@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+
+<html>
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>D3 test</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Cormorant:500" rel="stylesheet">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+  </head>
+
+  <body>
+    <script>
+    <!-- console.log("Hello world.") -->
+    document.write("Hello world.")
+    <!-- alert("Hello world.") -->
+    d3.csv("processed/first/all.csv", function(data) {
+      data.forEach(function(d) {
+        // Convert numbers that are strings to actual numbers
+        d.ID = +d.ID;
+        d["Year 2009"] = +d["Year 2009"];
+        d["Year 2010"] = +d["Year 2010"];
+        d["Year 2011"] = +d["Year 2011"];
+        d["Year 2012"] = +d["Year 2012"];
+        d["Year 2013"] = +d["Year 2013"];
+        d["Year 2014"] = +d["Year 2014"];
+        d["Year 2015"] = +d["Year 2015"];
+      });
+      console.log(data[0]);
+    });
+    </script>
+  </body>
+
+</html>
