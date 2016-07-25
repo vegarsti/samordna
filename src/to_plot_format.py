@@ -29,7 +29,7 @@ with open(infile, 'r') as csvinput:
         # Skip header
         next(reader, None)
 
-        document = [['Programme', 'year', 'score']]
+        document = [['programme', 'year', 'score']]
 
         for i, row in enumerate(reader):
             programme, y2009, y2010, y2011, y2012, y2013, y2014, y2015 = row
