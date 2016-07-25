@@ -18,14 +18,13 @@ with open(infile, 'r') as csvinput:
         writer = csv.writer(csvoutput, lineterminator='\n')
 
         document = []
-        document.append(['ID', school, 'Name', 2009, 2010, 2011, 2012, 2013, 2014, 2015])
 
         for i, row in enumerate(reader):
             ID = row[0]
             name = studies_dict[ID]
-            row.insert(1, school)
-            row.insert(2, name)
-                
+            programme = school + " " + name
+            row[0] = programme
+
             document.append(row)
 
         writer.writerows(document)
