@@ -105,4 +105,7 @@ for type in first ordinary; do
     echo 'Programme,2009,2010,2011,2012,2013,2014,2015' |
         cat - processed/$type/all.csv > tmp0 && mv tmp0 processed/$type/all.csv
 
+    # Create file in plot format
+    python src/to_plot_format.py processed/$type/all.csv processed/$type/all_plot_format.csv
+
 done
