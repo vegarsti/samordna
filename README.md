@@ -10,7 +10,7 @@ There are two quotas for admission. The first one, call this the "first timer" (
 
 The other quota, call this "ordinary" (O), is different. All points from FT count, but you also get 2 additional points per extra year after age 19 (in essence how many years since you "ordinarily" finished high school). These points cap out at 8 points, i.e. after 4 years. You also get (no more than) 2 extra points if you either
 
-* pursued university studies for at least 1 year
+* have obtained 60 ECTS credits (or 1 point if you have 30 credits)
 * served in the military or
 * attended ["folk high school"](https://en.wikipedia.org/wiki/Folk_high_school)
 
@@ -21,7 +21,7 @@ The directory `data` contains `2009.txt` through `2015.txt`, taken straight from
 ![Screenshot of the original files.](http://i.imgur.com/5NVaupi.png)
 The middle column are the scores for the FT quota, and the rightmost column contains the scores for the ordinary quota.
 
-As we can see, the columns we want are not placed equally. What's more, the number of columns differs for some universities.
+As we can see, the columns we want are not placed equally. What's more, the number of columns differs for some universities. Thus, we will have to specify, for each university, the location of each column.
 
 ###Usage
 Running `make` will create a directory `processed` with two subdirectories, `first` and `ordinary`, containing a `.csv` file for every university with that quota, and also a file `all.csv` containing the data from all universities.
