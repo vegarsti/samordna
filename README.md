@@ -26,4 +26,4 @@ As we can see, the columns we want are not placed equally. What's more, the numb
 ###Usage
 Running `make` will create a directory `processed` with two subdirectories, `first` and `ordinary`, containing a `.csv` file for every university with that quota, and also a file `all.csv` containing the data from all universities.
 The resulting files look like this (in Google Sheets):
-![Screenshot of the finished files.](http://i.imgur.com/3iu6Kkp.png)
+![Screenshot of the finished files.](http://i.imgur.com/PeJpSpH.png)
