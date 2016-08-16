@@ -1,4 +1,18 @@
 programme,year,score
+NTNU Politisk økonomi,2009,41.3
+NTNU Politisk økonomi,2010,45.2
+NTNU Politisk økonomi,2011,44.4
+NTNU Politisk økonomi,2012,44.5
+NTNU Politisk økonomi,2013,43.6
+NTNU Politisk økonomi,2014,42.2
+NTNU Politisk økonomi,2015,42.0
+NTNU Psykologi,2009,44.0
+NTNU Psykologi,2010,44.5
+NTNU Psykologi,2011,46.7
+NTNU Psykologi,2012,47.3
+NTNU Psykologi,2013,46.0
+NTNU Psykologi,2014,46.9
+NTNU Psykologi,2015,46.6
 NTNU Datateknologi,2009,51.9
 NTNU Datateknologi,2010,49.0
 NTNU Datateknologi,2011,50.9
@@ -6,6 +20,13 @@ NTNU Datateknologi,2012,52.3
 NTNU Datateknologi,2013,53.6
 NTNU Datateknologi,2014,54.4
 NTNU Datateknologi,2015,55.2
+NTNU Biologi og kjemi,2009,55.3
+NTNU Biologi og kjemi,2010,51.9
+NTNU Biologi og kjemi,2011,51.1
+NTNU Biologi og kjemi,2012,49.8
+NTNU Biologi og kjemi,2013,53.6
+NTNU Biologi og kjemi,2014,52.9
+NTNU Biologi og kjemi,2015,54.9
 NTNU Kybernetikk og robotikk,2009,51.5
 NTNU Kybernetikk og robotikk,2010,51.6
 NTNU Kybernetikk og robotikk,2011,51.5
@@ -20,3 +41,318 @@ NTNU Elektronisk systemdesign og innovasjon,2012,49.9
 NTNU Elektronisk systemdesign og innovasjon,2013,51.5
 NTNU Elektronisk systemdesign og innovasjon,2014,52.8
 NTNU Elektronisk systemdesign og innovasjon,2015,53.2
+NTNU Lektorutdanning i realfag,2009,49.7
+NTNU Lektorutdanning i realfag,2010,50.0
+NTNU Lektorutdanning i realfag,2011,49.0
+NTNU Lektorutdanning i realfag,2012,48.3
+NTNU Lektorutdanning i realfag,2013,49.7
+NTNU Lektorutdanning i realfag,2014,50.7
+NTNU Lektorutdanning i realfag,2015,49.8
+NTNU Fysikk og matematikk,2009,53.9
+NTNU Fysikk og matematikk,2010,55.5
+NTNU Fysikk og matematikk,2011,56.5
+NTNU Fysikk og matematikk,2012,56.4
+NTNU Fysikk og matematikk,2013,57.2
+NTNU Fysikk og matematikk,2014,58.6
+NTNU Fysikk og matematikk,2015,58.3
+NTNU Industriell kjemi og bioteknologi,2009,53.0
+NTNU Industriell kjemi og bioteknologi,2010,53.9
+NTNU Industriell kjemi og bioteknologi,2011,52.6
+NTNU Industriell kjemi og bioteknologi,2012,52.6
+NTNU Industriell kjemi og bioteknologi,2013,51.9
+NTNU Industriell kjemi og bioteknologi,2014,52.8
+NTNU Industriell kjemi og bioteknologi,2015,53.9
+NTNU Informatikk,2009,43.0
+NTNU Informatikk,2010,43.6
+NTNU Informatikk,2011,44.3
+NTNU Informatikk,2012,45.6
+NTNU Informatikk,2013,45.6
+NTNU Informatikk,2014,46.3
+NTNU Informatikk,2015,47.7
+NTNU Marin teknikk,2009,52.2
+NTNU Marin teknikk,2010,53.1
+NTNU Marin teknikk,2011,53.1
+NTNU Marin teknikk,2012,53.6
+NTNU Marin teknikk,2013,54.7
+NTNU Marin teknikk,2014,55.4
+NTNU Marin teknikk,2015,54.7
+NTNU Lektorutdanning i historie,2009,45.3
+NTNU Lektorutdanning i historie,2010,45.0
+NTNU Lektorutdanning i historie,2011,49.5
+NTNU Lektorutdanning i historie,2012,50.0
+NTNU Lektorutdanning i historie,2013,50.9
+NTNU Lektorutdanning i historie,2014,49.6
+NTNU Lektorutdanning i historie,2015,49.2
+NTNU Bevegelsesvitenskap,2009,44.3
+NTNU Bevegelsesvitenskap,2010,45.2
+NTNU Bevegelsesvitenskap,2011,44.8
+NTNU Bevegelsesvitenskap,2012,44.1
+NTNU Bevegelsesvitenskap,2013,43.9
+NTNU Bevegelsesvitenskap,2014,42.5
+NTNU Bevegelsesvitenskap,2015,42.4
+NTNU Produktutvikling og produksjon,2009,52.2
+NTNU Produktutvikling og produksjon,2010,52.7
+NTNU Produktutvikling og produksjon,2011,52.8
+NTNU Produktutvikling og produksjon,2012,53.6
+NTNU Produktutvikling og produksjon,2013,54.7
+NTNU Produktutvikling og produksjon,2014,54.9
+NTNU Produktutvikling og produksjon,2015,54.3
+NTNU Lektorutdanning språkfag/engelsk,2009,46.1
+NTNU Lektorutdanning språkfag/engelsk,2010,44.8
+NTNU Lektorutdanning språkfag/engelsk,2011,46.1
+NTNU Lektorutdanning språkfag/engelsk,2012,46.2
+NTNU Lektorutdanning språkfag/engelsk,2013,48.8
+NTNU Lektorutdanning språkfag/engelsk,2014,47.8
+NTNU Lektorutdanning språkfag/engelsk,2015,47.6
+NTNU Arkeologi,2009,41.4
+NTNU Arkeologi,2010,43.0
+NTNU Arkeologi,2011,40.8
+NTNU Arkeologi,2012,38.5
+NTNU Arkeologi,2013,36.0
+NTNU Arkeologi,2014,33.5
+NTNU Arkeologi,2015,31.4
+NTNU Industriell økonomi og teknologiledelse,2009,58.2
+NTNU Industriell økonomi og teknologiledelse,2010,58.2
+NTNU Industriell økonomi og teknologiledelse,2011,58.9
+NTNU Industriell økonomi og teknologiledelse,2012,59.5
+NTNU Industriell økonomi og teknologiledelse,2013,59.8
+NTNU Industriell økonomi og teknologiledelse,2014,60.2
+NTNU Industriell økonomi og teknologiledelse,2015,60.6
+NTNU Industriell design,2009,55.6
+NTNU Industriell design,2010,54.4
+NTNU Industriell design,2011,54.4
+NTNU Industriell design,2012,54.0
+NTNU Industriell design,2013,54.4
+NTNU Industriell design,2014,54.1
+NTNU Industriell design,2015,54.3
+NTNU Energi og miljø,2009,53.7
+NTNU Energi og miljø,2010,54.2
+NTNU Energi og miljø,2011,54.6
+NTNU Energi og miljø,2012,55.0
+NTNU Energi og miljø,2013,55.7
+NTNU Energi og miljø,2014,56.3
+NTNU Energi og miljø,2015,56.4
+NTNU Kjemi,2009,48.0
+NTNU Kjemi,2010,49.8
+NTNU Kjemi,2011,49.2
+NTNU Kjemi,2012,50.9
+NTNU Kjemi,2013,50.5
+NTNU Kjemi,2014,50.4
+NTNU Kjemi,2015,51.5
+NTNU Geografi: årsstudium,2009,38.9
+NTNU Geografi: årsstudium,2010,40.4
+NTNU Geografi: årsstudium,2011,44.0
+NTNU Geografi: årsstudium,2012,40.0
+NTNU Geografi: årsstudium,2013,35.8
+NTNU Geografi: årsstudium,2014,39.3
+NTNU Geografi: årsstudium,2015,38.8
+NTNU Samfunnsøkonomi: årsstudium,2009,43.5
+NTNU Samfunnsøkonomi: årsstudium,2010,44.2
+NTNU Samfunnsøkonomi: årsstudium,2011,47.1
+NTNU Samfunnsøkonomi: årsstudium,2012,45.1
+NTNU Samfunnsøkonomi: årsstudium,2013,43.1
+NTNU Samfunnsøkonomi: årsstudium,2014,44.6
+NTNU Samfunnsøkonomi: årsstudium,2015,43.8
+NTNU Samfunnsøkonomi,2009,44.2
+NTNU Samfunnsøkonomi,2010,44.6
+NTNU Samfunnsøkonomi,2011,44.1
+NTNU Samfunnsøkonomi,2012,44.1
+NTNU Samfunnsøkonomi,2013,43.7
+NTNU Samfunnsøkonomi,2014,44.3
+NTNU Samfunnsøkonomi,2015,44.3
+NTNU Filosofi: årsstudium,2009,40.0
+NTNU Filosofi: årsstudium,2010,43.7
+NTNU Filosofi: årsstudium,2011,42.3
+NTNU Filosofi: årsstudium,2012,42.2
+NTNU Filosofi: årsstudium,2013,37.0
+NTNU Filosofi: årsstudium,2014,41.9
+NTNU Filosofi: årsstudium,2015,41.8
+NTNU Matematiske fag,2009,45.1
+NTNU Matematiske fag,2010,48.8
+NTNU Matematiske fag,2011,49.8
+NTNU Matematiske fag,2012,49.0
+NTNU Matematiske fag,2013,49.9
+NTNU Matematiske fag,2014,53.2
+NTNU Matematiske fag,2015,51.2
+NTNU Samfunnsøkonomi: master,2009,49.2
+NTNU Samfunnsøkonomi: master,2010,49.8
+NTNU Samfunnsøkonomi: master,2011,48.1
+NTNU Samfunnsøkonomi: master,2012,46.5
+NTNU Samfunnsøkonomi: master,2013,47.5
+NTNU Samfunnsøkonomi: master,2014,49.8
+NTNU Samfunnsøkonomi: master,2015,48.8
+NTNU Matematiske fag: årsstudium,2009,42.3
+NTNU Matematiske fag: årsstudium,2010,45.8
+NTNU Matematiske fag: årsstudium,2011,48.6
+NTNU Matematiske fag: årsstudium,2012,47.7
+NTNU Matematiske fag: årsstudium,2013,46.1
+NTNU Matematiske fag: årsstudium,2014,49.8
+NTNU Matematiske fag: årsstudium,2015,48.0
+NTNU Lektorutdanning i samfunnsfag,2009,47.7
+NTNU Lektorutdanning i samfunnsfag,2010,48.4
+NTNU Lektorutdanning i samfunnsfag,2011,48.6
+NTNU Lektorutdanning i samfunnsfag,2012,48.9
+NTNU Lektorutdanning i samfunnsfag,2013,49.9
+NTNU Lektorutdanning i samfunnsfag,2014,50.2
+NTNU Lektorutdanning i samfunnsfag,2015,49.2
+NTNU Engelsk: årsstudium,2009,41.6
+NTNU Engelsk: årsstudium,2010,42.2
+NTNU Engelsk: årsstudium,2011,43.0
+NTNU Engelsk: årsstudium,2012,43.3
+NTNU Engelsk: årsstudium,2013,40.0
+NTNU Engelsk: årsstudium,2014,42.0
+NTNU Engelsk: årsstudium,2015,39.2
+NTNU Tekniske geofag,2009,48.5
+NTNU Tekniske geofag,2010,51.6
+NTNU Tekniske geofag,2011,51.5
+NTNU Tekniske geofag,2012,52.2
+NTNU Tekniske geofag,2013,54.3
+NTNU Tekniske geofag,2014,54.9
+NTNU Tekniske geofag,2015,53.9
+NTNU Psykologi: årsstudium,2009,47.0
+NTNU Psykologi: årsstudium,2010,47.5
+NTNU Psykologi: årsstudium,2011,48.8
+NTNU Psykologi: årsstudium,2012,48.0
+NTNU Psykologi: årsstudium,2013,46.8
+NTNU Psykologi: årsstudium,2014,47.7
+NTNU Psykologi: årsstudium,2015,46.4
+NTNU Sosiologi,2009,39.1
+NTNU Sosiologi,2010,41.3
+NTNU Sosiologi,2011,40.0
+NTNU Sosiologi,2012,40.4
+NTNU Sosiologi,2013,38.4
+NTNU Sosiologi,2014,40.1
+NTNU Sosiologi,2015,40.4
+NTNU Statsvitskap,2009,43.8
+NTNU Statsvitskap,2010,44.6
+NTNU Statsvitskap,2011,44.8
+NTNU Statsvitskap,2012,44.4
+NTNU Statsvitskap,2013,44.7
+NTNU Statsvitskap,2014,44.7
+NTNU Statsvitskap,2015,45.0
+NTNU Materialteknologi,2009,50.7
+NTNU Materialteknologi,2010,52.1
+NTNU Materialteknologi,2011,51.9
+NTNU Materialteknologi,2012,51.8
+NTNU Materialteknologi,2013,51.9
+NTNU Materialteknologi,2014,53.6
+NTNU Materialteknologi,2015,54.4
+NTNU Historie: årsstudium,2009,38.8
+NTNU Historie: årsstudium,2010,37.1
+NTNU Historie: årsstudium,2011,40.0
+NTNU Historie: årsstudium,2012,34.4
+NTNU Historie: årsstudium,2013,36.9
+NTNU Historie: årsstudium,2014,36.9
+NTNU Historie: årsstudium,2015,36.3
+NTNU Arkitektur,2009,54.7
+NTNU Arkitektur,2010,54.8
+NTNU Arkitektur,2011,54.4
+NTNU Arkitektur,2012,52.8
+NTNU Arkitektur,2013,52.8
+NTNU Arkitektur,2014,53.0
+NTNU Arkitektur,2015,53.6
+NTNU Petroleumsfag,2009,51.7
+NTNU Petroleumsfag,2010,51.8
+NTNU Petroleumsfag,2011,51.9
+NTNU Petroleumsfag,2012,54.8
+NTNU Petroleumsfag,2013,57.2
+NTNU Petroleumsfag,2014,56.9
+NTNU Petroleumsfag,2015,52.6
+NTNU Bygg- og miljøteknikk,2009,52.1
+NTNU Bygg- og miljøteknikk,2010,52.2
+NTNU Bygg- og miljøteknikk,2011,51.9
+NTNU Bygg- og miljøteknikk,2012,52.2
+NTNU Bygg- og miljøteknikk,2013,53.5
+NTNU Bygg- og miljøteknikk,2014,54.0
+NTNU Bygg- og miljøteknikk,2015,54.8
+NTNU Engelsk,2009,36.2
+NTNU Engelsk,2010,39.1
+NTNU Engelsk,2011,35.6
+NTNU Engelsk,2012,37.2
+NTNU Engelsk,2013,37.5
+NTNU Engelsk,2014,38.6
+NTNU Engelsk,2015,37.2
+NTNU Historie,2009,38.0
+NTNU Historie,2010,37.8
+NTNU Historie,2011,35.5
+NTNU Historie,2012,32.2
+NTNU Historie,2013,37.7
+NTNU Historie,2014,35.0
+NTNU Historie,2015,36.4
+NTNU Kommunikasjonsteknologi,2009,48.7
+NTNU Kommunikasjonsteknologi,2010,47.2
+NTNU Kommunikasjonsteknologi,2011,49.6
+NTNU Kommunikasjonsteknologi,2012,49.4
+NTNU Kommunikasjonsteknologi,2013,51.1
+NTNU Kommunikasjonsteknologi,2014,52.9
+NTNU Kommunikasjonsteknologi,2015,54.0
+NTNU Pedagogikk,2009,35.8
+NTNU Pedagogikk,2010,38.6
+NTNU Pedagogikk,2011,35.8
+NTNU Pedagogikk,2012,33.8
+NTNU Pedagogikk,2013,37.2
+NTNU Pedagogikk,2014,36.3
+NTNU Pedagogikk,2015,39.0
+NTNU Geografi,2009,34.6
+NTNU Geografi,2010,36.3
+NTNU Geografi,2011,30.5
+NTNU Geografi,2012,34.8
+NTNU Geografi,2013,37.7
+NTNU Geografi,2014,36.9
+NTNU Geografi,2015,36.2
+NTNU Film- og videoproduksjon,2009,47.9
+NTNU Film- og videoproduksjon,2010,48.9
+NTNU Film- og videoproduksjon,2011,49.0
+NTNU Film- og videoproduksjon,2012,50.4
+NTNU Film- og videoproduksjon,2013,50.3
+NTNU Film- og videoproduksjon,2014,48.0
+NTNU Film- og videoproduksjon,2015,48.4
+NTNU Bioteknologi,2009,52.1
+NTNU Bioteknologi,2010,53.5
+NTNU Bioteknologi,2011,52.6
+NTNU Bioteknologi,2012,52.7
+NTNU Bioteknologi,2013,51.9
+NTNU Bioteknologi,2014,53.6
+NTNU Bioteknologi,2015,54.9
+NTNU Samfunns- og idrettsvitenskap,2009,41.8
+NTNU Samfunns- og idrettsvitenskap,2010,41.3
+NTNU Samfunns- og idrettsvitenskap,2011,42.8
+NTNU Samfunns- og idrettsvitenskap,2012,42.7
+NTNU Samfunns- og idrettsvitenskap,2013,42.1
+NTNU Samfunns- og idrettsvitenskap,2014,41.9
+NTNU Samfunns- og idrettsvitenskap,2015,42.1
+NTNU Nanoteknologi,2009,60.0
+NTNU Nanoteknologi,2010,61.9
+NTNU Nanoteknologi,2011,61.9
+NTNU Nanoteknologi,2012,61.1
+NTNU Nanoteknologi,2013,61.5
+NTNU Nanoteknologi,2014,61.8
+NTNU Nanoteknologi,2015,62.2
+NTNU Fysikk,2009,49.4
+NTNU Fysikk,2010,52.4
+NTNU Fysikk,2011,52.7
+NTNU Fysikk,2012,54.4
+NTNU Fysikk,2013,54.4
+NTNU Fysikk,2014,53.2
+NTNU Fysikk,2015,53.9
+NTNU Geologi,2009,47.4
+NTNU Geologi,2010,51.2
+NTNU Geologi,2011,49.3
+NTNU Geologi,2012,50.8
+NTNU Geologi,2013,50.6
+NTNU Geologi,2014,50.4
+NTNU Geologi,2015,49.6
+NTNU Biologi,2009,49.6
+NTNU Biologi,2010,47.8
+NTNU Biologi,2011,49.4
+NTNU Biologi,2012,48.2
+NTNU Biologi,2013,47.8
+NTNU Biologi,2014,47.7
+NTNU Biologi,2015,47.9
+NTNU Ingeniørvitenskap og IKT,2009,51.0
+NTNU Ingeniørvitenskap og IKT,2010,50.7
+NTNU Ingeniørvitenskap og IKT,2011,52.0
+NTNU Ingeniørvitenskap og IKT,2012,52.7
+NTNU Ingeniørvitenskap og IKT,2013,53.2
+NTNU Ingeniørvitenskap og IKT,2014,54.4
+NTNU Ingeniørvitenskap og IKT,2015,54.4
