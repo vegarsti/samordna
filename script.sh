@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Ensure empty files (only necessary if last run crashed, really)
-for uni in NTNU UIO UIB NHH Harald HIB PHS; do
+for uni in NTNU UIO UIB NHH Haraldsplass HIB PHS; do
     echo "" > tmp1-${uni}.txt
 done
 
@@ -11,7 +11,7 @@ for year in 2009 2010 2011 2012 2013 2014 2015; do
     sed -n '/Universitetet i Oslo/,/^$/p' data/${year}.txt >> tmp1-UIO.txt
     sed -n '/Universitetet i Bergen/,/^$/p' data/${year}.txt >> tmp1-UIB.txt
     sed -n '/Norges Handelshøyskole/,/^$/p' data/${year}.txt >> tmp1-NHH.txt
-    sed -n '/Haraldsplass/,/^$/p' data/${year}.txt >> tmp1-Harald.txt
+    sed -n '/Haraldsplass/,/^$/p' data/${year}.txt >> tmp1-Haraldsplass.txt
     sed -n '/Høgskolen i Bergen/,/^$/p' data/${year}.txt >> tmp1-HIB.txt
     sed -n '/Politihøgskolen/,/^$/p' data/${year}.txt >> tmp1-PHS.txt
 done
@@ -40,7 +40,7 @@ uni[1]=NTNU;    int1[1]="6-11";   int2[1]="13-62"; int3[1]="6-12,92-96,110-116"
 uni[2]=UIO;     int1[2]="5-10";   int2[2]="12-63"; int3[2]="5-11,82-87,93-96"
 uni[3]=UIB;     int1[3]="5-10";   int2[3]="12-63"; int3[3]="5-11,92-96,102-106"
 uni[4]=NHH;     int1[4]="5-10";   int2[4]="12-63"; int3[4]="5-11,82-86,92-96"
-uni[5]=Harald;  int1[5]="5-10";   int2[5]="12-40"; int3[5]="5-11,82-86,92-96"
+uni[5]=Haraldsplass;  int1[5]="5-10";   int2[5]="12-40"; int3[5]="5-11,82-86,92-96"
 uni[6]=HIB;     int1[6]="5-10";   int2[6]="12-63"; int3[6]="5-11,92-96,111-116"
 uni[7]=PHS;     int1[7]="5-10";   int2[7]="12-41"; int3[7]="5-11,64-67,72-77"
 
@@ -51,13 +51,14 @@ do
 done
 
 
-# Create directories if they don't exist
+# Create directories (and delete existing ones)
+rm -rf processed
 mkdir -p processed/ordinary
 mkdir -p processed/first
 
 
 # Process data from all universities
-for uni in  UIO NTNU UIB NHH Harald HIB PHS; do
+for uni in  UIO NTNU UIB NHH Haraldsplass HIB PHS; do
     
     # Variables (for file names)
     infile=tmp-$uni.txt
@@ -66,11 +67,11 @@ for uni in  UIO NTNU UIB NHH Harald HIB PHS; do
     tmp3=tmp-$uni-FORST.csv
     studies=tmp-$uni-studies-IDs.txt
 
-    awk -f src/scorelines.awk ${infile} | # Keep lines with actual scores
+    awk -f src/scorelines.awk ${infile} |   # Keep lines with actual scores
     sort -s -n -k 1,1 |                     # Sort by study ID; keep year order
-    python src/7lines.py |                # Keep those IDs with scores all 7 years
+    python src/7lines.py |                  # Keep those IDs with scores all 7 years
     tr ' ' ',' |                            # Replace spaces with commas
-    awk -F ',' -f src/gather.awk |        # Gather all 7 scores for ID on one line
+    awk -F ',' -f src/gather.awk |          # Gather all 7 scores for ID on one line
     tr ' ' ',' > $tmp1                      # Replace spaces with commas
 
     # Split into two separate files, one for ordinary quota, one for the other
@@ -97,6 +98,14 @@ for type in first ordinary; do
     # Gather
     files=processed/$type/*
     for file in $files; do
-        sed '1d' $file >> processed/$type/all.csv
+        sed '0d' $file >> processed/$type/all.csv
     done
+
+    # Add headers
+    echo 'Programme,2009,2010,2011,2012,2013,2014,2015' |
+        cat - processed/$type/all.csv > tmp0 && mv tmp0 processed/$type/all.csv
+
+    # Create file in plot format
+    python src/to_plot_format.py processed/$type/all.csv processed/$type/all_plot_format.csv
+
 done
