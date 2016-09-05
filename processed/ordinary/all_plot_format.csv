@@ -1,0 +1,918 @@
+Programme,year,score
+HIB Sosialt arbeid,2009,51.2
+HIB Sosialt arbeid,2010,51.6
+HIB Sosialt arbeid,2011,52.0
+HIB Sosialt arbeid,2012,53.6
+HIB Sosialt arbeid,2013,52.1
+HIB Sosialt arbeid,2014,51.9
+HIB Sosialt arbeid,2015,51.9
+HIB Ingeniør: energiteknologi,2009,49.5
+HIB Ingeniør: energiteknologi,2010,49.2
+HIB Ingeniør: energiteknologi,2011,52.8
+HIB Ingeniør: energiteknologi,2012,50.9
+HIB Ingeniør: energiteknologi,2013,49.8
+HIB Ingeniør: energiteknologi,2014,50.0
+HIB Ingeniør: energiteknologi,2015,50.7
+HIB Sykepleierutdanning,2009,48.0
+HIB Sykepleierutdanning,2010,48.4
+HIB Sykepleierutdanning,2011,47.4
+HIB Sykepleierutdanning,2012,47.9
+HIB Sykepleierutdanning,2013,47.7
+HIB Sykepleierutdanning,2014,47.9
+HIB Sykepleierutdanning,2015,48.6
+HIB Faglærer kroppsøving og idrettsfag,2009,49.6
+HIB Faglærer kroppsøving og idrettsfag,2010,53.3
+HIB Faglærer kroppsøving og idrettsfag,2011,51.4
+HIB Faglærer kroppsøving og idrettsfag,2012,49.6
+HIB Faglærer kroppsøving og idrettsfag,2013,52.0
+HIB Faglærer kroppsøving og idrettsfag,2014,47.7
+HIB Faglærer kroppsøving og idrettsfag,2015,48.7
+HIB Folkehelsearbeid: kosthold og fysisk aktivitet,2009,49.5
+HIB Folkehelsearbeid: kosthold og fysisk aktivitet,2010,49.9
+HIB Folkehelsearbeid: kosthold og fysisk aktivitet,2011,50.7
+HIB Folkehelsearbeid: kosthold og fysisk aktivitet,2012,52.4
+HIB Folkehelsearbeid: kosthold og fysisk aktivitet,2013,51.7
+HIB Folkehelsearbeid: kosthold og fysisk aktivitet,2014,52.0
+HIB Folkehelsearbeid: kosthold og fysisk aktivitet,2015,49.0
+HIB Ergoterapeututdanning,2009,46.8
+HIB Ergoterapeututdanning,2010,48.1
+HIB Ergoterapeututdanning,2011,46.9
+HIB Ergoterapeututdanning,2012,45.8
+HIB Ergoterapeututdanning,2013,46.9
+HIB Ergoterapeututdanning,2014,45.0
+HIB Ergoterapeututdanning,2015,46.3
+HIB Radiografutdanning,2009,42.9
+HIB Radiografutdanning,2010,43.4
+HIB Radiografutdanning,2011,43.2
+HIB Radiografutdanning,2012,43.9
+HIB Radiografutdanning,2013,43.5
+HIB Radiografutdanning,2014,43.0
+HIB Radiografutdanning,2015,44.7
+HIB Økonomi og administrasjon,2009,49.6
+HIB Økonomi og administrasjon,2010,50.7
+HIB Økonomi og administrasjon,2011,50.2
+HIB Økonomi og administrasjon,2012,50.7
+HIB Økonomi og administrasjon,2013,51.2
+HIB Økonomi og administrasjon,2014,49.1
+HIB Økonomi og administrasjon,2015,49.9
+HIB Bioingeniørutdanning,2009,48.6
+HIB Bioingeniørutdanning,2010,46.3
+HIB Bioingeniørutdanning,2011,48.6
+HIB Bioingeniørutdanning,2012,50.2
+HIB Bioingeniørutdanning,2013,49.4
+HIB Bioingeniørutdanning,2014,48.2
+HIB Bioingeniørutdanning,2015,48.9
+HIB Fysioterapeututdanning,2009,55.7
+HIB Fysioterapeututdanning,2010,56.3
+HIB Fysioterapeututdanning,2011,56.0
+HIB Fysioterapeututdanning,2012,56.0
+HIB Fysioterapeututdanning,2013,55.2
+HIB Fysioterapeututdanning,2014,54.8
+HIB Fysioterapeututdanning,2015,54.7
+HIB Ingeniør: marinteknikk,2009,49.5
+HIB Ingeniør: marinteknikk,2010,46.8
+HIB Ingeniør: marinteknikk,2011,47.1
+HIB Ingeniør: marinteknikk,2012,53.2
+HIB Ingeniør: marinteknikk,2013,53.4
+HIB Ingeniør: marinteknikk,2014,53.3
+HIB Ingeniør: marinteknikk,2015,48.3
+HIB Ingeniør: maskinteknikk,2009,48.2
+HIB Ingeniør: maskinteknikk,2010,48.5
+HIB Ingeniør: maskinteknikk,2011,48.8
+HIB Ingeniør: maskinteknikk,2012,50.3
+HIB Ingeniør: maskinteknikk,2013,51.7
+HIB Ingeniør: maskinteknikk,2014,53.7
+HIB Ingeniør: maskinteknikk,2015,54.4
+HIB Landmåling og eiendomsdesign,2009,41.8
+HIB Landmåling og eiendomsdesign,2010,45.6
+HIB Landmåling og eiendomsdesign,2011,45.2
+HIB Landmåling og eiendomsdesign,2012,49.6
+HIB Landmåling og eiendomsdesign,2013,48.9
+HIB Landmåling og eiendomsdesign,2014,48.7
+HIB Landmåling og eiendomsdesign,2015,47.4
+HIB Ingeniør: undervannsteknologi,2009,53.6
+HIB Ingeniør: undervannsteknologi,2010,52.8
+HIB Ingeniør: undervannsteknologi,2011,52.2
+HIB Ingeniør: undervannsteknologi,2012,55.6
+HIB Ingeniør: undervannsteknologi,2013,56.8
+HIB Ingeniør: undervannsteknologi,2014,54.9
+HIB Ingeniør: undervannsteknologi,2015,48.1
+HIB Vernepleierutdanning,2009,46.3
+HIB Vernepleierutdanning,2010,46.9
+HIB Vernepleierutdanning,2011,48.2
+HIB Vernepleierutdanning,2012,48.5
+HIB Vernepleierutdanning,2013,50.9
+HIB Vernepleierutdanning,2014,47.0
+HIB Vernepleierutdanning,2015,47.3
+Haraldsplass Sykepleierutdanning,2009,46.3
+Haraldsplass Sykepleierutdanning,2010,47.0
+Haraldsplass Sykepleierutdanning,2011,46.1
+Haraldsplass Sykepleierutdanning,2012,47.1
+Haraldsplass Sykepleierutdanning,2013,47.3
+Haraldsplass Sykepleierutdanning,2014,47.2
+Haraldsplass Sykepleierutdanning,2015,48.0
+NHH Siviløkonomutdanningen,2009,54.7
+NHH Siviløkonomutdanningen,2010,55.5
+NHH Siviløkonomutdanningen,2011,55.2
+NHH Siviløkonomutdanningen,2012,56.1
+NHH Siviløkonomutdanningen,2013,56.7
+NHH Siviløkonomutdanningen,2014,56.2
+NHH Siviløkonomutdanningen,2015,56.3
+NTNU Politisk økonomi,2009,45.3
+NTNU Politisk økonomi,2010,46.5
+NTNU Politisk økonomi,2011,45.5
+NTNU Politisk økonomi,2012,47.4
+NTNU Politisk økonomi,2013,44.6
+NTNU Politisk økonomi,2014,46.8
+NTNU Politisk økonomi,2015,45.9
+NTNU Psykologi,2009,47.4
+NTNU Psykologi,2010,48.0
+NTNU Psykologi,2011,51.1
+NTNU Psykologi,2012,52.3
+NTNU Psykologi,2013,51.1
+NTNU Psykologi,2014,50.6
+NTNU Psykologi,2015,49.8
+NTNU Datateknologi,2009,49.4
+NTNU Datateknologi,2010,49.2
+NTNU Datateknologi,2011,50.1
+NTNU Datateknologi,2012,52.4
+NTNU Datateknologi,2013,54.0
+NTNU Datateknologi,2014,55.1
+NTNU Datateknologi,2015,55.2
+NTNU Biologi og kjemi,2009,57.5
+NTNU Biologi og kjemi,2010,54.0
+NTNU Biologi og kjemi,2011,52.8
+NTNU Biologi og kjemi,2012,52.9
+NTNU Biologi og kjemi,2013,57.6
+NTNU Biologi og kjemi,2014,57.8
+NTNU Biologi og kjemi,2015,56.8
+NTNU Kybernetikk og robotikk,2009,50.7
+NTNU Kybernetikk og robotikk,2010,50.0
+NTNU Kybernetikk og robotikk,2011,51.3
+NTNU Kybernetikk og robotikk,2012,52.2
+NTNU Kybernetikk og robotikk,2013,53.6
+NTNU Kybernetikk og robotikk,2014,55.8
+NTNU Kybernetikk og robotikk,2015,56.3
+NTNU Elektronisk systemdesign og innovasjon,2009,47.3
+NTNU Elektronisk systemdesign og innovasjon,2010,48.0
+NTNU Elektronisk systemdesign og innovasjon,2011,47.4
+NTNU Elektronisk systemdesign og innovasjon,2012,50.3
+NTNU Elektronisk systemdesign og innovasjon,2013,52.6
+NTNU Elektronisk systemdesign og innovasjon,2014,54.3
+NTNU Elektronisk systemdesign og innovasjon,2015,54.7
+NTNU Lektorutdanning i realfag,2009,46.9
+NTNU Lektorutdanning i realfag,2010,47.2
+NTNU Lektorutdanning i realfag,2011,48.7
+NTNU Lektorutdanning i realfag,2012,48.3
+NTNU Lektorutdanning i realfag,2013,51.2
+NTNU Lektorutdanning i realfag,2014,51.4
+NTNU Lektorutdanning i realfag,2015,49.0
+NTNU Fysikk og matematikk,2009,50.5
+NTNU Fysikk og matematikk,2010,54.0
+NTNU Fysikk og matematikk,2011,56.0
+NTNU Fysikk og matematikk,2012,55.2
+NTNU Fysikk og matematikk,2013,56.5
+NTNU Fysikk og matematikk,2014,57.3
+NTNU Fysikk og matematikk,2015,57.6
+NTNU Industriell kjemi og bioteknologi,2009,50.0
+NTNU Industriell kjemi og bioteknologi,2010,52.3
+NTNU Industriell kjemi og bioteknologi,2011,49.4
+NTNU Industriell kjemi og bioteknologi,2012,49.7
+NTNU Industriell kjemi og bioteknologi,2013,51.4
+NTNU Industriell kjemi og bioteknologi,2014,53.8
+NTNU Industriell kjemi og bioteknologi,2015,53.5
+NTNU Informatikk,2009,43.1
+NTNU Informatikk,2010,44.8
+NTNU Informatikk,2011,45.1
+NTNU Informatikk,2012,47.5
+NTNU Informatikk,2013,45.6
+NTNU Informatikk,2014,47.2
+NTNU Informatikk,2015,48.9
+NTNU Marin teknikk,2009,52.2
+NTNU Marin teknikk,2010,53.1
+NTNU Marin teknikk,2011,54.0
+NTNU Marin teknikk,2012,54.7
+NTNU Marin teknikk,2013,55.7
+NTNU Marin teknikk,2014,56.4
+NTNU Marin teknikk,2015,55.9
+NTNU Lektorutdanning i historie,2009,45.1
+NTNU Lektorutdanning i historie,2010,47.2
+NTNU Lektorutdanning i historie,2011,51.5
+NTNU Lektorutdanning i historie,2012,52.5
+NTNU Lektorutdanning i historie,2013,53.9
+NTNU Lektorutdanning i historie,2014,54.3
+NTNU Lektorutdanning i historie,2015,53.9
+NTNU Bevegelsesvitenskap,2009,48.1
+NTNU Bevegelsesvitenskap,2010,48.3
+NTNU Bevegelsesvitenskap,2011,47.9
+NTNU Bevegelsesvitenskap,2012,47.4
+NTNU Bevegelsesvitenskap,2013,48.0
+NTNU Bevegelsesvitenskap,2014,46.5
+NTNU Bevegelsesvitenskap,2015,46.0
+NTNU Produktutvikling og produksjon,2009,52.8
+NTNU Produktutvikling og produksjon,2010,52.5
+NTNU Produktutvikling og produksjon,2011,53.0
+NTNU Produktutvikling og produksjon,2012,54.3
+NTNU Produktutvikling og produksjon,2013,55.7
+NTNU Produktutvikling og produksjon,2014,56.3
+NTNU Produktutvikling og produksjon,2015,55.8
+NTNU Lektorutdanning språkfag/engelsk,2009,43.8
+NTNU Lektorutdanning språkfag/engelsk,2010,45.5
+NTNU Lektorutdanning språkfag/engelsk,2011,47.6
+NTNU Lektorutdanning språkfag/engelsk,2012,48.5
+NTNU Lektorutdanning språkfag/engelsk,2013,49.0
+NTNU Lektorutdanning språkfag/engelsk,2014,49.7
+NTNU Lektorutdanning språkfag/engelsk,2015,50.4
+NTNU Arkeologi,2009,43.9
+NTNU Arkeologi,2010,44.6
+NTNU Arkeologi,2011,43.2
+NTNU Arkeologi,2012,41.8
+NTNU Arkeologi,2013,41.6
+NTNU Arkeologi,2014,39.7
+NTNU Arkeologi,2015,39.5
+NTNU Industriell økonomi og teknologiledelse,2009,59.7
+NTNU Industriell økonomi og teknologiledelse,2010,60.8
+NTNU Industriell økonomi og teknologiledelse,2011,61.5
+NTNU Industriell økonomi og teknologiledelse,2012,61.8
+NTNU Industriell økonomi og teknologiledelse,2013,62.7
+NTNU Industriell økonomi og teknologiledelse,2014,63.5
+NTNU Industriell økonomi og teknologiledelse,2015,64.0
+NTNU Industriell design,2009,58.4
+NTNU Industriell design,2010,58.5
+NTNU Industriell design,2011,58.8
+NTNU Industriell design,2012,58.6
+NTNU Industriell design,2013,59.3
+NTNU Industriell design,2014,58.0
+NTNU Industriell design,2015,57.9
+NTNU Energi og miljø,2009,53.2
+NTNU Energi og miljø,2010,53.9
+NTNU Energi og miljø,2011,54.0
+NTNU Energi og miljø,2012,53.6
+NTNU Energi og miljø,2013,55.1
+NTNU Energi og miljø,2014,56.0
+NTNU Energi og miljø,2015,56.0
+NTNU Kjemi,2009,46.9
+NTNU Kjemi,2010,48.8
+NTNU Kjemi,2011,50.0
+NTNU Kjemi,2012,50.8
+NTNU Kjemi,2013,49.8
+NTNU Kjemi,2014,50.2
+NTNU Kjemi,2015,51.9
+NTNU Geografi: årsstudium,2009,48.4
+NTNU Geografi: årsstudium,2010,52.2
+NTNU Geografi: årsstudium,2011,50.9
+NTNU Geografi: årsstudium,2012,50.5
+NTNU Geografi: årsstudium,2013,46.4
+NTNU Geografi: årsstudium,2014,50.9
+NTNU Geografi: årsstudium,2015,52.5
+NTNU Samfunnsøkonomi: årsstudium,2009,51.1
+NTNU Samfunnsøkonomi: årsstudium,2010,52.8
+NTNU Samfunnsøkonomi: årsstudium,2011,55.2
+NTNU Samfunnsøkonomi: årsstudium,2012,49.5
+NTNU Samfunnsøkonomi: årsstudium,2013,49.6
+NTNU Samfunnsøkonomi: årsstudium,2014,53.0
+NTNU Samfunnsøkonomi: årsstudium,2015,55.1
+NTNU Samfunnsøkonomi,2009,47.8
+NTNU Samfunnsøkonomi,2010,47.2
+NTNU Samfunnsøkonomi,2011,47.5
+NTNU Samfunnsøkonomi,2012,47.8
+NTNU Samfunnsøkonomi,2013,46.9
+NTNU Samfunnsøkonomi,2014,48.3
+NTNU Samfunnsøkonomi,2015,48.1
+NTNU Filosofi: årsstudium,2009,42.3
+NTNU Filosofi: årsstudium,2010,45.0
+NTNU Filosofi: årsstudium,2011,44.2
+NTNU Filosofi: årsstudium,2012,44.7
+NTNU Filosofi: årsstudium,2013,39.4
+NTNU Filosofi: årsstudium,2014,43.0
+NTNU Filosofi: årsstudium,2015,45.5
+NTNU Matematiske fag,2009,46.7
+NTNU Matematiske fag,2010,48.6
+NTNU Matematiske fag,2011,47.2
+NTNU Matematiske fag,2012,50.9
+NTNU Matematiske fag,2013,50.5
+NTNU Matematiske fag,2014,53.0
+NTNU Matematiske fag,2015,51.6
+NTNU Samfunnsøkonomi: master,2009,51.0
+NTNU Samfunnsøkonomi: master,2010,51.4
+NTNU Samfunnsøkonomi: master,2011,51.2
+NTNU Samfunnsøkonomi: master,2012,48.1
+NTNU Samfunnsøkonomi: master,2013,48.6
+NTNU Samfunnsøkonomi: master,2014,50.4
+NTNU Samfunnsøkonomi: master,2015,49.8
+NTNU Matematiske fag: årsstudium,2009,46.9
+NTNU Matematiske fag: årsstudium,2010,52.8
+NTNU Matematiske fag: årsstudium,2011,49.3
+NTNU Matematiske fag: årsstudium,2012,53.9
+NTNU Matematiske fag: årsstudium,2013,54.2
+NTNU Matematiske fag: årsstudium,2014,53.8
+NTNU Matematiske fag: årsstudium,2015,52.1
+NTNU Lektorutdanning i samfunnsfag,2009,48.5
+NTNU Lektorutdanning i samfunnsfag,2010,48.6
+NTNU Lektorutdanning i samfunnsfag,2011,52.2
+NTNU Lektorutdanning i samfunnsfag,2012,52.0
+NTNU Lektorutdanning i samfunnsfag,2013,54.6
+NTNU Lektorutdanning i samfunnsfag,2014,54.4
+NTNU Lektorutdanning i samfunnsfag,2015,52.3
+NTNU Engelsk: årsstudium,2009,47.1
+NTNU Engelsk: årsstudium,2010,46.9
+NTNU Engelsk: årsstudium,2011,48.6
+NTNU Engelsk: årsstudium,2012,50.2
+NTNU Engelsk: årsstudium,2013,47.7
+NTNU Engelsk: årsstudium,2014,48.5
+NTNU Engelsk: årsstudium,2015,49.8
+NTNU Tekniske geofag,2009,48.3
+NTNU Tekniske geofag,2010,50.3
+NTNU Tekniske geofag,2011,52.4
+NTNU Tekniske geofag,2012,54.2
+NTNU Tekniske geofag,2013,55.8
+NTNU Tekniske geofag,2014,56.6
+NTNU Tekniske geofag,2015,55.0
+NTNU Psykologi: årsstudium,2009,46.9
+NTNU Psykologi: årsstudium,2010,48.3
+NTNU Psykologi: årsstudium,2011,50.8
+NTNU Psykologi: årsstudium,2012,50.4
+NTNU Psykologi: årsstudium,2013,49.7
+NTNU Psykologi: årsstudium,2014,49.9
+NTNU Psykologi: årsstudium,2015,49.7
+NTNU Sosiologi,2009,41.2
+NTNU Sosiologi,2010,43.3
+NTNU Sosiologi,2011,42.8
+NTNU Sosiologi,2012,42.7
+NTNU Sosiologi,2013,42.4
+NTNU Sosiologi,2014,41.7
+NTNU Sosiologi,2015,44.2
+NTNU Statsvitskap,2009,43.9
+NTNU Statsvitskap,2010,46.6
+NTNU Statsvitskap,2011,46.2
+NTNU Statsvitskap,2012,46.0
+NTNU Statsvitskap,2013,45.9
+NTNU Statsvitskap,2014,46.6
+NTNU Statsvitskap,2015,46.0
+NTNU Materialteknologi,2009,50.5
+NTNU Materialteknologi,2010,50.8
+NTNU Materialteknologi,2011,51.6
+NTNU Materialteknologi,2012,52.3
+NTNU Materialteknologi,2013,53.7
+NTNU Materialteknologi,2014,55.1
+NTNU Materialteknologi,2015,54.5
+NTNU Historie: årsstudium,2009,47.4
+NTNU Historie: årsstudium,2010,49.6
+NTNU Historie: årsstudium,2011,48.0
+NTNU Historie: årsstudium,2012,47.5
+NTNU Historie: årsstudium,2013,46.4
+NTNU Historie: årsstudium,2014,44.9
+NTNU Historie: årsstudium,2015,45.3
+NTNU Arkitektur,2009,59.9
+NTNU Arkitektur,2010,59.4
+NTNU Arkitektur,2011,58.0
+NTNU Arkitektur,2012,58.3
+NTNU Arkitektur,2013,57.5
+NTNU Arkitektur,2014,56.9
+NTNU Arkitektur,2015,58.4
+NTNU Petroleumsfag,2009,51.4
+NTNU Petroleumsfag,2010,51.6
+NTNU Petroleumsfag,2011,52.5
+NTNU Petroleumsfag,2012,55.2
+NTNU Petroleumsfag,2013,57.7
+NTNU Petroleumsfag,2014,58.8
+NTNU Petroleumsfag,2015,54.1
+NTNU Bygg- og miljøteknikk,2009,52.7
+NTNU Bygg- og miljøteknikk,2010,52.4
+NTNU Bygg- og miljøteknikk,2011,53.1
+NTNU Bygg- og miljøteknikk,2012,53.4
+NTNU Bygg- og miljøteknikk,2013,54.9
+NTNU Bygg- og miljøteknikk,2014,55.8
+NTNU Bygg- og miljøteknikk,2015,56.3
+NTNU Engelsk,2009,42.6
+NTNU Engelsk,2010,42.1
+NTNU Engelsk,2011,41.5
+NTNU Engelsk,2012,43.4
+NTNU Engelsk,2013,40.0
+NTNU Engelsk,2014,37.9
+NTNU Engelsk,2015,38.0
+NTNU Historie,2009,40.3
+NTNU Historie,2010,41.4
+NTNU Historie,2011,40.9
+NTNU Historie,2012,43.1
+NTNU Historie,2013,40.7
+NTNU Historie,2014,40.0
+NTNU Historie,2015,40.2
+NTNU Kommunikasjonsteknologi,2009,47.0
+NTNU Kommunikasjonsteknologi,2010,50.4
+NTNU Kommunikasjonsteknologi,2011,48.8
+NTNU Kommunikasjonsteknologi,2012,51.3
+NTNU Kommunikasjonsteknologi,2013,53.2
+NTNU Kommunikasjonsteknologi,2014,54.5
+NTNU Kommunikasjonsteknologi,2015,54.7
+NTNU Pedagogikk,2009,41.3
+NTNU Pedagogikk,2010,43.6
+NTNU Pedagogikk,2011,42.5
+NTNU Pedagogikk,2012,43.1
+NTNU Pedagogikk,2013,43.8
+NTNU Pedagogikk,2014,43.6
+NTNU Pedagogikk,2015,45.4
+NTNU Geografi,2009,36.0
+NTNU Geografi,2010,40.7
+NTNU Geografi,2011,39.5
+NTNU Geografi,2012,38.7
+NTNU Geografi,2013,43.9
+NTNU Geografi,2014,41.8
+NTNU Geografi,2015,42.7
+NTNU Film- og videoproduksjon,2009,54.9
+NTNU Film- og videoproduksjon,2010,55.6
+NTNU Film- og videoproduksjon,2011,53.1
+NTNU Film- og videoproduksjon,2012,53.0
+NTNU Film- og videoproduksjon,2013,53.1
+NTNU Film- og videoproduksjon,2014,50.8
+NTNU Film- og videoproduksjon,2015,54.8
+NTNU Bioteknologi,2009,54.1
+NTNU Bioteknologi,2010,53.0
+NTNU Bioteknologi,2011,54.1
+NTNU Bioteknologi,2012,53.5
+NTNU Bioteknologi,2013,52.7
+NTNU Bioteknologi,2014,54.2
+NTNU Bioteknologi,2015,55.0
+NTNU Samfunns- og idrettsvitenskap,2009,45.0
+NTNU Samfunns- og idrettsvitenskap,2010,45.1
+NTNU Samfunns- og idrettsvitenskap,2011,46.0
+NTNU Samfunns- og idrettsvitenskap,2012,46.1
+NTNU Samfunns- og idrettsvitenskap,2013,45.7
+NTNU Samfunns- og idrettsvitenskap,2014,45.5
+NTNU Samfunns- og idrettsvitenskap,2015,45.2
+NTNU Nanoteknologi,2009,63.6
+NTNU Nanoteknologi,2010,63.0
+NTNU Nanoteknologi,2011,62.0
+NTNU Nanoteknologi,2012,63.2
+NTNU Nanoteknologi,2013,61.3
+NTNU Nanoteknologi,2014,62.8
+NTNU Nanoteknologi,2015,63.0
+NTNU Fysikk,2009,49.6
+NTNU Fysikk,2010,51.7
+NTNU Fysikk,2011,52.6
+NTNU Fysikk,2012,54.4
+NTNU Fysikk,2013,54.4
+NTNU Fysikk,2014,53.8
+NTNU Fysikk,2015,53.5
+NTNU Geologi,2009,48.4
+NTNU Geologi,2010,50.6
+NTNU Geologi,2011,53.6
+NTNU Geologi,2012,53.2
+NTNU Geologi,2013,54.9
+NTNU Geologi,2014,55.7
+NTNU Geologi,2015,53.0
+NTNU Biologi,2009,49.4
+NTNU Biologi,2010,50.0
+NTNU Biologi,2011,51.7
+NTNU Biologi,2012,48.8
+NTNU Biologi,2013,49.1
+NTNU Biologi,2014,50.3
+NTNU Biologi,2015,49.9
+NTNU Ingeniørvitenskap og IKT,2009,49.0
+NTNU Ingeniørvitenskap og IKT,2010,49.6
+NTNU Ingeniørvitenskap og IKT,2011,51.5
+NTNU Ingeniørvitenskap og IKT,2012,52.6
+NTNU Ingeniørvitenskap og IKT,2013,54.3
+NTNU Ingeniørvitenskap og IKT,2014,54.4
+NTNU Ingeniørvitenskap og IKT,2015,55.1
+PHS Politiutdanning: Oslo,2009,49.6
+PHS Politiutdanning: Oslo,2010,48.3
+PHS Politiutdanning: Oslo,2011,47.5
+PHS Politiutdanning: Oslo,2012,47.2
+PHS Politiutdanning: Oslo,2013,47.5
+PHS Politiutdanning: Oslo,2014,47.8
+PHS Politiutdanning: Oslo,2015,49.5
+PHS Politiutdanning: Bodø,2009,44.9
+PHS Politiutdanning: Bodø,2010,41.9
+PHS Politiutdanning: Bodø,2011,42.0
+PHS Politiutdanning: Bodø,2012,40.3
+PHS Politiutdanning: Bodø,2013,41.5
+PHS Politiutdanning: Bodø,2014,43.5
+PHS Politiutdanning: Bodø,2015,45.1
+PHS Politiutdanning: Kongsvinger,2009,46.3
+PHS Politiutdanning: Kongsvinger,2010,43.0
+PHS Politiutdanning: Kongsvinger,2011,43.1
+PHS Politiutdanning: Kongsvinger,2012,41.9
+PHS Politiutdanning: Kongsvinger,2013,43.5
+PHS Politiutdanning: Kongsvinger,2014,44.6
+PHS Politiutdanning: Kongsvinger,2015,45.7
+UIB Administrasjon og organisasjonsvitenskap,2009,42.6
+UIB Administrasjon og organisasjonsvitenskap,2010,46.1
+UIB Administrasjon og organisasjonsvitenskap,2011,46.7
+UIB Administrasjon og organisasjonsvitenskap,2012,47.9
+UIB Administrasjon og organisasjonsvitenskap,2013,44.2
+UIB Administrasjon og organisasjonsvitenskap,2014,42.5
+UIB Administrasjon og organisasjonsvitenskap,2015,40.4
+UIB Psykologi: årsstudium,2009,44.1
+UIB Psykologi: årsstudium,2010,47.9
+UIB Psykologi: årsstudium,2011,49.3
+UIB Psykologi: årsstudium,2012,49.0
+UIB Psykologi: årsstudium,2013,51.5
+UIB Psykologi: årsstudium,2014,51.6
+UIB Psykologi: årsstudium,2015,49.0
+UIB Farmasi,2009,56.5
+UIB Farmasi,2010,52.2
+UIB Farmasi,2011,53.7
+UIB Farmasi,2012,52.3
+UIB Farmasi,2013,53.3
+UIB Farmasi,2014,50.6
+UIB Farmasi,2015,52.8
+UIB Human ernæring,2009,63.0
+UIB Human ernæring,2010,61.3
+UIB Human ernæring,2011,60.7
+UIB Human ernæring,2012,61.3
+UIB Human ernæring,2013,62.6
+UIB Human ernæring,2014,57.4
+UIB Human ernæring,2015,54.8
+UIB Sosiologi,2009,45.0
+UIB Sosiologi,2010,45.1
+UIB Sosiologi,2011,44.3
+UIB Sosiologi,2012,43.9
+UIB Sosiologi,2013,43.7
+UIB Sosiologi,2014,40.3
+UIB Sosiologi,2015,40.0
+UIB Kognitiv vitenskap,2009,42.1
+UIB Kognitiv vitenskap,2010,43.2
+UIB Kognitiv vitenskap,2011,45.9
+UIB Kognitiv vitenskap,2012,48.2
+UIB Kognitiv vitenskap,2013,51.0
+UIB Kognitiv vitenskap,2014,47.7
+UIB Kognitiv vitenskap,2015,49.1
+UIB Film- og tv-produksjon,2009,54.9
+UIB Film- og tv-produksjon,2010,54.9
+UIB Film- og tv-produksjon,2011,53.8
+UIB Film- og tv-produksjon,2012,53.6
+UIB Film- og tv-produksjon,2013,54.5
+UIB Film- og tv-produksjon,2014,53.3
+UIB Film- og tv-produksjon,2015,51.6
+UIB Nye medier,2009,47.7
+UIB Nye medier,2010,48.0
+UIB Nye medier,2011,45.2
+UIB Nye medier,2012,46.3
+UIB Nye medier,2013,46.4
+UIB Nye medier,2014,45.3
+UIB Nye medier,2015,44.3
+UIB Rettsvitenskap,2009,52.3
+UIB Rettsvitenskap,2010,53.6
+UIB Rettsvitenskap,2011,54.5
+UIB Rettsvitenskap,2012,55.6
+UIB Rettsvitenskap,2013,56.7
+UIB Rettsvitenskap,2014,57.4
+UIB Rettsvitenskap,2015,57.4
+UIB Medievitenskap,2009,45.0
+UIB Medievitenskap,2010,46.0
+UIB Medievitenskap,2011,46.0
+UIB Medievitenskap,2012,45.6
+UIB Medievitenskap,2013,44.1
+UIB Medievitenskap,2014,38.4
+UIB Medievitenskap,2015,33.9
+UIB Pedagogikk,2009,48.0
+UIB Pedagogikk,2010,47.4
+UIB Pedagogikk,2011,49.6
+UIB Pedagogikk,2012,49.7
+UIB Pedagogikk,2013,48.9
+UIB Pedagogikk,2014,49.0
+UIB Pedagogikk,2015,46.6
+UIB Sosiologi: årsstudium,2009,43.6
+UIB Sosiologi: årsstudium,2010,49.1
+UIB Sosiologi: årsstudium,2011,49.6
+UIB Sosiologi: årsstudium,2012,51.3
+UIB Sosiologi: årsstudium,2013,51.3
+UIB Sosiologi: årsstudium,2014,51.3
+UIB Sosiologi: årsstudium,2015,50.3
+UIB Administrasjon og organisasjonsvitenskap: årsstud.,2009,50.4
+UIB Administrasjon og organisasjonsvitenskap: årsstud.,2010,53.0
+UIB Administrasjon og organisasjonsvitenskap: årsstud.,2011,53.0
+UIB Administrasjon og organisasjonsvitenskap: årsstud.,2012,55.1
+UIB Administrasjon og organisasjonsvitenskap: årsstud.,2013,55.6
+UIB Administrasjon og organisasjonsvitenskap: årsstud.,2014,54.0
+UIB Administrasjon og organisasjonsvitenskap: årsstud.,2015,54.0
+UIB Nanoteknologi,2009,52.3
+UIB Nanoteknologi,2010,54.0
+UIB Nanoteknologi,2011,52.7
+UIB Nanoteknologi,2012,52.1
+UIB Nanoteknologi,2013,49.6
+UIB Nanoteknologi,2014,51.1
+UIB Nanoteknologi,2015,50.1
+UIB Arbeids- og organisasjonspsykologi,2009,56.1
+UIB Arbeids- og organisasjonspsykologi,2010,57.0
+UIB Arbeids- og organisasjonspsykologi,2011,57.1
+UIB Arbeids- og organisasjonspsykologi,2012,56.4
+UIB Arbeids- og organisasjonspsykologi,2013,55.6
+UIB Arbeids- og organisasjonspsykologi,2014,56.0
+UIB Arbeids- og organisasjonspsykologi,2015,54.7
+UIB Informasjonsvitenskap,2009,42.3
+UIB Informasjonsvitenskap,2010,42.9
+UIB Informasjonsvitenskap,2011,43.4
+UIB Informasjonsvitenskap,2012,43.7
+UIB Informasjonsvitenskap,2013,44.9
+UIB Informasjonsvitenskap,2014,43.1
+UIB Informasjonsvitenskap,2015,43.3
+UIB Odontologi,2009,63.5
+UIB Odontologi,2010,62.6
+UIB Odontologi,2011,63.4
+UIB Odontologi,2012,63.2
+UIB Odontologi,2013,63.9
+UIB Odontologi,2014,63.9
+UIB Odontologi,2015,64.1
+UIB Samfunnsøkonomi: master,2009,48.6
+UIB Samfunnsøkonomi: master,2010,50.3
+UIB Samfunnsøkonomi: master,2011,48.5
+UIB Samfunnsøkonomi: master,2012,50.3
+UIB Samfunnsøkonomi: master,2013,49.8
+UIB Samfunnsøkonomi: master,2014,48.3
+UIB Samfunnsøkonomi: master,2015,48.0
+UIB Journalistikk,2009,58.6
+UIB Journalistikk,2010,58.4
+UIB Journalistikk,2011,57.2
+UIB Journalistikk,2012,57.1
+UIB Journalistikk,2013,57.7
+UIB Journalistikk,2014,55.7
+UIB Journalistikk,2015,55.6
+UIB Tannpleie,2009,46.3
+UIB Tannpleie,2010,48.2
+UIB Tannpleie,2011,45.8
+UIB Tannpleie,2012,45.3
+UIB Tannpleie,2013,46.5
+UIB Tannpleie,2014,43.5
+UIB Tannpleie,2015,43.7
+UIB Medievitenskap: årsstudium,2009,46.9
+UIB Medievitenskap: årsstudium,2010,52.7
+UIB Medievitenskap: årsstudium,2011,52.8
+UIB Medievitenskap: årsstudium,2012,52.6
+UIB Medievitenskap: årsstudium,2013,51.6
+UIB Medievitenskap: årsstudium,2014,45.1
+UIB Medievitenskap: årsstudium,2015,49.8
+UIB Miljø- og ressursfag: samfunnsvitenskapelig,2009,53.1
+UIB Miljø- og ressursfag: samfunnsvitenskapelig,2010,50.9
+UIB Miljø- og ressursfag: samfunnsvitenskapelig,2011,46.3
+UIB Miljø- og ressursfag: samfunnsvitenskapelig,2012,46.3
+UIB Miljø- og ressursfag: samfunnsvitenskapelig,2013,45.8
+UIB Miljø- og ressursfag: samfunnsvitenskapelig,2014,48.7
+UIB Miljø- og ressursfag: samfunnsvitenskapelig,2015,50.2
+UIB Generell psykologi,2009,51.9
+UIB Generell psykologi,2010,54.2
+UIB Generell psykologi,2011,56.0
+UIB Generell psykologi,2012,54.8
+UIB Generell psykologi,2013,54.6
+UIB Generell psykologi,2014,54.8
+UIB Generell psykologi,2015,53.1
+UIB Sammenliknende politikk,2009,44.3
+UIB Sammenliknende politikk,2010,45.5
+UIB Sammenliknende politikk,2011,45.2
+UIB Sammenliknende politikk,2012,46.5
+UIB Sammenliknende politikk,2013,47.1
+UIB Sammenliknende politikk,2014,40.8
+UIB Sammenliknende politikk,2015,36.9
+UIB Sosialantropologi,2009,43.8
+UIB Sosialantropologi,2010,43.9
+UIB Sosialantropologi,2011,43.4
+UIB Sosialantropologi,2012,41.0
+UIB Sosialantropologi,2013,39.8
+UIB Sosialantropologi,2014,37.1
+UIB Sosialantropologi,2015,34.0
+UIB Sammenliknende politikk: årsstudium,2009,47.0
+UIB Sammenliknende politikk: årsstudium,2010,54.4
+UIB Sammenliknende politikk: årsstudium,2011,50.2
+UIB Sammenliknende politikk: årsstudium,2012,54.6
+UIB Sammenliknende politikk: årsstudium,2013,54.4
+UIB Sammenliknende politikk: årsstudium,2014,52.2
+UIB Sammenliknende politikk: årsstudium,2015,52.2
+UIB Samfunnsøkonomi: årsstudium,2009,51.2
+UIB Samfunnsøkonomi: årsstudium,2010,55.3
+UIB Samfunnsøkonomi: årsstudium,2011,56.2
+UIB Samfunnsøkonomi: årsstudium,2012,58.6
+UIB Samfunnsøkonomi: årsstudium,2013,57.4
+UIB Samfunnsøkonomi: årsstudium,2014,55.7
+UIB Samfunnsøkonomi: årsstudium,2015,55.3
+UIB Sosialantropologi: årsstudium,2009,43.5
+UIB Sosialantropologi: årsstudium,2010,50.8
+UIB Sosialantropologi: årsstudium,2011,48.7
+UIB Sosialantropologi: årsstudium,2012,50.8
+UIB Sosialantropologi: årsstudium,2013,51.2
+UIB Sosialantropologi: årsstudium,2014,46.4
+UIB Sosialantropologi: årsstudium,2015,46.2
+UIB Samfunnsøkonomi: bachelor,2009,47.8
+UIB Samfunnsøkonomi: bachelor,2010,49.7
+UIB Samfunnsøkonomi: bachelor,2011,50.0
+UIB Samfunnsøkonomi: bachelor,2012,50.4
+UIB Samfunnsøkonomi: bachelor,2013,50.8
+UIB Samfunnsøkonomi: bachelor,2014,47.4
+UIB Samfunnsøkonomi: bachelor,2015,46.3
+UIO Utviklingsstudier,2009,51.0
+UIO Utviklingsstudier,2010,50.7
+UIO Utviklingsstudier,2011,51.7
+UIO Utviklingsstudier,2012,50.6
+UIO Utviklingsstudier,2013,49.0
+UIO Utviklingsstudier,2014,48.6
+UIO Utviklingsstudier,2015,48.3
+UIO Kultur og kommunikasjon,2009,52.8
+UIO Kultur og kommunikasjon,2010,52.9
+UIO Kultur og kommunikasjon,2011,53.0
+UIO Kultur og kommunikasjon,2012,53.6
+UIO Kultur og kommunikasjon,2013,52.6
+UIO Kultur og kommunikasjon,2014,51.7
+UIO Kultur og kommunikasjon,2015,51.5
+UIO Kunsthistorie: årsstudium,2009,56.3
+UIO Kunsthistorie: årsstudium,2010,56.7
+UIO Kunsthistorie: årsstudium,2011,56.7
+UIO Kunsthistorie: årsstudium,2012,57.1
+UIO Kunsthistorie: årsstudium,2013,53.2
+UIO Kunsthistorie: årsstudium,2014,53.0
+UIO Kunsthistorie: årsstudium,2015,54.6
+UIO Rettsvitenskap (jus): start høst,2009,58.0
+UIO Rettsvitenskap (jus): start høst,2010,58.4
+UIO Rettsvitenskap (jus): start høst,2011,58.1
+UIO Rettsvitenskap (jus): start høst,2012,59.4
+UIO Rettsvitenskap (jus): start høst,2013,59.8
+UIO Rettsvitenskap (jus): start høst,2014,60.3
+UIO Rettsvitenskap (jus): start høst,2015,60.6
+UIO Historie,2009,47.3
+UIO Historie,2010,48.1
+UIO Historie,2011,48.3
+UIO Historie,2012,47.2
+UIO Historie,2013,45.8
+UIO Historie,2014,45.0
+UIO Historie,2015,45.1
+UIO Medievitenskap,2009,51.2
+UIO Medievitenskap,2010,50.8
+UIO Medievitenskap,2011,50.2
+UIO Medievitenskap,2012,50.8
+UIO Medievitenskap,2013,48.5
+UIO Medievitenskap,2014,48.4
+UIO Medievitenskap,2015,48.1
+UIO Rettsvitenskap (jus): start vår,2009,54.7
+UIO Rettsvitenskap (jus): start vår,2010,55.2
+UIO Rettsvitenskap (jus): start vår,2011,55.7
+UIO Rettsvitenskap (jus): start vår,2012,57.2
+UIO Rettsvitenskap (jus): start vår,2013,57.8
+UIO Rettsvitenskap (jus): start vår,2014,58.3
+UIO Rettsvitenskap (jus): start vår,2015,58.5
+UIO Pedagogikk,2009,44.9
+UIO Pedagogikk,2010,46.4
+UIO Pedagogikk,2011,46.5
+UIO Pedagogikk,2012,47.0
+UIO Pedagogikk,2013,46.8
+UIO Pedagogikk,2014,45.6
+UIO Pedagogikk,2015,46.7
+UIO Samfunnsgeografi,2009,51.8
+UIO Samfunnsgeografi,2010,51.3
+UIO Samfunnsgeografi,2011,52.5
+UIO Samfunnsgeografi,2012,49.6
+UIO Samfunnsgeografi,2013,48.6
+UIO Samfunnsgeografi,2014,49.6
+UIO Samfunnsgeografi,2015,49.2
+UIO Spesialpedagogikk,2009,42.8
+UIO Spesialpedagogikk,2010,48.0
+UIO Spesialpedagogikk,2011,46.4
+UIO Spesialpedagogikk,2012,46.8
+UIO Spesialpedagogikk,2013,46.4
+UIO Spesialpedagogikk,2014,46.8
+UIO Spesialpedagogikk,2015,47.2
+UIO Offentlig administrasjon og ledelse,2009,50.3
+UIO Offentlig administrasjon og ledelse,2010,52.1
+UIO Offentlig administrasjon og ledelse,2011,54.2
+UIO Offentlig administrasjon og ledelse,2012,54.8
+UIO Offentlig administrasjon og ledelse,2013,54.3
+UIO Offentlig administrasjon og ledelse,2014,53.7
+UIO Offentlig administrasjon og ledelse,2015,53.5
+UIO Odontologi,2009,65.2
+UIO Odontologi,2010,65.2
+UIO Odontologi,2011,63.9
+UIO Odontologi,2012,64.6
+UIO Odontologi,2013,65.0
+UIO Odontologi,2014,64.9
+UIO Odontologi,2015,65.5
+UIO Samfunnsøkonomisk analyse,2009,53.8
+UIO Samfunnsøkonomisk analyse,2010,53.0
+UIO Samfunnsøkonomisk analyse,2011,55.0
+UIO Samfunnsøkonomisk analyse,2012,52.2
+UIO Samfunnsøkonomisk analyse,2013,54.1
+UIO Samfunnsøkonomisk analyse,2014,52.9
+UIO Samfunnsøkonomisk analyse,2015,53.0
+UIO Internasjonale studier,2009,58.7
+UIO Internasjonale studier,2010,59.2
+UIO Internasjonale studier,2011,58.1
+UIO Internasjonale studier,2012,58.8
+UIO Internasjonale studier,2013,56.4
+UIO Internasjonale studier,2014,56.9
+UIO Internasjonale studier,2015,54.6
+UIO Kriminologi,2009,51.6
+UIO Kriminologi,2010,52.8
+UIO Kriminologi,2011,53.3
+UIO Kriminologi,2012,53.9
+UIO Kriminologi,2013,53.3
+UIO Kriminologi,2014,54.0
+UIO Kriminologi,2015,53.6
+UIO Psykologi,2009,55.6
+UIO Psykologi,2010,55.0
+UIO Psykologi,2011,55.9
+UIO Psykologi,2012,55.5
+UIO Psykologi,2013,55.8
+UIO Psykologi,2014,55.6
+UIO Psykologi,2015,56.3
+UIO Demokrati og rettigheter i informasjonssamfunnet,2009,46.7
+UIO Demokrati og rettigheter i informasjonssamfunnet,2010,47.2
+UIO Demokrati og rettigheter i informasjonssamfunnet,2011,50.0
+UIO Demokrati og rettigheter i informasjonssamfunnet,2012,48.6
+UIO Demokrati og rettigheter i informasjonssamfunnet,2013,49.0
+UIO Demokrati og rettigheter i informasjonssamfunnet,2014,50.0
+UIO Demokrati og rettigheter i informasjonssamfunnet,2015,49.2
+UIO Sosialantropologi,2009,49.2
+UIO Sosialantropologi,2010,49.7
+UIO Sosialantropologi,2011,50.2
+UIO Sosialantropologi,2012,49.1
+UIO Sosialantropologi,2013,46.5
+UIO Sosialantropologi,2014,46.3
+UIO Sosialantropologi,2015,45.2
+UIO Lektorprogrammet: kultur og samfunnsfag,2009,44.9
+UIO Lektorprogrammet: kultur og samfunnsfag,2010,52.1
+UIO Lektorprogrammet: kultur og samfunnsfag,2011,49.3
+UIO Lektorprogrammet: kultur og samfunnsfag,2012,49.2
+UIO Lektorprogrammet: kultur og samfunnsfag,2013,49.5
+UIO Lektorprogrammet: kultur og samfunnsfag,2014,50.8
+UIO Lektorprogrammet: kultur og samfunnsfag,2015,51.4
+UIO Psykologi profesjon: start høst,2009,65.5
+UIO Psykologi profesjon: start høst,2010,65.3
+UIO Psykologi profesjon: start høst,2011,64.9
+UIO Psykologi profesjon: start høst,2012,64.3
+UIO Psykologi profesjon: start høst,2013,65.1
+UIO Psykologi profesjon: start høst,2014,65.7
+UIO Psykologi profesjon: start høst,2015,66.1
+UIO Psykologi profesjon: start vår,2009,63.7
+UIO Psykologi profesjon: start vår,2010,64.2
+UIO Psykologi profesjon: start vår,2011,63.0
+UIO Psykologi profesjon: start vår,2012,62.6
+UIO Psykologi profesjon: start vår,2013,63.6
+UIO Psykologi profesjon: start vår,2014,64.1
+UIO Psykologi profesjon: start vår,2015,64.8
+UIO Samfunnsøkonomi,2009,56.0
+UIO Samfunnsøkonomi,2010,53.9
+UIO Samfunnsøkonomi,2011,55.5
+UIO Samfunnsøkonomi,2012,56.6
+UIO Samfunnsøkonomi,2013,57.0
+UIO Samfunnsøkonomi,2014,57.0
+UIO Samfunnsøkonomi,2015,55.7
+UIO Tannpleie,2009,50.7
+UIO Tannpleie,2010,52.8
+UIO Tannpleie,2011,54.2
+UIO Tannpleie,2012,53.0
+UIO Tannpleie,2013,51.7
+UIO Tannpleie,2014,52.3
+UIO Tannpleie,2015,51.2
+UIO Engelsk: årsstudium,2009,59.6
+UIO Engelsk: årsstudium,2010,59.9
+UIO Engelsk: årsstudium,2011,58.7
+UIO Engelsk: årsstudium,2012,58.8
+UIO Engelsk: årsstudium,2013,57.3
+UIO Engelsk: årsstudium,2014,54.7
+UIO Engelsk: årsstudium,2015,55.5
+UIO Informatikk: design: bruk og interaksjon,2009,43.3
+UIO Informatikk: design: bruk og interaksjon,2010,46.8
+UIO Informatikk: design: bruk og interaksjon,2011,46.0
+UIO Informatikk: design: bruk og interaksjon,2012,50.9
+UIO Informatikk: design: bruk og interaksjon,2013,50.3
+UIO Informatikk: design: bruk og interaksjon,2014,51.8
+UIO Informatikk: design: bruk og interaksjon,2015,50.6
+UIO Psykologi: årsstudium,2009,56.2
+UIO Psykologi: årsstudium,2010,56.2
+UIO Psykologi: årsstudium,2011,57.0
+UIO Psykologi: årsstudium,2012,55.3
+UIO Psykologi: årsstudium,2013,56.0
+UIO Psykologi: årsstudium,2014,57.4
+UIO Psykologi: årsstudium,2015,57.4
+UIO Farmasi,2009,52.0
+UIO Farmasi,2010,46.3
+UIO Farmasi,2011,50.4
+UIO Farmasi,2012,50.5
+UIO Farmasi,2013,51.9
+UIO Farmasi,2014,49.0
+UIO Farmasi,2015,54.7
+UIO Helseledelse og helseøkonomi,2009,50.4
+UIO Helseledelse og helseøkonomi,2010,50.4
+UIO Helseledelse og helseøkonomi,2011,53.5
+UIO Helseledelse og helseøkonomi,2012,52.0
+UIO Helseledelse og helseøkonomi,2013,51.8
+UIO Helseledelse og helseøkonomi,2014,52.5
+UIO Helseledelse og helseøkonomi,2015,53.2
+UIO Sosiologi,2009,49.8
+UIO Sosiologi,2010,50.8
+UIO Sosiologi,2011,50.4
+UIO Sosiologi,2012,50.9
+UIO Sosiologi,2013,50.2
+UIO Sosiologi,2014,49.9
+UIO Sosiologi,2015,48.8
+UIO Tverrfaglige kjønnsstudier: årsstudium,2009,53.5
+UIO Tverrfaglige kjønnsstudier: årsstudium,2010,52.9
+UIO Tverrfaglige kjønnsstudier: årsstudium,2011,53.8
+UIO Tverrfaglige kjønnsstudier: årsstudium,2012,51.9
+UIO Tverrfaglige kjønnsstudier: årsstudium,2013,53.0
+UIO Tverrfaglige kjønnsstudier: årsstudium,2014,53.0
+UIO Tverrfaglige kjønnsstudier: årsstudium,2015,55.7
+UIO Statsvitenskap,2009,51.6
+UIO Statsvitenskap,2010,52.9
+UIO Statsvitenskap,2011,54.2
+UIO Statsvitenskap,2012,53.8
+UIO Statsvitenskap,2013,53.8
+UIO Statsvitenskap,2014,53.8
+UIO Statsvitenskap,2015,51.8
