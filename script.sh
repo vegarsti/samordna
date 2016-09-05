@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Ensure empty files (only necessary if last run crashed, really)
 for uni in NTNU UIO UIB NHH Haraldsplass HIB PHS; do
