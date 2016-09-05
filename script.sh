@@ -26,12 +26,12 @@ function extract {
     # Extract IDs and programme names
     cut -c $int1 tmp1-$uni.txt > tmp-$uni-1.txt
     cut -c $int2 tmp1-$uni.txt |
-    tr ',' ':' > tmp-$uni-2.txt
+    tr ',' ':' > tmp-$uni-2.txt # turn commas into colons
     paste -d ',' tmp-$uni-1.txt tmp-$uni-2.txt > tmp-$uni-studies-IDs.txt
 
     # Extract IDs and scores
     cut -c $int3 tmp1-$uni.txt |
-    tr -s ' ' > tmp-$uni.txt
+    tr -s ' ' > tmp-$uni.txt # turns any number of spaces into one space
 }
 
 
